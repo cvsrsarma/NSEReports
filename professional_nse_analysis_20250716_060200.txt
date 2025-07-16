@@ -1,0 +1,156 @@
+================================================================================
+PROFESSIONAL NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-16 06:02:00
+Data Date: 2025-07-15
+
+📈 BREAKOUT STOCKS
+----------------------------------------------------------------------
+Strategy: Breaking above Bollinger Bands with momentum
+
+ROSSTECH     Rossell Techsys Limited   ₹  480.25 Breakout:  +9.7% RSI:  73.6
+LOYALTEX     Loyal Textile Mills Limit ₹  375.45 Breakout:  +6.0% RSI:  69.2
+SOBHA        Sobha Limited             ₹ 1647.60 Breakout:  +3.5% RSI:  68.5
+AARTIDRUGS   Aarti Drugs Limited       ₹  530.30 Breakout:  +3.3% RSI:  74.3
+IGARASHI     Igarashi Motors India Lim ₹  595.75 Breakout:  +2.9% RSI:  74.3
+OMAXAUTO     Omax Autos Limited        ₹  109.65 Breakout:  +2.8% RSI:  72.6
+BHARATGEAR   Bharat Gears Limited      ₹   94.68 Breakout:  +2.5% RSI:  65.6
+SAMHI        Samhi Hotels Limited      ₹  246.32 Breakout:  +2.5% RSI:  73.3
+PATANJALI    Patanjali Foods Limited   ₹ 1744.50 Breakout:  +2.3% RSI:  65.6
+UNITEDTEA    The United Nilgiri Tea Es ₹  480.55 Breakout:  +2.3% RSI:  71.8
+FAZE3Q       Faze Three Limited        ₹  707.10 Breakout:  +2.0% RSI:  68.2
+GARUDA       Garuda Construction and E ₹  142.90 Breakout:  +2.0% RSI:  67.1
+PSPPROJECT   PSP Projects Limited      ₹  827.60 Breakout:  +1.7% RSI:  71.9
+LAXMIDENTL   Laxmi Dental Limited      ₹  467.15 Breakout:  +1.7% RSI:  67.4
+AEROENTER    Aeroflex Enterprises Limi ₹  108.19 Breakout:  +1.3% RSI:  72.7
+
+🔥 TRENDING STOCKS
+----------------------------------------------------------------------
+Strategy: Strong directional movement (ADX > 35)
+
+VESUVIUS     Vesuvius India Limited    ₹  518.70 ADX:  69.6 DOWN RSI:  14.5
+BAJFINANCE   Bajaj Finance Limited     ₹  928.40 ADX:  68.7 DOWN RSI:  10.1
+SMLISUZU     SML Isuzu Limited         ₹ 3194.60 ADX:  65.1 UP   RSI:  84.5
+PFOCUS       Prime Focus Limited       ₹  172.02 ADX:  64.7 UP   RSI:  72.3
+VMART        V-Mart Retail Limited     ₹  778.70 ADX:  64.0 DOWN RSI:  10.4
+HEUBACHIND   Heubach Colorants India L ₹  589.60 ADX:  63.9 UP   RSI:  61.9
+LGHL         Laxmi Goldorna House Limi ₹  803.85 ADX:  62.7 UP   RSI:  66.6
+COFORGE      Coforge Limited           ₹ 1893.90 ADX:  61.1 DOWN RSI:  19.0
+QPOWER       Quality Power Electrical  ₹  774.25 ADX:  60.9 UP   RSI:  67.9
+RBLBANK      RBL Bank Limited          ₹  263.26 ADX:  60.8 UP   RSI:  66.9
+INNOVANA     Innovana Thinklabs Limite ₹  602.25 ADX:  57.4 UP   RSI:  70.5
+GLENMARK     Glenmark Pharmaceuticals  ₹ 2226.10 ADX:  57.1 UP   RSI:  89.2
+FORCEMOT     FORCE MOTORS LTD          ₹   16769 ADX:  56.6 UP   RSI:  70.4
+LANDMARK     Landmark Cars Limited     ₹  535.65 ADX:  56.2 UP   RSI:  60.2
+GABRIEL      Gabriel India Limited     ₹ 1093.50 ADX:  56.0 UP   RSI:  82.0
+ABFRL        Aditya Birla Fashion and  ₹   77.22 ADX:  55.9 DOWN RSI:  30.2
+ROSSTECH     Rossell Techsys Limited   ₹  480.25 ADX:  55.9 UP   RSI:  73.6
+RUSTOMJEE    Keystone Realtors Limited ₹  661.55 ADX:  55.2 UP   RSI:  74.7
+MMP          MMP Industries Limited    ₹  287.45 ADX:  55.1 UP   RSI:  56.8
+SOLARA       Solara Active Pharma Scie ₹  692.35 ADX:  54.7 UP   RSI:  78.1
+
+🚀 MACD BULLISH
+----------------------------------------------------------------------
+Strategy: Bullish MACD crossover signals
+
+MRF          MRF Limited               ₹  150785 MACD: 3026.52 Hist: 685.49
+BOSCHLTD     Bosch Limited             ₹   38320 MACD: 1550.95 Hist: 438.10
+NEULANDLAB   Neuland Laboratories Limi ₹   15273 MACD: 366.93 Hist: 302.31
+WENDT        Wendt (India) Limited     ₹   11391 MACD: 624.00 Hist: 281.82
+3MINDIA      3M India Limited          ₹   29760 MACD: 147.49 Hist: 141.75
+FORCEMOT     FORCE MOTORS LTD          ₹   16769 MACD: 1066.79 Hist: 106.84
+TVSHLTD      TVS Holdings Limited      ₹   12173 MACD: 167.62 Hist:  89.03
+SMLISUZU     SML Isuzu Limited         ₹ 3194.60 MACD: 349.97 Hist:  88.57
+VSTTILLERS   V.S.T Tillers Tractors Li ₹ 4486.50 MACD: 195.37 Hist:  71.09
+AMBER        Amber Enterprises India L ₹ 7840.00 MACD: 312.56 Hist:  54.93
+THEJO        Thejo Engineering Limited ₹ 2339.90 MACD: 100.84 Hist:  50.50
+GODFRYPHLP   Godfrey Phillips India Li ₹ 9360.00 MACD: 153.55 Hist:  46.43
+GLENMARK     Glenmark Pharmaceuticals  ₹ 2226.10 MACD: 142.98 Hist:  42.96
+MANKIND      Mankind Pharma Limited    ₹ 2651.00 MACD:  60.55 Hist:  38.96
+SHREECEM     SHREE CEMENT LIMITED      ₹   31080 MACD: 367.12 Hist:  37.73
+
+🔄 STOCHASTIC RECOVERY
+----------------------------------------------------------------------
+Strategy: Oversold recovery patterns
+
+BHARATFORG   Bharat Forge Limited      ₹ 1237.40 K%:  27.5 D%:  12.2
+ZUARI        Zuari Agro Chemicals Limi ₹  205.49 K%:  29.3 D%:  15.2
+BUTTERFLY    Butterfly Gandhimathi App ₹  710.90 K%:  28.6 D%:  14.8
+HLEGLAS      HLE Glascoat Limited      ₹  426.05 K%:  25.4 D%:  11.7
+WIPRO        Wipro Limited             ₹  257.40 K%:  29.1 D%:  15.4
+OSWALAGRO    Oswal Agro Mills Limited  ₹   82.93 K%:  25.9 D%:  12.8
+BPL          BPL Limited               ₹   86.44 K%:  28.6 D%:  15.8
+FINPIPE      Finolex Industries Limite ₹  208.32 K%:  29.0 D%:  16.5
+CDSL         Central Depository Servic ₹ 1701.40 K%:  23.6 D%:  11.2
+JISLJALEQS   Jain Irrigation Systems L ₹   55.03 K%:  22.1 D%:  10.0
+ARVIND       Arvind Limited            ₹  341.25 K%:  28.9 D%:  17.0
+MCX          Multi Commodity Exchange  ₹ 8322.00 K%:  27.4 D%:  15.6
+GAIL         GAIL (India) Limited      ₹  184.71 K%:  30.0 D%:  18.5
+ASHOKA       Ashoka Buildcon Limited   ₹  207.70 K%:  30.0 D%:  18.6
+SHK          S H Kelkar and Company Li ₹  233.12 K%:  26.2 D%:  15.3
+
+📊 HIGH VOLUME
+----------------------------------------------------------------------
+Strategy: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+----------------------------------------------------------------------
+Strategy: Above Ichimoku cloud configuration
+
+No stocks found matching criteria
+
+🎯 BOLLINGER SQUEEZE
+----------------------------------------------------------------------
+Strategy: Low volatility before potential breakout
+
+HEUBACHIND   Heubach Colorants India L ₹  589.60 BB Width:   0.7% RSI:  61.9
+ITC          ITC Limited               ₹  422.10 BB Width:   2.4% RSI:  56.1
+JAGRAN       Jagran Prakashan Limited  ₹   72.13 BB Width:   2.6% RSI:  50.3
+TMB          Tamilnad Mercantile Bank  ₹  448.55 BB Width:   2.8% RSI:  53.2
+LTTS         L&T Technology Services L ₹ 4350.50 BB Width:   2.9% RSI:  48.3
+TTKPRESTIG   TTK Prestige Limited      ₹  630.85 BB Width:   2.9% RSI:  52.9
+ACL          Andhra Cements Limited    ₹   67.06 BB Width:   3.1% RSI:  56.7
+GEEKAYWIRE   Geekay Wires Limited      ₹   69.77 BB Width:   3.1% RSI:  44.0
+SUNTECK      Sunteck Realty Limited    ₹  438.40 BB Width:   3.1% RSI:  50.3
+STARCEMENT   Star Cement Limited       ₹  211.33 BB Width:   3.2% RSI:  43.2
+SIS          SIS LIMITED               ₹  375.20 BB Width:   3.2% RSI:  59.1
+AUTOAXLES    Automotive Axles Limited  ₹ 1812.70 BB Width:   3.2% RSI:  57.0
+ICICIBANK    ICICI Bank Limited        ₹ 1430.80 BB Width:   3.2% RSI:  50.1
+WONDERLA     Wonderla Holidays Limited ₹  638.90 BB Width:   3.3% RSI:  46.5
+SHALPAINTS   Shalimar Paints Limited   ₹   97.37 BB Width:   3.3% RSI:  48.9
+
+💰 HIGH MONEY FLOW
+----------------------------------------------------------------------
+Strategy: Strong buying pressure (MFI > 70)
+
+63MOONS      63 moons technologies lim ₹ 1073.50 MFI:   NaN UP  
+AARTIDRUGS   Aarti Drugs Limited       ₹  530.30 MFI:   NaN UP  
+AARTIPHARM   Aarti Pharmalabs Limited  ₹  944.70 MFI:   NaN UP  
+AAVAS        Aavas Financiers Limited  ₹ 1952.50 MFI:   NaN UP  
+ABCAPITAL    Aditya Birla Capital Limi ₹  270.75 MFI:   NaN UP  
+ABDL         Allied Blenders and Disti ₹  491.45 MFI:   NaN UP  
+ABSLAMC      Aditya Birla Sun Life AMC ₹  864.65 MFI:   NaN UP  
+ACC          ACC Limited               ₹ 1979.90 MFI:   NaN UP  
+ACL          Andhra Cements Limited    ₹   67.06 MFI:   NaN UP  
+ACMESOLAR    Acme Solar Holdings Limit ₹  282.64 MFI:   NaN UP  
+ADANIPOWER   Adani Power Limited       ₹  608.10 MFI:   NaN UP  
+ADOR         Ador Welding Limited      ₹ 1081.70 MFI:   NaN UP  
+ADVENZYMES   Advanced Enzyme Technolog ₹  327.20 MFI:   NaN UP  
+AEROENTER    Aeroflex Enterprises Limi ₹  108.19 MFI:   NaN UP  
+AEROFLEX     Aeroflex Industries Limit ₹  214.83 MFI:   NaN UP  
+
+================================================================================
+TECHNICAL ANALYSIS COMPLETE
+Key Insights:
+• Breakout stocks may continue upward momentum
+• High ADX stocks show strong directional movement
+• MACD bullish signals indicate potential uptrends
+• Stochastic recovery suggests oversold bounce opportunities
+• High OBV shows institutional buying interest
+• Ichimoku bullish setups provide comprehensive trend confirmation
+• Bollinger squeeze often precedes volatility expansion
+• High MFI indicates strong buying pressure
+⚠️  For educational purposes only. Always conduct thorough research!
+================================================================================

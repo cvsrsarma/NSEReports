@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-07-16 06:10:34
+Data Date: 2025-07-15
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹150785.00 RSI: 68.4
+PAGEIND      Page Industries Limited      ₹49020.00 RSI: 60.6
+HONAUT       Honeywell Automation Indi... ₹40730.00 RSI: 63.2
+SHREECEM     SHREE CEMENT LIMITED         ₹31080.00 RSI: 57.2
+3MINDIA      3M India Limited             ₹29760.00 RSI: 62.9
+FORCEMOT     FORCE MOTORS LTD             ₹16769.00 RSI: 70.4
+MAHSCOOTER   Maharashtra Scooters Limi... ₹14574.00 RSI: 55.5
+BAJAJHLDNG   Bajaj Holdings & Investme... ₹14164.00 RSI: 56.4
+ULTRACEMCO   UltraTech Cement Limited     ₹12502.00 RSI: 67.6
+BHARATRAS    Bharat Rasayan Limited       ₹11429.00 RSI: 66.9
+TASTYBITE    Tasty Bite Eatables Limit... ₹11284.00 RSI: 58.5
+GILLETTE     Gillette India Limited       ₹10996.00 RSI: 65.9
+VOLTAMP      Voltamp Transformers Limi... ₹ 9745.50 RSI: 63.7
+GODFRYPHLP   Godfrey Phillips India Li... ₹ 9360.00 RSI: 66.2
+APARINDS     Apar Industries Limited      ₹ 9040.50 RSI: 65.7
+AMBER        Amber Enterprises India L... ₹ 7840.00 RSI: 71.9
+NSIL         Nalwa Sons Investments Li... ₹ 7203.50 RSI: 60.4
+ICRA         ICRA Limited                 ₹ 7004.50 RSI: 68.6
+POLYCAB      Polycab India Limited        ₹ 6944.50 RSI: 72.5
+BLUEDART     Blue Dart Express Limited    ₹ 6912.00 RSI: 63.9
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  928.40 RSI: 10.1
+VMART        V-Mart Retail Limited        ₹  778.70 RSI: 10.4
+JINDWORLD    Jindal Worldwide Limited     ₹   42.23 RSI: 12.6
+ROTO         Roto Pumps Limited           ₹   97.20 RSI: 12.6
+ANUHPHR      Anuh Pharma Limited          ₹  106.13 RSI: 12.7
+VESUVIUS     Vesuvius India Limited       ₹  518.70 RSI: 14.5
+COFORGE      Coforge Limited              ₹ 1893.90 RSI: 19.0
+PARAS        Paras Defence and Space T... ₹  808.40 RSI: 20.7
+PROTEAN      Protean eGov Technologies... ₹  792.65 RSI: 22.7
+ROSSELLIND   Rossell India Limited        ₹   71.40 RSI: 23.7
+JNKINDIA     JNK India Limited            ₹  308.45 RSI: 24.6
+TRIVENI      Triveni Engineering & Ind... ₹  363.95 RSI: 25.0
+MASTERTR     Master Trust Limited         ₹  128.92 RSI: 26.3
+SHARDAMOTR   Sharda Motor Industries L... ₹ 1057.60 RSI: 26.5
+POLYPLEX     Polyplex Corporation Limi... ₹ 1138.30 RSI: 26.6
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+VESUVIUS     Vesuvius India Limited       ₹  518.70 ADX: 69.6 DOWN
+BAJFINANCE   Bajaj Finance Limited        ₹  928.40 ADX: 68.7 DOWN
+SMLISUZU     SML Isuzu Limited            ₹ 3194.60 ADX: 65.1 UP
+PFOCUS       Prime Focus Limited          ₹  172.02 ADX: 64.7 UP
+VMART        V-Mart Retail Limited        ₹  778.70 ADX: 64.0 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  589.60 ADX: 63.9 UP
+LGHL         Laxmi Goldorna House Limi... ₹  803.85 ADX: 62.7 UP
+COFORGE      Coforge Limited              ₹ 1893.90 ADX: 61.1 DOWN
+QPOWER       Quality Power Electrical ... ₹  774.25 ADX: 60.9 UP
+RBLBANK      RBL Bank Limited             ₹  263.26 ADX: 60.8 UP
+INNOVANA     Innovana Thinklabs Limite... ₹  602.25 ADX: 57.4 UP
+GLENMARK     Glenmark Pharmaceuticals ... ₹ 2226.10 ADX: 57.1 UP
+FORCEMOT     FORCE MOTORS LTD             ₹16769.00 ADX: 56.6 UP
+LANDMARK     Landmark Cars Limited        ₹  535.65 ADX: 56.2 UP
+GABRIEL      Gabriel India Limited        ₹ 1093.50 ADX: 56.0 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================
