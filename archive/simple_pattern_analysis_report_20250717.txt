@@ -20,33 +20,33 @@ SUMMARY STATISTICS:
   Failed Analyses: 329
 
 SIGNAL DISTRIBUTION:
-  Bullish Signals: 955
-  Bearish Signals: 117
-  Neutral Signals: 695
+  Bullish Signals: 864
+  Bearish Signals: 129
+  Neutral Signals: 774
 
 TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
 Symbol     Score  Signal   Price      Change%    Trend     
 ----------------------------------------------------------------------
-INDIGOPNTS 80     neutral  ₹1202.20    +10.84% bullish   
-GOCOLORS   75     bullish  ₹902.35      +3.79% bullish   
-IMPAL      75     bullish  ₹1150.30     +5.56% bullish   
-INGERRAND  70     neutral  ₹4242.40    +11.58% bullish   
-LUMAXIND   70     neutral  ₹3913.70    +22.42% bullish   
-UPL        70     neutral  ₹692.65      +8.38% bullish   
-ANURAS     65     bullish  ₹1150.40     +9.24% bullish   
-BATAINDIA  65     bullish  ₹1229.00     +0.84% bullish   
-EICHERMOT  65     bullish  ₹5650.00     +4.80% bullish   
-LGBBROSLTD 65     bullish  ₹1305.10     +2.26% bullish   
-MARICO     65     bullish  ₹733.30      +4.11% bullish   
-ULTRACEMCO 65     bullish  ₹12495.00   +10.97% bullish   
-ACC        60     bullish  ₹1978.80     +3.84% bullish   
-AJAXENGG   60     bearish  ₹708.35     +14.01% bullish   
-AWL        60     neutral  ₹278.30      +3.92% bearish   
-BANSALWIRE 60     neutral  ₹415.90      +7.89% bullish   
-CENTENKA   60     bearish  ₹520.85      +9.07% bullish   
-DABUR      60     bearish  ₹528.70      +8.88% bullish   
-DELHIVERY  60     bearish  ₹425.30     +14.37% bullish   
-HEUBACHIND 60     neutral  ₹600.40      +2.45% bullish   
+INDIGOPNTS 80     neutral  ₹1200.30    +10.67% bullish   
+ASTRAZEN   70     neutral  ₹9170.50     -8.81% bearish   
+INDOCO     70     neutral  ₹339.10     +16.19% bullish   
+UDAICEMENT 70     neutral  ₹35.34      +17.14% bullish   
+360ONE     65     bullish  ₹1197.60    +12.39% bullish   
+APCOTEXIND 65     bullish  ₹399.25      +3.93% bullish   
+ASTERDM    65     bullish  ₹599.90      +5.36% bullish   
+EICHERMOT  65     bullish  ₹5626.50     +4.37% bullish   
+IMPAL      65     bullish  ₹1148.80     +5.42% bullish   
+MARICO     65     bullish  ₹731.65      +3.88% bullish   
+ULTRACEMCO 65     bullish  ₹12453.00   +10.60% bullish   
+VGUARD     65     bullish  ₹394.75      +4.72% bullish   
+ACC        60     bearish  ₹1991.90     +4.53% bullish   
+AJAXENGG   60     bearish  ₹703.85     +13.29% bullish   
+AMBUJACEM  60     bearish  ₹595.50      +6.34% bullish   
+ASAHIINDIA 60     bearish  ₹850.70     +15.26% bullish   
+BAJAJCON   60     bearish  ₹237.40     +36.26% bullish   
+BLUESTARCO 60     bearish  ₹1860.60    +18.55% bullish   
+BORANA     60     neutral  ₹236.31      -4.60% bearish   
+CMSINFO    60     bearish  ₹520.45      +5.05% bullish   
 
 ================================================================================
 ⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
