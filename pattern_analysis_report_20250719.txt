@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-19
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1770
+• Failed Analyses: 326
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 941
+• Bearish Signals: 186
+• Neutral Signals: 643
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 17
+• Moderate Risk: 635
+• High Risk: 949
+• Very High Risk: 169
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+CUPID      95.0   bullish  67.5       high         +42.94%
+GARUDA     93.0   bullish  66.5       very_high     +36.76%
+BOROSCI    80.0   bearish  60.0       high         +29.64%
+MAHESHWARI 80.0   bullish  60.0       high          +6.85%
+QUADFUTURE 80.0   neutral  40.0       high          +5.23%
+RRKABEL    80.0   neutral  59.4       high          +5.95%
+DPABHUSHAN 79.0   neutral  59.5       high          +8.16%
+20MICRONS  78.0   neutral  39.0       high         +16.14%
+BVCL       78.0   neutral  58.7       high         +11.81%
+JGCHEM     78.0   bullish  59.0       high         +34.90%
+MAXESTATES 78.0   neutral  39.0       high          +7.04%
+AAATECH    77.0   neutral  38.5       high          +4.82%
+HEUBACHIND 77.0   neutral  58.4       low           +1.94%
+HGS        77.0   neutral  58.5       high         +17.74%
+INDOBORAX  77.0   bullish  58.5       high         +21.21%
+INFIBEAM   77.0   bullish  38.5       very_high     -30.98%
+WCIL       77.0   bullish  58.5       high          +1.07%
+FEDFINA    76.0   neutral  58.0       high         +13.45%
+THERMAX    76.0   neutral  38.0       high          +9.15%
+IFGLEXPOR  75.0   bullish  37.5       very_high     -47.21%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

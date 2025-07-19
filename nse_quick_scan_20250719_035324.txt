@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-07-19 03:53:24
+Data Date: 2025-07-18
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹148060.00 RSI: 57.9
+HONAUT       Honeywell Automation Indi... ₹40470.00 RSI: 59.4
+3MINDIA      3M India Limited             ₹29900.00 RSI: 62.8
+FORCEMOT     FORCE MOTORS LTD             ₹16617.00 RSI: 67.6
+DIXON        Dixon Technologies (India... ₹15960.00 RSI: 63.4
+NEULANDLAB   Neuland Laboratories Limi... ₹14263.00 RSI: 64.0
+ULTRACEMCO   UltraTech Cement Limited     ₹12498.00 RSI: 66.3
+GILLETTE     Gillette India Limited       ₹11258.00 RSI: 69.7
+BHARATRAS    Bharat Rasayan Limited       ₹11227.00 RSI: 59.6
+VOLTAMP      Voltamp Transformers Limi... ₹ 9548.00 RSI: 57.2
+GODFRYPHLP   Godfrey Phillips India Li... ₹ 9355.50 RSI: 64.4
+APARINDS     Apar Industries Limited      ₹ 8902.00 RSI: 61.0
+NUVAMA       Nuvama Wealth Management ... ₹ 7728.50 RSI: 55.8
+AMBER        Amber Enterprises India L... ₹ 7603.50 RSI: 62.9
+DYNAMATECH   Dynamatic Technologies Li... ₹ 7266.00 RSI: 56.5
+NSIL         Nalwa Sons Investments Li... ₹ 7173.00 RSI: 56.3
+POLYCAB      Polycab India Limited        ₹ 6926.00 RSI: 69.4
+CERA         Cera Sanitaryware Limited    ₹ 6921.50 RSI: 56.1
+BLUEDART     Blue Dart Express Limited    ₹ 6856.50 RSI: 60.4
+JKCEMENT     JK Cement Limited            ₹ 6498.00 RSI: 67.1
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+ASHOKLEY     Ashok Leyland Limited        ₹  122.25 RSI: 10.3
+BAJFINANCE   Bajaj Finance Limited        ₹  942.00 RSI: 11.1
+VMART        V-Mart Retail Limited        ₹  787.35 RSI: 11.2
+ANUHPHR      Anuh Pharma Limited          ₹   94.33 RSI: 11.5
+ROTO         Roto Pumps Limited           ₹   94.45 RSI: 13.3
+IFGLEXPOR    IFGL Refractories Limited    ₹  277.00 RSI: 15.2
+JINDWORLD    Jindal Worldwide Limited     ₹   41.95 RSI: 15.3
+MOTHERSON    Samvardhana Motherson Int... ₹  100.97 RSI: 15.4
+VESUVIUS     Vesuvius India Limited       ₹  538.65 RSI: 16.7
+COFORGE      Coforge Limited              ₹ 1859.30 RSI: 18.4
+MSUMI        Motherson Sumi Wiring Ind... ₹   43.52 RSI: 18.9
+PARAS        Paras Defence and Space T... ₹  795.40 RSI: 20.4
+DYCL         Dynamic Cables Limited       ₹  467.15 RSI: 23.3
+ROSSELLIND   Rossell India Limited        ₹   68.82 RSI: 23.6
+NEWGEN       Newgen Software Technolog... ₹  962.60 RSI: 23.7
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  942.00 ADX: 70.8 DOWN
+VESUVIUS     Vesuvius India Limited       ₹  538.65 ADX: 69.8 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  597.40 ADX: 67.8 UP
+SMLISUZU     SML Isuzu Limited            ₹ 3309.00 ADX: 67.6 UP
+VMART        V-Mart Retail Limited        ₹  787.35 ADX: 66.3 DOWN
+QPOWER       Quality Power Electrical ... ₹  883.75 ADX: 63.9 UP
+RBLBANK      RBL Bank Limited             ₹  263.14 ADX: 63.9 UP
+GLENMARK     Glenmark Pharmaceuticals ... ₹ 2225.50 ADX: 62.6 UP
+PFOCUS       Prime Focus Limited          ₹  168.42 ADX: 60.8 UP
+LGHL         Laxmi Goldorna House Limi... ₹  819.35 ADX: 60.7 UP
+COFORGE      Coforge Limited              ₹ 1859.30 ADX: 60.5 DOWN
+FORCEMOT     FORCE MOTORS LTD             ₹16617.00 ADX: 58.4 UP
+LAURUSLABS   Laurus Labs Limited          ₹  827.00 ADX: 58.0 UP
+BIL          Bhartiya International Li... ₹  850.75 ADX: 57.9 UP
+LANDMARK     Landmark Cars Limited        ₹  538.00 ADX: 57.5 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================
