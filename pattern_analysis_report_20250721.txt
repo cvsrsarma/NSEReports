@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-21
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1768
+• Failed Analyses: 328
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1006
+• Bearish Signals: 144
+• Neutral Signals: 618
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 13
+• Moderate Risk: 635
+• High Risk: 946
+• Very High Risk: 174
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+SHYAMMETL  95.0   bullish  67.5       moderate      +7.21%
+NOVAAGRI   94.0   bullish  67.0       high         +12.46%
+SANGHIIND  87.0   bullish  63.5       moderate     +11.72%
+ANMOL      85.0   bullish  42.5       high         -10.20%
+JGCHEM     85.0   bullish  62.5       very_high     +32.74%
+BHAGYANGR  80.0   neutral  60.0       very_high     +27.22%
+DPABHUSHAN 80.0   neutral  60.0       high         +13.30%
+LAXMIDENTL 80.0   neutral  60.0       high         +18.46%
+MODISONLTD 80.0   neutral  60.0       high         +13.91%
+NUVOCO     80.0   neutral  60.0       moderate     +11.34%
+AADHARHFC  79.0   neutral  59.5       high         +15.79%
+SAURASHCEM 79.0   neutral  59.5       high         +13.27%
+SHREEPUSHK 79.0   bullish  59.5       high         +12.26%
+AARTIDRUGS 78.0   neutral  59.0       high         +15.33%
+BVCL       78.0   neutral  59.0       high         +18.68%
+DCMNVL     78.0   neutral  59.0       high          +8.10%
+IXIGO      78.0   neutral  39.0       high         +17.49%
+MHLXMIRU   78.0   bullish  59.0       moderate      +2.85%
+UDAICEMENT 78.0   bullish  59.0       moderate     +21.96%
+AMBUJACEM  77.0   neutral  58.5       moderate      +9.27%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-21
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1768
+  Failed Analyses: 328
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1047
+  Bearish Signals: 89
+  Neutral Signals: 632
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+INDIGOPNTS 80     neutral  ₹1200.20     +6.33% bullish   
+AARTIDRUGS 70     neutral  ₹545.05     +15.33% bullish   
+BANSALWIRE 70     neutral  ₹417.30      +5.66% bullish   
+YATHARTH   70     neutral  ₹643.20     +21.32% bullish   
+ELGIEQUIP  65     bullish  ₹552.90      +4.98% bullish   
+GARFIBRES  65     bullish  ₹920.35      +2.06% bullish   
+HONDAPOWER 65     bullish  ₹2993.00     +0.62% bullish   
+LGBBROSLTD 65     bullish  ₹1293.40     -0.14% bullish   
+POWERGRID  65     bullish  ₹297.00      +0.52% bullish   
+TTKPRESTIG 65     bullish  ₹633.30      +1.61% bullish   
+ACI        60     bearish  ₹701.85     +10.65% bullish   
+ACL        60     neutral  ₹71.23       +3.88% bullish   
+AKSHARCHEM 60     bearish  ₹313.55     +20.36% bullish   
+ALLDIGI    60     bearish  ₹956.80      +3.93% bullish   
+APTUS      60     bearish  ₹352.35      +8.70% bullish   
+BLKASHYAP  60     neutral  ₹72.23       +1.29% bullish   
+CHENNPETRO 60     bearish  ₹779.70     +14.05% bullish   
+CHEVIOT    60     bullish  ₹1171.90     +4.48% bullish   
+CUB        60     bullish  ₹212.26      +6.16% bullish   
+DIXON      60     bearish  ₹16281.00   +10.08% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
