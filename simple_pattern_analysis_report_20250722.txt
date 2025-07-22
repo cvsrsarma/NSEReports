@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-22
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1763
+  Failed Analyses: 333
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1073
+  Bearish Signals: 82
+  Neutral Signals: 608
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+ULTRACEMCO 75     bullish  ₹12452.00    +9.97% bullish   
+KHANDSE    70     neutral  ₹27.83      +21.11% bullish   
+MHRIL      70     neutral  ₹360.35      +3.71% bullish   
+SPMLINFRA  70     neutral  ₹287.06     +28.65% bullish   
+ANURAS     65     bullish  ₹1155.20     +4.61% bullish   
+CARBORUNIV 65     bullish  ₹979.75      +5.06% bullish   
+CHEVIOT    65     bullish  ₹1176.50     +5.21% bullish   
+CMSINFO    65     bullish  ₹516.55      +4.68% bullish   
+GREENLAM   65     bullish  ₹242.13      -0.81% bullish   
+INDIGOPNTS 65     bullish  ₹1200.10     +7.61% bullish   
+IOC        65     bullish  ₹151.98      +6.29% bullish   
+JSWENERGY  65     bullish  ₹531.55      +2.85% bullish   
+LGBBROSLTD 65     bullish  ₹1292.50     +1.34% bullish   
+SBIN       65     bullish  ₹815.00      +1.12% bullish   
+TTKPRESTIG 65     bullish  ₹636.55      +3.10% bullish   
+ALLDIGI    60     bearish  ₹961.30      +6.50% bullish   
+APTUS      60     bearish  ₹346.50      +8.16% bullish   
+ARKADE     60     bearish  ₹208.84      +8.75% bullish   
+BEARDSELL  60     neutral  ₹31.75       -5.95% bearish   
+CSBBANK    60     bearish  ₹425.20      +9.32% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

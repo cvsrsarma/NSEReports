@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-22
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1763
+• Failed Analyses: 333
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1008
+• Bearish Signals: 167
+• Neutral Signals: 588
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 14
+• Moderate Risk: 654
+• High Risk: 929
+• Very High Risk: 166
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+NOVAAGRI   94.0   bullish  67.0       high         +19.13%
+SANGHIIND  85.0   bullish  62.5       moderate     +14.26%
+NELCAST    81.0   neutral  60.4       high         +21.14%
+AADHARHFC  80.0   neutral  60.0       moderate     +17.54%
+CYIENTDLM  80.0   bullish  60.0       moderate      +2.72%
+GATEWAY    80.0   bullish  59.9       moderate      -1.65%
+SAURASHCEM 80.0   neutral  60.0       high         +20.77%
+20MICRONS  79.0   neutral  59.4       high         +20.22%
+AVTNPL     79.0   neutral  59.5       high         +15.52%
+BVCL       79.0   neutral  59.5       high         +28.76%
+GMDCLTD    79.0   neutral  39.5       high         +13.17%
+KCP        79.0   neutral  59.0       high          +5.55%
+BHAGYANGR  78.0   neutral  59.0       very_high     +38.03%
+BIRLACORPN 78.0   neutral  59.0       moderate      +7.42%
+IXIGO      78.0   neutral  58.8       high         +23.93%
+MAPMYINDIA 78.0   neutral  59.0       moderate      +4.49%
+NUVOCO     78.0   neutral  59.0       high         +14.06%
+UDAICEMENT 78.0   bullish  59.0       moderate     +24.12%
+3MINDIA    77.0   neutral  58.5       moderate      +6.84%
+AGI        77.0   neutral  58.1       high         +16.76%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
