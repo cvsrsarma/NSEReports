@@ -1,0 +1,152 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This enhanced scan uses multiple technical analysis strategies to highlight stocks:
+- Golden Cross: SMA50 > SMA200 with bullish momentum.
+- Breakout stocks: Price breaking above Bollinger Bands with strength.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover with positive histogram.
+- Stochastic recovery: Oversold recovery with Stochastic turning up.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud with bullish signals.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+ENHANCED NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-23 20:34:23
+Data Date: 2025-07-23
+
+🥇 GOLDEN CROSS STOCKS
+------------------------------------------------------------
+Description: Golden Cross (SMA50 > SMA200) with bullish momentum
+
+SMLISUZU     SML Isuzu Limited              ₹ 4039.20 RSI:  91.1 SMA50:  2445.1
+DATAMATICS   Datamatics Global Services Limited ₹  846.25 RSI:  90.7 SMA50:   666.8
+INFOBEAN     InfoBeans Technologies Limited ₹  538.25 RSI:  89.0 SMA50:   383.0
+TI           Tilaknagar Industries Limited  ₹  473.25 RSI:  85.2 SMA50:   358.0
+ASHAPURMIN   Ashapura Minechem Limited      ₹  569.50 RSI:  83.9 SMA50:   447.2
+RELIGARE     Religare Enterprises Limited   ₹  289.81 RSI:  82.7 SMA50:   241.7
+NUVOCO       Nuvoco Vistas Corporation Limited ₹  410.30 RSI:  82.7 SMA50:   360.1
+MANGCHEFER   Mangalore Chemicals & Fertilizers Limited ₹  320.00 RSI:  81.3 SMA50:   266.4
+MCLEODRUSS   Mcleod Russel India Limited    ₹   43.77 RSI:  81.0 SMA50:    35.1
+GLOBUSSPR    Globus Spirits Limited         ₹ 1134.10 RSI:  80.9 SMA50:  1005.5
+PARADEEP     Paradeep Phosphates Limited    ₹  200.15 RSI:  80.8 SMA50:   163.3
+PAYTM        One 97 Communications Limited  ₹ 1071.15 RSI:  80.3 SMA50:   927.0
+PATANJALI    Patanjali Foods Limited        ₹ 1935.10 RSI:  80.2 SMA50:  1748.9
+DELHIVERY    Delhivery Limited              ₹  444.20 RSI:  79.9 SMA50:   380.0
+IXIGO        Le Travenues Technology Limited ₹  222.07 RSI:  79.2 SMA50:   179.9
+LAURUSLABS   Laurus Labs Limited            ₹  822.50 RSI:  79.1 SMA50:   719.5
+ROHLTD       Royal Orchid Hotels Limited    ₹  435.50 RSI:  79.0 SMA50:   392.8
+JMFINANCIL   JM Financial Limited           ₹  179.59 RSI:  78.1 SMA50:   149.7
+GUJAPOLLO    Gujarat Apollo Industries Limited ₹  469.15 RSI:  78.1 SMA50:   381.9
+UTIAMC       UTI Asset Management Company Limited ₹ 1469.80 RSI:  77.4 SMA50:  1286.1
+
+📈 BREAKOUT STOCKS
+------------------------------------------------------------
+Description: Breaking above Bollinger Bands with strength
+
+MANAKALUCO   Manaksia Aluminium Company Limited ₹   33.49 Breakout:  +8.9% RSI:  74.1
+MANAKSIA     Manaksia Limited               ₹   83.03 Breakout:  +5.4% RSI:  74.2
+BOMDYEING    Bombay Dyeing & Mfg Company Limited ₹  188.19 Breakout:  +5.3% RSI:  72.8
+MANAKCOAT    Manaksia Coated Metals & Industries Limited ₹  156.42 Breakout:  +4.2% RSI:  71.6
+SHANTIGEAR   Shanthi Gears Limited          ₹  580.40 Breakout:  +3.6% RSI:  72.5
+RADHIKAJWE   Radhika Jeweltech Limited      ₹  103.08 Breakout:  +3.0% RSI:  71.7
+ELGIEQUIP    Elgi Equipments Limited        ₹  589.75 Breakout:  +2.9% RSI:  73.8
+ORIENTCEM    Orient Cement Limited          ₹  255.58 Breakout:  +2.8% RSI:  52.2
+INDTERRAIN   Indian Terrain Fashions Limited ₹   42.15 Breakout:  +2.6% RSI:  62.6
+HISARMETAL   Hisar Metal Industries Limited ₹  208.50 Breakout:  +2.5% RSI:  66.2
+INDOFARM     Indo Farm Equipment Limited    ₹  210.22 Breakout:  +2.3% RSI:  64.6
+NELCAST      Nelcast Limited                ₹  165.05 Breakout:  +2.3% RSI:  71.7
+MOTOGENFIN   The Motor & General Finance Limited ₹   28.33 Breakout:  +2.1% RSI:  65.6
+SAURASHCEM   Saurashtra Cement Limited      ₹  107.14 Breakout:  +1.8% RSI:  72.4
+UNITEDPOLY   United Polyfab Gujarat Limited ₹   22.81 Breakout:  +1.8% RSI:  54.2
+
+🔥 TRENDING STOCKS
+------------------------------------------------------------
+Description: Strong directional movement (ADX > 35)
+
+BAJFINANCE   Bajaj Finance Limited          ₹  968.30 ADX:  71.9 DOWN
+VESUVIUS     Vesuvius India Limited         ₹  549.80 ADX:  69.3 DOWN
+SMLISUZU     SML Isuzu Limited              ₹ 4039.20 ADX:  69.1 UP  
+VMART        V-Mart Retail Limited          ₹  763.75 ADX:  68.1 DOWN
+HEUBACHIND   Heubach Colorants India Limited ₹  592.20 ADX:  67.0 UP  
+GLENMARK     Glenmark Pharmaceuticals Limited ₹ 2138.80 ADX:  63.7 UP  
+KHANDSE      Khandwala Securities Limited   ₹   26.88 ADX:  63.3 UP  
+QPOWER       Quality Power Electrical Equipments Limited ₹  869.80 ADX:  63.2 UP  
+BIL          Bhartiya International Limited ₹  942.85 ADX:  62.4 UP  
+UDAICEMENT   Udaipur Cement Works Limited   ₹   37.24 ADX:  62.4 UP  
+LGHL         Laxmi Goldorna House Limited   ₹  823.60 ADX:  60.8 UP  
+AVTNPL       AVT Natural Products Limited   ₹   75.32 ADX:  60.7 UP  
+COFORGE      Coforge Limited                ₹ 1849.70 ADX:  60.1 DOWN
+RBLBANK      RBL Bank Limited               ₹  258.92 ADX:  59.1 UP  
+LAURUSLABS   Laurus Labs Limited            ₹  822.50 ADX:  59.0 UP  
+KAJARIACER   Kajaria Ceramics Limited       ₹ 1214.50 ADX:  58.7 UP  
+ROTO         Roto Pumps Limited             ₹   89.95 ADX:  57.6 DOWN
+FORCEMOT     FORCE MOTORS LTD               ₹   17140 ADX:  57.4 UP  
+PROZONER     Prozone Realty Limited         ₹   40.51 ADX:  57.2 UP  
+SOLARA       Solara Active Pharma Sciences Limited ₹  677.20 ADX:  56.3 UP  
+
+🚀 MACD BULLISH
+------------------------------------------------------------
+Description: Bullish MACD crossover with positive histogram
+
+3MINDIA      3M India Limited               ₹   31525 MACD: 467.15 Hist: 225.03
+NEULANDLAB   Neuland Laboratories Limited   ₹   13717 MACD: 547.44 Hist: 118.00
+TVSHLTD      TVS Holdings Limited           ₹   12363 MACD: 349.11 Hist: 102.71
+DIXON        Dixon Technologies (India) Limited ₹   16556 MACD: 386.78 Hist:  88.73
+SMLISUZU     SML Isuzu Limited              ₹ 4039.20 MACD: 439.14 Hist:  79.30
+BOSCHLTD     Bosch Limited                  ₹   37980 MACD: 1611.93 Hist:  79.09
+SHREECEM     SHREE CEMENT LIMITED           ₹   32115 MACD: 412.99 Hist:  74.81
+ORISSAMINE   The Orissa Minerals Development Company Limited ₹ 5192.10 MACD:  39.48 Hist:  69.09
+GODFRYPHLP   Godfrey Phillips India Limited ₹ 9384.00 MACD: 257.44 Hist:  55.33
+VADILALIND   Vadilal Industries Limited     ₹ 5651.50 MACD: -20.49 Hist:  53.60
+THERMAX      Thermax Limited                ₹ 3869.20 MACD: 111.86 Hist:  51.51
+ESABINDIA    Esab India Limited             ₹ 5780.50 MACD: 151.79 Hist:  50.82
+CRAFTSMAN    Craftsman Automation Limited   ₹ 6405.50 MACD: 272.92 Hist:  45.63
+ANANDRATHI   Anand Rathi Wealth Limited     ₹ 2686.50 MACD: 167.06 Hist:  41.77
+HDFCAMC      HDFC Asset Management Company Limited ₹ 5599.00 MACD: 167.47 Hist:  40.30
+
+🔄 STOCHASTIC RECOVERY
+------------------------------------------------------------
+Description: Oversold recovery with Stochastic turning up
+
+VARDMNPOLY   Vardhman Polytex Limited       ₹   11.09 K%:  26.3 D%:  10.9
+HLEGLAS      HLE Glascoat Limited           ₹  423.05 K%:  30.0 D%:  14.8
+PASUPTAC     Pasupati Acrylon Limited       ₹   51.13 K%:  24.3 D%:  10.1
+NPST         Network People Services Technologies Limited ₹ 1877.60 K%:  24.0 D%:   9.8
+IFCI         IFCI Limited                   ₹   61.81 K%:  29.9 D%:  17.0
+ASHIANA      Ashiana Housing Limited        ₹  328.25 K%:  25.1 D%:  12.8
+LMW          LMW Limited                    ₹   15942 K%:  21.6 D%:  10.1
+BASML        Bannari Amman Spinning Mills Limited ₹   31.70 K%:  27.1 D%:  15.8
+INDGN        Indegene Limited               ₹  558.95 K%:  26.7 D%:  15.6
+ALMONDZ      Almondz Global Securities Limited ₹   21.41 K%:  27.0 D%:  16.2
+GAEL         Gujarat Ambuja Exports Limited ₹  111.26 K%:  26.9 D%:  16.3
+BCONCEPTS    Brand Concepts Limited         ₹  332.45 K%:  25.9 D%:  15.3
+EXPLEOSOL    Expleo Solutions Limited       ₹ 1234.20 K%:  29.3 D%:  18.8
+DCI          Dc Infotech And Communication Limited ₹  262.60 K%:  26.7 D%:  16.5
+RAINBOW      Rainbow Childrens Medicare Limited ₹ 1534.50 K%:  24.6 D%:  14.5
+
+📊 HIGH VOLUME
+------------------------------------------------------------
+Description: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+------------------------------------------------------------
+Description: Above Ichimoku cloud with bullish signals
+
+No stocks found matching criteria
+
+================================================================================
+ANALYSIS COMPLETE
+⚠️  For educational purposes only. Conduct your own research!
+================================================================================

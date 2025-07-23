@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-23
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1759
+  Failed Analyses: 337
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1055
+  Bearish Signals: 94
+  Neutral Signals: 610
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+LAURUSLABS 80     neutral  ₹822.50     +23.39% bullish   
+MHRIL      70     neutral  ₹367.25      +6.37% bullish   
+SPMLINFRA  70     neutral  ₹290.72     +26.38% bullish   
+ANURAS     65     bullish  ₹1150.00     +2.92% bullish   
+APCOTEXIND 65     bullish  ₹396.85      +3.51% bullish   
+CARBORUNIV 65     bullish  ₹977.15      +2.80% bullish   
+EIHAHOTELS 65     bullish  ₹388.60      +3.28% bullish   
+INDIGOPNTS 65     bullish  ₹1200.40     +9.67% bullish   
+IOC        65     bullish  ₹152.35      +8.56% bullish   
+PREMIERPOL 65     bullish  ₹53.10       +0.84% bullish   
+SAIL       65     bullish  ₹134.79      +4.21% bullish   
+SBIN       65     bullish  ₹820.65      +3.57% bullish   
+ULTRACEMCO 65     bullish  ₹12372.00   +10.23% bullish   
+ACI        60     bearish  ₹697.85      +9.68% bullish   
+ALLDIGI    60     bearish  ₹970.45      +6.63% bullish   
+APTUS      60     bearish  ₹350.30      +9.59% bullish   
+CARTRADE   60     bearish  ₹1962.70    +19.87% bullish   
+CSBBANK    60     bearish  ₹428.80     +11.46% bullish   
+DCMSHRIRAM 60     bearish  ₹1442.10    +27.47% bullish   
+DDEVPLSTIK 60     neutral  ₹324.85     +17.00% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

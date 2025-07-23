@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-23
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1759
+• Failed Analyses: 337
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 968
+• Bearish Signals: 190
+• Neutral Signals: 601
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 19
+• Moderate Risk: 673
+• High Risk: 911
+• Very High Risk: 156
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+MANAKCOAT  91.0   bullish  65.5       very_high     +24.45%
+ECOSMOBLTY 90.0   bullish  65.0       high         +18.62%
+SANGHIIND  87.0   bullish  63.5       moderate     +15.58%
+STARTECK   86.0   bullish  63.0       high          +8.44%
+PRIMO      83.0   bullish  41.5       high          +2.42%
+OSWALSEEDS 82.0   bullish  41.0       high          -7.62%
+JAGSNPHARM 80.0   bearish  60.0       high         +15.80%
+TI         80.0   neutral  59.9       high         +27.37%
+GMDCLTD    79.0   neutral  39.5       high         +12.04%
+MUTHOOTMF  79.0   neutral  59.5       high         +30.91%
+NELCAST    79.0   neutral  59.5       high         +28.17%
+RADHIKAJWE 79.0   neutral  59.5       high         +15.37%
+3MINDIA    78.0   neutral  59.0       moderate      +8.17%
+AGI        78.0   neutral  59.0       high         +17.07%
+DVL        78.0   neutral  59.0       moderate      +8.54%
+KIOCL      78.0   neutral  58.2       high         +19.22%
+MANAKALUCO 78.0   neutral  59.0       very_high     +25.67%
+20MICRONS  77.0   neutral  58.5       high         +23.74%
+CCHHL      77.0   bullish  58.5       very_high      +5.50%
+DCMSHRIRAM 77.0   bullish  58.5       high         +27.47%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
