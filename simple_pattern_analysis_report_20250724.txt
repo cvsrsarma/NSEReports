@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-24
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1757
+  Failed Analyses: 339
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1097
+  Bearish Signals: 79
+  Neutral Signals: 581
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+MHRIL      70     neutral  ₹368.65      +8.96% bullish   
+RADICO     70     neutral  ₹2726.30     +4.20% bullish   
+TIMKEN     70     neutral  ₹3514.20     +8.11% bullish   
+ANURAS     65     bullish  ₹1146.10     +2.91% bullish   
+APCOTEXIND 65     bullish  ₹399.60      +4.95% bullish   
+CARBORUNIV 65     bullish  ₹982.55      +4.67% bullish   
+CGPOWER    65     bullish  ₹680.35      -0.27% bearish   
+DCMSRIND   65     bullish  ₹171.77      +2.43% bullish   
+DENORA     65     bullish  ₹927.40      +5.43% bullish   
+EPACK      65     bullish  ₹357.40      +3.77% bullish   
+FACT       65     bullish  ₹976.70      -5.89% bearish   
+JAMNAAUTO  65     bullish  ₹95.37       +7.75% bullish   
+LGBBROSLTD 65     bullish  ₹1299.40     +4.40% bullish   
+PETRONET   65     bullish  ₹307.65      +2.35% bullish   
+PRSMJOHNSN 65     bullish  ₹159.44      +2.63% bullish   
+SBIN       65     bullish  ₹815.70      +2.93% bullish   
+STOVEKRAFT 65     bullish  ₹587.20      +0.14% bullish   
+CARTRADE   60     bearish  ₹1965.60    +17.00% bullish   
+DIACABS    60     bullish  ₹165.07     +62.66% bullish   
+EIHOTEL    60     bearish  ₹387.65      +7.94% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
