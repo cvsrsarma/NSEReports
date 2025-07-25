@@ -1,0 +1,166 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This enhanced scan uses multiple technical analysis strategies to highlight stocks:
+- Golden Cross: SMA50 > SMA200 with bullish momentum.
+- Breakout stocks: Price breaking above Bollinger Bands with strength.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover with positive histogram.
+- Stochastic recovery: Oversold recovery with Stochastic turning up.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud with bullish signals.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+ENHANCED NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-25 20:48:41
+Data Date: 2025-07-25
+
+🥇 GOLDEN CROSS STOCKS
+------------------------------------------------------------
+Description: Golden Cross (SMA50 > SMA200) with bullish momentum
+
+DATAMATICS   Datamatics Global Services Limited ₹  879.55 RSI:  88.6 SMA50:   683.5
+GLOBUSSPR    Globus Spirits Limited         ₹ 1245.20 RSI:  88.3 SMA50:  1022.2
+TI           Tilaknagar Industries Limited  ₹  497.40 RSI:  87.5 SMA50:   368.6
+INDOBORAX    Indo Borax & Chemicals Limited ₹  290.45 RSI:  84.0 SMA50:   218.4
+LAURUSLABS   Laurus Labs Limited            ₹  837.75 RSI:  81.8 SMA50:   728.6
+NUVOCO       Nuvoco Vistas Corporation Limited ₹  412.80 RSI:  81.7 SMA50:   364.2
+INFOBEAN     InfoBeans Technologies Limited ₹  564.20 RSI:  81.1 SMA50:   398.0
+SYRMA        Syrma SGS Technology Limited   ₹  728.15 RSI:  80.7 SMA50:   603.4
+SHARDACROP   Sharda Cropchem Limited        ₹ 1087.10 RSI:  80.5 SMA50:   793.0
+EVEREADY     Eveready Industries India Limited ₹  428.05 RSI:  79.8 SMA50:   348.4
+SMLISUZU     SML Isuzu Limited              ₹ 3799.40 RSI:  77.8 SMA50:  2556.1
+ETERNAL      ETERNAL LIMITED                ₹  310.55 RSI:  76.8 SMA50:   260.5
+SPIC         Southern Petrochemicals Industries Corporation  Limited ₹   98.63 RSI:  76.7 SMA50:    86.4
+THYROCARE    Thyrocare Technologies Limited ₹ 1312.15 RSI:  76.4 SMA50:  1056.8
+KRSNAA       Krsnaa Diagnostics Limited     ₹  852.60 RSI:  75.6 SMA50:   758.4
+GUJAPOLLO    Gujarat Apollo Industries Limited ₹  466.15 RSI:  75.5 SMA50:   388.6
+MANGCHEFER   Mangalore Chemicals & Fertilizers Limited ₹  315.00 RSI:  75.3 SMA50:   270.2
+POCL         Pondy Oxides & Chemicals Limited ₹ 1097.95 RSI:  74.8 SMA50:   868.5
+SHYAMMETL    Shyam Metalics and Energy Limited ₹  969.00 RSI:  74.5 SMA50:   880.0
+TATVA        Tatva Chintan Pharma Chem Limited ₹ 1145.75 RSI:  73.9 SMA50:   935.0
+
+📈 BREAKOUT STOCKS
+------------------------------------------------------------
+Description: Breaking above Bollinger Bands with strength
+
+TIMESGTY     Times Guaranty Limited         ₹  220.88 Breakout:  +7.7% RSI:  73.7
+VIMTALABS    Vimta Labs Limited             ₹  584.95 Breakout:  +6.0% RSI:  58.7
+TATVA        Tatva Chintan Pharma Chem Limited ₹ 1145.75 Breakout:  +5.7% RSI:  73.9
+UNITEDPOLY   United Polyfab Gujarat Limited ₹   25.11 Breakout:  +5.1% RSI:  63.8
+MASTERTR     Master Trust Limited           ₹  167.78 Breakout:  +4.3% RSI:  72.2
+OLECTRA      Olectra Greentech Limited      ₹ 1480.90 Breakout:  +2.8% RSI:  74.5
+BBTCL        B&B Triplewall Containers Limited ₹  199.21 Breakout:  +2.3% RSI:  70.6
+POCL         Pondy Oxides & Chemicals Limited ₹ 1097.95 Breakout:  +2.2% RSI:  74.8
+HOMEFIRST    Home First Finance Company India Limited ₹ 1479.00 Breakout:  +2.0% RSI:  67.6
+MIRZAINT     Mirza International Limited    ₹   35.64 Breakout:  +1.8% RSI:  69.0
+INSECTICID   Insecticides (India) Limited   ₹ 1046.30 Breakout:  +1.6% RSI:  70.9
+LAOPALA      La Opala RG Limited            ₹  279.15 Breakout:  +0.8% RSI:  71.7
+SENORES      Senores Pharmaceuticals Limited ₹  668.95 Breakout:  +0.7% RSI:  71.4
+MENONBE      Menon Bearings Limited         ₹  130.12 Breakout:  +0.6% RSI:  60.9
+FORTIS       Fortis Healthcare Limited      ₹  845.55 Breakout:  +0.6% RSI:  69.5
+
+🔥 TRENDING STOCKS
+------------------------------------------------------------
+Description: Strong directional movement (ADX > 35)
+
+BAJFINANCE   Bajaj Finance Limited          ₹  913.75 ADX:  72.4 DOWN
+PROSTARM     Prostarm Info Systems Limited  ₹  222.21 ADX:  71.1 UP  
+SMLISUZU     SML Isuzu Limited              ₹ 3799.40 ADX:  69.8 UP  
+VESUVIUS     Vesuvius India Limited         ₹  521.80 ADX:  68.9 DOWN
+HEUBACHIND   Heubach Colorants India Limited ₹  591.50 ADX:  67.3 UP  
+VMART        V-Mart Retail Limited          ₹  804.05 ADX:  66.3 DOWN
+AVTNPL       AVT Natural Products Limited   ₹   76.44 ADX:  63.7 UP  
+GLENMARK     Glenmark Pharmaceuticals Limited ₹ 2145.30 ADX:  63.1 UP  
+KHANDSE      Khandwala Securities Limited   ₹   25.39 ADX:  62.9 UP  
+BIL          Bhartiya International Limited ₹  879.30 ADX:  61.9 UP  
+COFORGE      Coforge Limited                ₹ 1688.80 ADX:  61.0 DOWN
+QPOWER       Quality Power Electrical Equipments Limited ₹  782.50 ADX:  60.7 UP  
+LAURUSLABS   Laurus Labs Limited            ₹  837.75 ADX:  59.8 UP  
+ROTO         Roto Pumps Limited             ₹   90.05 ADX:  59.7 DOWN
+FORCEMOT     FORCE MOTORS LTD               ₹   17870 ADX:  58.0 UP  
+PROZONER     Prozone Realty Limited         ₹   41.79 ADX:  57.4 UP  
+CUPID        Cupid Limited                  ₹  147.91 ADX:  56.8 UP  
+GARUDA       Garuda Construction and Engineering Limited ₹  170.23 ADX:  56.5 UP  
+FILATFASH    Filatex Fashions Limited       ₹    0.64 ADX:  56.1 DOWN
+ASHAPURMIN   Ashapura Minechem Limited      ₹  547.20 ADX:  55.9 UP  
+
+🚀 MACD BULLISH
+------------------------------------------------------------
+Description: Bullish MACD crossover with positive histogram
+
+3MINDIA      3M India Limited               ₹   31230 MACD: 577.19 Hist: 218.39
+DIXON        Dixon Technologies (India) Limited ₹   16700 MACD: 443.05 Hist:  95.84
+FORCEMOT     FORCE MOTORS LTD               ₹   17870 MACD: 1153.17 Hist:  76.63
+SMLISUZU     SML Isuzu Limited              ₹ 3799.40 MACD: 460.95 Hist:  64.44
+TVSHLTD      TVS Holdings Limited           ₹   11970 MACD: 339.71 Hist:  56.13
+VADILALIND   Vadilal Industries Limited     ₹ 5491.50 MACD:   3.40 Hist:  49.94
+ZFCVINDIA    ZF Commercial Vehicle Control Systems India Limited ₹   13559 MACD:  51.64 Hist:  48.18
+JUBLCPL      Jubilant Agri and Consumer Products Limited ₹ 2196.80 MACD: 127.12 Hist:  44.07
+ORISSAMINE   The Orissa Minerals Development Company Limited ₹ 4949.60 MACD:  40.63 Hist:  43.95
+NEULANDLAB   Neuland Laboratories Limited   ₹   13760 MACD: 489.49 Hist:  33.54
+OLECTRA      Olectra Greentech Limited      ₹ 1480.90 MACD:  55.10 Hist:  28.55
+THERMAX      Thermax Limited                ₹ 3739.00 MACD: 105.82 Hist:  27.77
+ROSSTECH     Rossell Techsys Limited        ₹  580.70 MACD:  57.11 Hist:  27.73
+VSTTILLERS   V.S.T Tillers Tractors Limited ₹ 4597.40 MACD: 204.83 Hist:  25.92
+STYLAMIND    Stylam Industries Limited      ₹ 1881.00 MACD:  47.94 Hist:  25.91
+
+🔄 STOCHASTIC RECOVERY
+------------------------------------------------------------
+Description: Oversold recovery with Stochastic turning up
+
+PATELENG     Patel Engineering Limited      ₹   39.19 K%:  27.4 D%:  13.3
+ROSSELLIND   Rossell India Limited          ₹   68.68 K%:  26.6 D%:  13.9
+NITCO        Nitco Limited                  ₹  133.84 K%:  22.7 D%:  10.3
+RVHL         Ravinder Heights Limited       ₹   45.43 K%:  27.8 D%:  15.6
+EIMCOELECO   Eimco Elecon (India) Limited   ₹ 2352.70 K%:  21.3 D%:   9.2
+RKFORGE      Ramkrishna Forgings Limited    ₹  624.95 K%:  24.1 D%:  12.1
+PODDARMENT   Poddar Pigments Limited        ₹  302.10 K%:  27.0 D%:  15.8
+LFIC         Lakshmi Finance & Industrial Corporation Limited ₹  217.30 K%:  20.3 D%:  10.6
+RUBFILA      Rubfila International Limited  ₹   84.18 K%:  26.6 D%:  17.2
+IEX          Indian Energy Exchange Limited ₹  145.02 K%:  16.8 D%:   7.7
+INTENTECH    Intense Technologies Limited   ₹   86.00 K%:  26.3 D%:  17.2
+REDTAPE      Redtape Limited                ₹  133.11 K%:  27.2 D%:  18.4
+STYLEBAAZA   Baazar Style Retail Limited    ₹  271.20 K%:  15.9 D%:   7.2
+ATUL         Atul Limited                   ₹ 6667.00 K%:  15.6 D%:   6.9
+YASHO        Yasho Industries Limited       ₹ 1963.60 K%:  18.8 D%:  10.5
+
+📊 HIGH VOLUME
+------------------------------------------------------------
+Description: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+------------------------------------------------------------
+Description: Above Ichimoku cloud with bullish signals
+
+DATAMATICS   Datamatics Global Services Limited ₹  879.55 RSI:  88.6 ABOVE_CLOUD
+GLOBUSSPR    Globus Spirits Limited         ₹ 1245.20 RSI:  88.3 ABOVE_CLOUD
+TI           Tilaknagar Industries Limited  ₹  497.40 RSI:  87.5 ABOVE_CLOUD
+CUPID        Cupid Limited                  ₹  147.91 RSI:  84.3 ABOVE_CLOUD
+INDOBORAX    Indo Borax & Chemicals Limited ₹  290.45 RSI:  84.0 ABOVE_CLOUD
+JUBLCPL      Jubilant Agri and Consumer Products Limited ₹ 2196.80 RSI:  83.8 ABOVE_CLOUD
+LAURUSLABS   Laurus Labs Limited            ₹  837.75 RSI:  81.8 ABOVE_CLOUD
+GREENPANEL   Greenpanel Industries Limited  ₹  320.50 RSI:  81.7 ABOVE_CLOUD
+NUVOCO       Nuvoco Vistas Corporation Limited ₹  412.80 RSI:  81.7 ABOVE_CLOUD
+KALAMANDIR   Sai Silks (Kalamandir) Limited ₹  185.15 RSI:  81.2 ABOVE_CLOUD
+INFOBEAN     InfoBeans Technologies Limited ₹  564.20 RSI:  81.1 ABOVE_CLOUD
+SYRMA        Syrma SGS Technology Limited   ₹  728.15 RSI:  80.7 ABOVE_CLOUD
+SHARDACROP   Sharda Cropchem Limited        ₹ 1087.10 RSI:  80.5 ABOVE_CLOUD
+EVEREADY     Eveready Industries India Limited ₹  428.05 RSI:  79.8 ABOVE_CLOUD
+STYLAMIND    Stylam Industries Limited      ₹ 1881.00 RSI:  78.9 ABOVE_CLOUD
+
+================================================================================
+ANALYSIS COMPLETE
+⚠️  For educational purposes only. Conduct your own research!
+================================================================================

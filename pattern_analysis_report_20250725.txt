@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-25
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1767
+• Failed Analyses: 329
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1138
+• Bearish Signals: 122
+• Neutral Signals: 507
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 16
+• Moderate Risk: 614
+• High Risk: 957
+• Very High Risk: 180
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+BBTCL      99.0   bearish  69.5       very_high     +23.74%
+LORDSCHLO  94.0   bullish  67.0       very_high     +46.60%
+PVSL       93.0   bullish  66.5       high          +2.33%
+JTEKTINDIA 84.0   bullish  42.0       high          -6.55%
+OMAXAUTO   84.0   neutral  62.0       very_high     +38.69%
+PNBHOUSING 80.0   bullish  40.0       high          -4.96%
+GLOBUSSPR  79.0   neutral  59.5       high         +27.66%
+ACC        78.0   bullish  59.0       moderate      -1.33%
+BOSCHLTD   77.0   bearish  58.5       moderate     +17.19%
+MANAKCOAT  77.0   bullish  58.5       very_high     +27.74%
+RALLIS     76.0   bullish  58.0       high         +12.30%
+SHALBY     76.0   neutral  58.0       high         +14.17%
+FCSSOFT    73.0   neutral  56.1       high          -1.13%
+IGL        73.0   bullish  36.5       moderate      -5.33%
+INFOBEAN   73.0   neutral  56.5       high         +45.17%
+SPIC       73.0   neutral  36.5       high         +20.49%
+CONTROLPR  72.0   bullish  36.0       high          -8.60%
+GOYALALUM  72.0   bullish  36.0       moderate      -4.93%
+HEXT       72.0   bullish  36.0       high         -11.50%
+MANGCHEFER 72.0   bullish  56.0       high          +9.51%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

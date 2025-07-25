@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-25
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1767
+  Failed Analyses: 329
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1194
+  Bearish Signals: 41
+  Neutral Signals: 532
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+UDAICEMENT 75     bullish  ₹34.84      +13.86% bullish   
+DPABHUSHAN 70     neutral  ₹1678.30    +17.22% bullish   
+DYNPRO     70     neutral  ₹351.15     +22.82% bullish   
+FEDFINA    70     neutral  ₹126.18      +9.77% bullish   
+ANURAS     65     bullish  ₹1145.20     +2.83% bullish   
+AXITA      65     bullish  ₹9.00        +0.00% bullish   
+DCMSRIND   65     bullish  ₹168.67      +0.58% bullish   
+DENORA     65     bullish  ₹925.30      +5.19% bullish   
+EIHAHOTELS 65     bullish  ₹387.15      +2.31% bullish   
+EPACK      65     bullish  ₹355.35      +3.18% bullish   
+GILLETTE   65     bullish  ₹10676.00    +5.32% bullish   
+GOKULAGRO  65     bullish  ₹308.70      +8.40% bullish   
+JKCEMENT   65     bullish  ₹6479.00     +8.37% bullish   
+MAHEPC     65     bullish  ₹145.74      +3.79% bullish   
+MRF        65     bullish  ₹149210.00    +9.60% bullish   
+NYKAA      65     bullish  ₹212.23      +8.78% bullish   
+PARACABLES 65     bullish  ₹58.10       +4.10% bullish   
+TBZ        65     bullish  ₹189.18      -1.26% bullish   
+TTKPRESTIG 65     bullish  ₹630.75      +2.47% bullish   
+VOLTAS     65     bullish  ₹1315.60     +0.15% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
