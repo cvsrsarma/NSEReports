@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-07-28 22:23:28
+Data Date: 2025-07-28
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+BOSCHLTD     Bosch Limited                ₹38235.00 RSI: 73.0
+3MINDIA      3M India Limited             ₹30950.00 RSI: 64.5
+FORCEMOT     FORCE MOTORS LTD             ₹18228.00 RSI: 65.9
+DIXON        Dixon Technologies (India... ₹16744.00 RSI: 70.2
+MAHSCOOTER   Maharashtra Scooters Limi... ₹14908.00 RSI: 58.1
+NEULANDLAB   Neuland Laboratories Limi... ₹13875.00 RSI: 58.6
+TASTYBITE    Tasty Bite Eatables Limit... ₹11448.00 RSI: 61.7
+POLYCAB      Polycab India Limited        ₹ 6837.50 RSI: 57.9
+JKCEMENT     JK Cement Limited            ₹ 6439.00 RSI: 57.5
+CRAFTSMAN    Craftsman Automation Limi... ₹ 6236.00 RSI: 60.5
+HDFCAMC      HDFC Asset Management Com... ₹ 5563.50 RSI: 69.4
+NAVINFLUOR   Navin Fluorine Internatio... ₹ 5102.50 RSI: 61.4
+ALKEM        Alkem Laboratories Limite... ₹ 5047.40 RSI: 61.6
+VSTTILLERS   V.S.T Tillers Tractors Li... ₹ 4466.50 RSI: 58.7
+KEI          KEI Industries Limited       ₹ 3908.70 RSI: 58.0
+LUMAXIND     Lumax Industries Limited     ₹ 3807.50 RSI: 59.8
+ECLERX       eClerx Services Limited      ₹ 3774.10 RSI: 68.2
+AKZOINDIA    Akzo Nobel India Limited     ₹ 3760.90 RSI: 60.9
+THERMAX      Thermax Limited              ₹ 3722.70 RSI: 56.4
+TORNTPHARM   Torrent Pharmaceuticals L... ₹ 3622.90 RSI: 72.7
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  880.50 RSI: 11.8
+ABLBL        Aditya Birla Lifestyle Br... ₹  141.53 RSI: 12.7
+KELLTONTEC   Kellton Tech Solutions Li... ₹   26.54 RSI: 13.1
+ASHOKLEY     Ashok Leyland Limited        ₹  122.75 RSI: 13.1
+ROTO         Roto Pumps Limited           ₹   90.30 RSI: 13.2
+IFGLEXPOR    IFGL Refractories Limited    ₹  236.60 RSI: 13.3
+VMART        V-Mart Retail Limited        ₹  795.60 RSI: 16.2
+MSUMI        Motherson Sumi Wiring Ind... ₹   40.01 RSI: 16.9
+NEWGEN       Newgen Software Technolog... ₹  853.00 RSI: 17.1
+TEJASNET     Tejas Networks Limited       ₹  576.90 RSI: 17.3
+ANUHPHR      Anuh Pharma Limited          ₹   97.69 RSI: 17.3
+VESUVIUS     Vesuvius India Limited       ₹  515.85 RSI: 17.6
+JINDWORLD    Jindal Worldwide Limited     ₹   39.76 RSI: 18.0
+MAGADSUGAR   Magadh Sugar & Energy Lim... ₹  553.40 RSI: 18.2
+SHALPAINTS   Shalimar Paints Limited      ₹   83.24 RSI: 18.6
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  880.50 ADX: 72.7 DOWN
+PROSTARM     Prostarm Info Systems Lim... ₹  218.44 ADX: 70.3 UP
+VESUVIUS     Vesuvius India Limited       ₹  515.85 ADX: 68.8 DOWN
+SMLISUZU     SML Isuzu Limited            ₹ 3609.50 ADX: 68.3 UP
+HEUBACHIND   Heubach Colorants India L... ₹  592.15 ADX: 68.0 UP
+VMART        V-Mart Retail Limited        ₹  795.60 ADX: 65.4 DOWN
+AVTNPL       AVT Natural Products Limi... ₹   72.84 ADX: 63.6 UP
+GLENMARK     Glenmark Pharmaceuticals ... ₹ 2144.40 ADX: 62.9 UP
+COFORGE      Coforge Limited              ₹ 1724.70 ADX: 61.4 DOWN
+LAURUSLABS   Laurus Labs Limited          ₹  889.25 ADX: 61.1 UP
+ROTO         Roto Pumps Limited           ₹   90.30 ADX: 60.6 DOWN
+BIL          Bhartiya International Li... ₹  847.75 ADX: 60.3 UP
+CUPID        Cupid Limited                ₹  149.59 ADX: 58.4 UP
+FORCEMOT     FORCE MOTORS LTD             ₹18228.00 ADX: 57.7 UP
+GARUDA       Garuda Construction and E... ₹  182.98 ADX: 57.7 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

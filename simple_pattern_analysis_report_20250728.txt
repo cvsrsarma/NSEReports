@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-28
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1762
+  Failed Analyses: 334
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1194
+  Bearish Signals: 33
+  Neutral Signals: 535
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+CENTENKA   75     bullish  ₹507.25      +1.46% bullish   
+DVL        75     bullish  ₹343.90      +4.16% bullish   
+TMB        75     bullish  ₹447.60      +0.09% bullish   
+TTKPRESTIG 75     bullish  ₹636.95      +2.43% bullish   
+GUFICBIO   70     neutral  ₹385.30      +6.10% bullish   
+PUNJABCHEM 70     neutral  ₹1352.80    +24.73% bullish   
+UPL        70     neutral  ₹729.85     +14.35% bullish   
+AMBIKCO    65     bullish  ₹1590.70     +2.86% bullish   
+CPCAP      65     bullish  ₹165.37      +1.55% bullish   
+EIHAHOTELS 65     bullish  ₹384.25      +2.64% bullish   
+ELGIEQUIP  65     bullish  ₹550.50      +5.90% bullish   
+FINEORG    65     bullish  ₹5088.30    +10.15% bullish   
+HCG        65     bullish  ₹566.20      +5.01% bullish   
+JKCEMENT   65     bullish  ₹6439.00     +9.58% bullish   
+MHRIL      65     bullish  ₹360.65      +6.80% bullish   
+MRF        65     bullish  ₹147805.00    +7.14% bullish   
+NAZARA     65     bullish  ₹1347.20     +1.99% bullish   
+PGEL       65     bullish  ₹789.35      +3.45% bullish   
+PVRINOX    65     bullish  ₹978.70      +2.75% bullish   
+SUNPHARMA  65     bullish  ₹1702.20     +3.29% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

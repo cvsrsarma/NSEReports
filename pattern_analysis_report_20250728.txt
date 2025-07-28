@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-28
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1762
+• Failed Analyses: 334
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1245
+• Bearish Signals: 96
+• Neutral Signals: 421
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 12
+• Moderate Risk: 559
+• High Risk: 983
+• Very High Risk: 208
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+OMAXAUTO   100.0  bearish  70.0       very_high     +52.63%
+SHANKARA   82.0   neutral  60.5       high          +1.81%
+STLTECH    81.0   neutral  60.5       very_high     +21.36%
+JTEKTINDIA 80.0   bullish  40.0       high         -11.30%
+AUTOAXLES  79.0   neutral  59.1       moderate      +6.34%
+JINDALSAW  79.0   bullish  39.5       moderate      -8.59%
+LORDSCHLO  79.0   neutral  59.5       very_high     +37.81%
+JAGSNPHARM 78.0   neutral  59.0       high         +30.87%
+MANGCHEFER 78.0   bullish  59.0       high         +18.14%
+BBTCL      77.0   neutral  58.5       very_high     +28.13%
+GLOBUSSPR  77.0   neutral  58.5       high         +33.63%
+MGEL       77.0   bullish  58.5       high         +21.82%
+MOLDTKPAC  77.0   neutral  58.5       high          +8.59%
+SUDARSCHEM 77.0   bearish  58.3       high          +9.99%
+RALLIS     76.0   bullish  58.0       high         +14.68%
+NESTLEIND  74.0   bullish  37.0       moderate      -4.76%
+TATVA      74.0   neutral  57.0       high         +21.16%
+PUNJABCHEM 71.0   bullish  55.5       high         +24.73%
+SPIC       71.0   neutral  35.5       high         +20.13%
+CSLFINANCE 67.0   bullish  33.5       high          -9.18%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
