@@ -1,0 +1,177 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This professional scan uses multiple technical analysis strategies to highlight stocks:
+- Breakout stocks: Price breaking above Bollinger Bands with momentum.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover signals.
+- Stochastic recovery: Oversold recovery patterns.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud configuration.
+- Bollinger squeeze: Low volatility before potential breakout.
+- High money flow: Strong buying pressure (MFI > 70).
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+PROFESSIONAL NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-07-29 20:59:44
+Data Date: 2025-07-29
+
+📈 BREAKOUT STOCKS
+----------------------------------------------------------------------
+Strategy: Breaking above Bollinger Bands with momentum
+
+VIMTALABS    Vimta Labs Limited        ₹  710.30 Breakout: +10.5% RSI:  72.5
+SUDARSCHEM   Sudarshan Chemical Indust ₹ 1414.30 Breakout:  +4.5% RSI:  73.8
+SHANKARA     Shankara Building Product ₹ 1132.20 Breakout:  +4.3% RSI:  72.2
+MENONBE      Menon Bearings Limited    ₹  139.40 Breakout:  +3.6% RSI:  71.6
+MODTHREAD    Modern Threads (India) Li ₹   54.29 Breakout:  +3.3% RSI:  70.5
+ARVINDFASN   Arvind Fashions Limited   ₹  540.80 Breakout:  +2.6% RSI:  74.4
+SENORES      Senores Pharmaceuticals L ₹  703.95 Breakout:  +2.6% RSI:  71.5
+APARINDS     Apar Industries Limited   ₹ 9681.50 Breakout:  +2.4% RSI:  66.7
+SHREEPUSHK   Shree Pushkar Chemicals & ₹  398.95 Breakout:  +2.2% RSI:  74.2
+BIRLACORPN   Birla Corporation Limited ₹ 1512.90 Breakout:  +1.7% RSI:  70.2
+STAR         Strides Pharma Science Li ₹  954.55 Breakout:  +1.4% RSI:  67.6
+STLTECH      Sterlite Technologies Lim ₹  128.49 Breakout:  +1.3% RSI:  70.3
+GUJTHEM      Gujarat Themis Biosyn Lim ₹  389.75 Breakout:  +1.2% RSI:  68.8
+INSECTICID   Insecticides (India) Limi ₹ 1061.25 Breakout:  +1.1% RSI:  68.6
+MANINDS      Man Industries (India) Li ₹  454.80 Breakout:  +1.1% RSI:  64.9
+
+🔥 TRENDING STOCKS
+----------------------------------------------------------------------
+Strategy: Strong directional movement (ADX > 35)
+
+BAJFINANCE   Bajaj Finance Limited     ₹  886.55 ADX:  73.0 DOWN RSI:  12.2
+PROSTARM     Prostarm Info Systems Lim ₹  239.61 ADX:  69.9 UP   RSI:  73.7
+VESUVIUS     Vesuvius India Limited    ₹  523.55 ADX:  68.7 DOWN RSI:  18.7
+HEUBACHIND   Heubach Colorants India L ₹  592.30 ADX:  68.6 UP   RSI:  54.4
+SMLISUZU     SML Isuzu Limited         ₹ 3429.10 ADX:  65.9 UP   RSI:  61.9
+VMART        V-Mart Retail Limited     ₹  797.00 ADX:  64.7 DOWN RSI:  16.4
+AVTNPL       AVT Natural Products Limi ₹   72.27 ADX:  62.7 UP   RSI:  57.9
+LAURUSLABS   Laurus Labs Limited       ₹  909.85 ADX:  62.4 UP   RSI:  89.6
+GLENMARK     Glenmark Pharmaceuticals  ₹ 2158.00 ADX:  62.3 UP   RSI:  73.2
+COFORGE      Coforge Limited           ₹ 1720.50 ADX:  61.7 DOWN RSI:  20.2
+ROTO         Roto Pumps Limited        ₹   91.45 ADX:  61.5 DOWN RSI:  14.1
+CUPID        Cupid Limited             ₹  150.92 ADX:  60.0 UP   RSI:  85.6
+GALLANTT     Gallantt Ispat Limited    ₹  681.00 ADX:  59.0 UP   RSI:  77.8
+GARUDA       Garuda Construction and E ₹  187.15 ADX:  58.8 UP   RSI:  72.5
+BIL          Bhartiya International Li ₹  890.10 ADX:  58.0 UP   RSI:  65.3
+FORCEMOT     FORCE MOTORS LTD          ₹   17872 ADX:  57.4 UP   RSI:  62.7
+DATAMATICS   Datamatics Global Service ₹  938.30 ADX:  56.1 UP   RSI:  91.2
+ANANDRATHI   Anand Rathi Wealth Limite ₹ 2688.30 ADX:  55.9 UP   RSI:  75.3
+LUMAXIND     Lumax Industries Limited  ₹ 3821.60 ADX:  55.8 UP   RSI:  60.4
+SOLARA       Solara Active Pharma Scie ₹  645.15 ADX:  55.2 UP   RSI:  52.0
+
+🚀 MACD BULLISH
+----------------------------------------------------------------------
+Strategy: Bullish MACD crossover signals
+
+3MINDIA      3M India Limited          ₹   30915 MACD: 550.85 Hist: 120.23
+DIXON        Dixon Technologies (India ₹   16784 MACD: 464.80 Hist:  76.60
+JUBLCPL      Jubilant Agri and Consume ₹ 2384.10 MACD: 150.38 Hist:  46.61
+VIMTALABS    Vimta Labs Limited        ₹  710.30 MACD:   2.69 Hist:  37.35
+SHARDACROP   Sharda Cropchem Limited   ₹ 1155.35 MACD:  70.00 Hist:  30.72
+GLOBUSSPR    Globus Spirits Limited    ₹ 1260.85 MACD:  69.33 Hist:  25.00
+HIRECT       Hind Rectifiers Limited   ₹ 1712.20 MACD:  53.34 Hist:  23.86
+TORNTPHARM   Torrent Pharmaceuticals L ₹ 3768.10 MACD:  97.60 Hist:  23.60
+OLECTRA      Olectra Greentech Limited ₹ 1430.40 MACD:  62.29 Hist:  23.26
+INFOBEAN     InfoBeans Technologies Li ₹  623.20 MACD:  54.01 Hist:  23.16
+ORISSAMINE   The Orissa Minerals Devel ₹ 4962.60 MACD:  32.53 Hist:  22.34
+MAHSCOOTER   Maharashtra Scooters Limi ₹   15337 MACD: 241.06 Hist:  21.49
+ROSSTECH     Rossell Techsys Limited   ₹  576.60 MACD:  60.62 Hist:  20.28
+FORCEMOT     FORCE MOTORS LTD          ₹   17872 MACD: 1117.65 Hist:  20.08
+VADILALIND   Vadilal Industries Limite ₹ 5348.00 MACD: -13.43 Hist:  19.95
+
+🔄 STOCHASTIC RECOVERY
+----------------------------------------------------------------------
+Strategy: Oversold recovery patterns
+
+RICOAUTO     Rico Auto Industries Limi ₹   72.65 K%:  29.2 D%:  10.9
+ACE          Action Construction Equip ₹ 1118.60 K%:  28.9 D%:  11.6
+GOPAL        Gopal Snacks Limited      ₹  345.85 K%:  29.4 D%:  12.3
+RPPINFRA     R.P.P. Infra Projects Lim ₹  124.80 K%:  28.5 D%:  11.4
+THEMISMED    Themis Medicare Limited   ₹  112.90 K%:  29.3 D%:  12.4
+FIVESTAR     Five-Star Business Financ ₹  649.35 K%:  28.3 D%:  11.4
+BEPL         Bhansali Engineering Poly ₹  110.19 K%:  29.6 D%:  12.9
+LLOYDSENGG   LLOYDS ENGINEERING WORKS  ₹   73.20 K%:  26.7 D%:  10.5
+ORIENTTECH   Orient Technologies Limit ₹  324.85 K%:  28.6 D%:  12.5
+SPARC        Sun Pharma Advanced Resea ₹  153.53 K%:  29.6 D%:  13.5
+IRCON        Ircon International Limit ₹  180.96 K%:  29.0 D%:  13.2
+TOKYOPLAST   Tokyo Plast International ₹  121.22 K%:  29.0 D%:  13.3
+BORANA       Borana Weaves Limited     ₹  225.44 K%:  30.0 D%:  14.5
+RENUKA       Shree Renuka Sugars Limit ₹   30.72 K%:  29.1 D%:  13.7
+JKLAKSHMI    JK Lakshmi Cement Limited ₹  952.45 K%:  29.1 D%:  13.8
+
+📊 HIGH VOLUME
+----------------------------------------------------------------------
+Strategy: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+----------------------------------------------------------------------
+Strategy: Above Ichimoku cloud configuration
+
+No stocks found matching criteria
+
+🎯 BOLLINGER SQUEEZE
+----------------------------------------------------------------------
+Strategy: Low volatility before potential breakout
+
+MUTHOOTFIN   Muthoot Finance Limited   ₹ 2617.10 BB Width:   2.6% RSI:  50.1
+TTKPRESTIG   TTK Prestige Limited      ₹  631.85 BB Width:   2.8% RSI:  49.9
+JSWSTEEL     JSW Steel Limited         ₹ 1034.90 BB Width:   2.8% RSI:  54.0
+HEUBACHIND   Heubach Colorants India L ₹  592.30 BB Width:   2.8% RSI:  54.4
+MAHABANK     Bank of Maharashtra       ₹   56.76 BB Width:   3.0% RSI:  54.3
+VHL          Vardhman Holdings Limited ₹ 4034.40 BB Width:   3.0% RSI:  47.1
+COALINDIA    Coal India Limited        ₹  383.65 BB Width:   3.0% RSI:  45.4
+ONGC         Oil & Natural Gas Corpora ₹  241.44 BB Width:   3.0% RSI:  44.7
+HDFCBANK     HDFC Bank Limited         ₹ 2021.60 BB Width:   3.1% RSI:  58.9
+DBEIL        Deepak Builders & Enginee ₹  137.83 BB Width:   3.1% RSI:  42.8
+MARUTI       Maruti Suzuki India Limit ₹   12469 BB Width:   3.2% RSI:  48.5
+HEXATRADEX   Hexa Tradex Limited       ₹  183.53 BB Width:   3.2% RSI:  47.2
+CENTURYPLY   Century Plyboards (India) ₹  731.55 BB Width:   3.3% RSI:  46.0
+POWERGRID    Power Grid Corporation of ₹  293.10 BB Width:   3.3% RSI:  45.2
+ULTRACEMCO   UltraTech Cement Limited  ₹   12221 BB Width:   3.4% RSI:  49.8
+
+💰 HIGH MONEY FLOW
+----------------------------------------------------------------------
+Strategy: Strong buying pressure (MFI > 70)
+
+20MICRONS    20 Microns Limited        ₹  253.30 MFI:   NaN UP  
+AADHARHFC    Aadhar Housing Finance Li ₹  509.10 MFI:   NaN UP  
+AARON        Aaron Industries Limited  ₹  440.00 MFI:   NaN UP  
+AARTIDRUGS   Aarti Drugs Limited       ₹  539.05 MFI:   NaN UP  
+AARTIPHARM   Aarti Pharmalabs Limited  ₹  937.30 MFI:   NaN UP  
+ABDL         Allied Blenders and Disti ₹  487.70 MFI:   NaN UP  
+ABSLAMC      Aditya Birla Sun Life AMC ₹  874.20 MFI:   NaN UP  
+ACL          Andhra Cements Limited    ₹   70.41 MFI:   NaN UP  
+ACMESOLAR    Acme Solar Holdings Limit ₹  286.65 MFI:   NaN UP  
+ADVENZYMES   Advanced Enzyme Technolog ₹  348.40 MFI:   NaN UP  
+AGARWALEYE   Dr. Agarwal's Health Care ₹  445.25 MFI:   NaN UP  
+AGI          AGI Greenpac Limited      ₹  971.95 MFI:   NaN UP  
+AGIIL        Agi Infra Limited         ₹ 1075.30 MFI:   NaN UP  
+AHLEAST      Asian Hotels (East) Limit ₹  160.39 MFI:   NaN DOWN
+AIIL         Authum Investment & Infra ₹ 2825.60 MFI:   NaN DOWN
+
+================================================================================
+TECHNICAL ANALYSIS COMPLETE
+Key Insights:
+• Breakout stocks may continue upward momentum
+• High ADX stocks show strong directional movement
+• MACD bullish signals indicate potential uptrends
+• Stochastic recovery suggests oversold bounce opportunities
+• High OBV shows institutional buying interest
+• Ichimoku bullish setups provide comprehensive trend confirmation
+• Bollinger squeeze often precedes volatility expansion
+• High MFI indicates strong buying pressure
+⚠️  For educational purposes only. Always conduct thorough research!
+================================================================================

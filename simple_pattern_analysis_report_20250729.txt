@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-29
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1762
+  Failed Analyses: 334
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1042
+  Bearish Signals: 74
+  Neutral Signals: 646
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+DENORA     75     bullish  ₹928.35     +10.95% bullish   
+TTKPRESTIG 75     bullish  ₹631.85      +1.86% bullish   
+UBL        75     bullish  ₹1975.60     +1.14% bullish   
+HDFCAMC    70     neutral  ₹5627.50    +15.38% bullish   
+RALLIS     70     neutral  ₹380.20     +21.86% bullish   
+AWL        65     bullish  ₹264.90      +3.13% bullish   
+EIHAHOTELS 65     bullish  ₹388.15      +5.20% bullish   
+GOKULAGRO  65     bullish  ₹309.35      +5.87% bullish   
+JASH       65     bullish  ₹577.15      +6.76% bullish   
+JKCEMENT   65     bullish  ₹6502.00    +11.83% bullish   
+JSWENERGY  65     bullish  ₹524.80      +9.21% bullish   
+KSB        65     bullish  ₹855.45      +3.32% bullish   
+MHRIL      65     bullish  ₹361.70      +8.44% bullish   
+MRF        65     bullish  ₹149355.00    +8.09% bullish   
+NYKAA      65     bullish  ₹210.43      +8.47% bullish   
+SIL        65     bullish  ₹19.62       +3.05% bullish   
+TMB        65     bullish  ₹448.55      +1.02% bullish   
+AARTIDRUGS 60     bearish  ₹539.05     +22.58% bullish   
+AJANTPHARM 60     bearish  ₹2823.20    +10.90% bullish   
+ANANDRATHI 60     bearish  ₹2688.30    +31.26% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
