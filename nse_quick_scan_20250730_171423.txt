@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-07-30 17:14:23
+Data Date: 2025-07-30
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹150025.00 RSI: 59.0
+PAGEIND      Page Industries Limited      ₹48315.00 RSI: 56.5
+3MINDIA      3M India Limited             ₹30955.00 RSI: 64.3
+POWERINDIA   Hitachi Energy India Limi... ₹20825.00 RSI: 62.5
+FORCEMOT     FORCE MOTORS LTD             ₹17670.00 RSI: 60.8
+DIXON        Dixon Technologies (India... ₹16765.00 RSI: 70.1
+MAHSCOOTER   Maharashtra Scooters Limi... ₹15796.00 RSI: 68.7
+NEULANDLAB   Neuland Laboratories Limi... ₹13914.00 RSI: 59.0
+PGHH         Procter & Gamble Hygiene ... ₹13805.00 RSI: 67.4
+TASTYBITE    Tasty Bite Eatables Limit... ₹11669.00 RSI: 64.8
+APARINDS     Apar Industries Limited      ₹ 9669.50 RSI: 66.4
+GODFRYPHLP   Godfrey Phillips India Li... ₹ 9390.50 RSI: 60.0
+ASTRAZEN     AstraZeneca Pharma India ... ₹ 9340.00 RSI: 57.3
+AMBER        Amber Enterprises India L... ₹ 8040.50 RSI: 68.9
+POLYCAB      Polycab India Limited        ₹ 6931.00 RSI: 60.8
+JKCEMENT     JK Cement Limited            ₹ 6613.00 RSI: 64.2
+PGHL         Procter & Gamble Health L... ₹ 5947.00 RSI: 60.8
+HDFCAMC      HDFC Asset Management Com... ₹ 5670.00 RSI: 73.5
+FOSECOIND    Foseco India Limited         ₹ 5486.90 RSI: 69.6
+FINEORG      Fine Organic Industries L... ₹ 5276.60 RSI: 55.5
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  884.85 RSI: 12.2
+ASHOKLEY     Ashok Leyland Limited        ₹  121.90 RSI: 13.4
+KELLTONTEC   Kellton Tech Solutions Li... ₹   29.10 RSI: 14.9
+IFGLEXPOR    IFGL Refractories Limited    ₹  238.55 RSI: 15.1
+MSUMI        Motherson Sumi Wiring Ind... ₹   37.77 RSI: 15.1
+ROTO         Roto Pumps Limited           ₹   92.95 RSI: 15.3
+VENKEYS      Venky's (India) Limited      ₹ 1504.10 RSI: 15.7
+SHALPAINTS   Shalimar Paints Limited      ₹   81.24 RSI: 16.8
+VMART        V-Mart Retail Limited        ₹  805.15 RSI: 17.7
+NEWGEN       Newgen Software Technolog... ₹  852.60 RSI: 18.3
+VESUVIUS     Vesuvius India Limited       ₹  518.25 RSI: 18.5
+ANUHPHR      Anuh Pharma Limited          ₹   99.41 RSI: 19.0
+DCI          Dc Infotech And Communica... ₹  219.20 RSI: 19.1
+TCS          Tata Consultancy Services... ₹ 3053.60 RSI: 20.0
+FIVESTAR     Five-Star Business Financ... ₹  610.55 RSI: 20.6
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  884.85 ADX: 73.3 DOWN
+PROSTARM     Prostarm Info Systems Lim... ₹  234.38 ADX: 69.9 UP
+VESUVIUS     Vesuvius India Limited       ₹  518.25 ADX: 68.6 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  590.55 ADX: 68.6 UP
+VMART        V-Mart Retail Limited        ₹  805.15 ADX: 63.8 DOWN
+LAURUSLABS   Laurus Labs Limited          ₹  881.45 ADX: 63.7 UP
+SMLISUZU     SML Isuzu Limited            ₹ 3361.00 ADX: 62.9 UP
+AVTNPL       AVT Natural Products Limi... ₹   74.86 ADX: 62.5 UP
+ROTO         Roto Pumps Limited           ₹   92.95 ADX: 62.0 DOWN
+GLENMARK     Glenmark Pharmaceuticals ... ₹ 2153.60 ADX: 61.7 UP
+COFORGE      Coforge Limited              ₹ 1749.50 ADX: 61.5 DOWN
+CUPID        Cupid Limited                ₹  150.37 ADX: 61.5 UP
+GALLANTT     Gallantt Ispat Limited       ₹  766.20 ADX: 61.1 UP
+GARUDA       Garuda Construction and E... ₹  193.76 ADX: 60.3 UP
+DATAMATICS   Datamatics Global Service... ₹  937.95 ADX: 58.3 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

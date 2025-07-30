@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-30
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1755
+• Failed Analyses: 341
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 879
+• Bearish Signals: 217
+• Neutral Signals: 659
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 11
+• Moderate Risk: 562
+• High Risk: 977
+• Very High Risk: 205
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+APCOTEXIND 98.0   bullish  69.0       high         +10.26%
+RALLIS     91.0   bullish  65.5       high         +22.50%
+JINDALSAW  84.0   bullish  42.0       moderate     -10.93%
+GMMPFAUDLR 80.0   bearish  60.0       moderate     +17.65%
+ABAN       79.0   bullish  39.5       very_high     -22.08%
+EIDPARRY   79.0   neutral  59.5       moderate     +29.42%
+EPIGRAL    79.0   neutral  59.4       high         +20.64%
+LORDSCHLO  79.0   neutral  59.5       very_high     +41.64%
+OMAXAUTO   79.0   neutral  59.5       very_high     +75.09%
+SAURASHCEM 79.0   neutral  59.5       very_high     +38.34%
+AGROPHOS   78.0   neutral  59.0       high         +22.18%
+COROMANDEL 78.0   neutral  58.7       high         +14.54%
+SIRCA      78.0   neutral  59.0       moderate     +13.72%
+ENRIN      77.0   bearish  38.5       high         +10.42%
+GUFICBIO   77.0   neutral  58.5       high         +13.72%
+IGIL       77.0   neutral  58.5       high         +20.57%
+SUMICHEM   77.0   bearish  58.5       high         +32.58%
+GULFPETRO  72.0   bullish  36.0       moderate      -7.30%
+SBC        70.0   bullish  55.0       high         +23.09%
+PUNJABCHEM 68.0   bullish  54.0       very_high     +22.96%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

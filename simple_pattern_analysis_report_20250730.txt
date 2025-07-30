@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-30
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1755
+  Failed Analyses: 341
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1036
+  Bearish Signals: 77
+  Neutral Signals: 642
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+NESCO      70     neutral  ₹1301.70    +26.78% bullish   
+EIHAHOTELS 65     bullish  ₹388.90      +5.88% bullish   
+JSWENERGY  65     bullish  ₹526.50      +5.45% bullish   
+KSB        65     bullish  ₹855.50      +3.34% bullish   
+MAPMYINDIA 65     bullish  ₹1825.10     +5.18% bullish   
+MHRIL      65     bullish  ₹359.65      +6.56% bullish   
+TTKPRESTIG 65     bullish  ₹633.00      +1.88% bullish   
+AGROPHOS   60     neutral  ₹42.91      +22.18% bullish   
+AMBUJACEM  60     bearish  ₹617.85     +15.82% bullish   
+ANANDRATHI 60     bearish  ₹2671.40    +29.27% bullish   
+BELRISE    60     bearish  ₹133.20     +30.63% bullish   
+CUPID      60     bearish  ₹150.37     +61.83% bullish   
+GLOBUSSPR  60     bearish  ₹1261.90    +33.65% bullish   
+GUJAPOLLO  60     bearish  ₹470.60     +28.81% bullish   
+IXIGO      60     bearish  ₹229.40     +33.18% bullish   
+KRSNAA     60     bearish  ₹861.30     +21.78% bullish   
+RALLIS     60     bearish  ₹379.75     +22.50% bullish   
+STARCEMENT 60     bearish  ₹238.95     +13.06% bullish   
+UPL        60     bearish  ₹721.90     +13.95% bullish   
+VISHNU     60     neutral  ₹564.35      +3.75% bearish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
