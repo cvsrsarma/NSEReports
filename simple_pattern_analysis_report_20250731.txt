@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-07-31
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1749
+  Failed Analyses: 347
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 994
+  Bearish Signals: 61
+  Neutral Signals: 694
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+POLYCAB    75     bullish  ₹6821.00     +8.45% bullish   
+STARCEMENT 70     neutral  ₹239.26     +14.08% bullish   
+ASAHIINDIA 65     bullish  ₹840.05     +20.04% bullish   
+INNOVACAP  65     bullish  ₹909.35      +7.44% bullish   
+MAPMYINDIA 65     bullish  ₹1802.00     +3.82% bullish   
+MHRIL      65     bullish  ₹356.45      +8.59% bullish   
+MRF        65     bullish  ₹147845.00    +9.07% bullish   
+TTKPRESTIG 65     bullish  ₹630.00      +2.30% bullish   
+AGARIND    60     neutral  ₹984.85      +2.33% bearish   
+ALKEM      60     bearish  ₹5031.10     +5.70% bullish   
+ANANDRATHI 60     bearish  ₹2645.60    +26.41% bullish   
+CUPID      60     bearish  ₹150.89     +63.00% bullish   
+DIXON      60     bearish  ₹16841.00   +15.58% bullish   
+GLOBUSSPR  60     bearish  ₹1281.15    +36.72% bullish   
+HDFCAMC    60     bearish  ₹5650.00    +14.41% bullish   
+KRSNAA     60     bearish  ₹861.40     +22.72% bullish   
+SIMPLEXINF 60     bearish  ₹319.30     +18.94% bullish   
+TCI        60     bullish  ₹1173.00     +4.84% bullish   
+VETO       60     neutral  ₹134.76      +9.30% bullish   
+VINCOFE    60     bearish  ₹154.89     +29.17% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

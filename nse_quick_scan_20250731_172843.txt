@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-07-31 17:28:43
+Data Date: 2025-07-31
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+PAGEIND      Page Industries Limited      ₹48805.00 RSI: 59.1
+3MINDIA      3M India Limited             ₹30755.00 RSI: 60.1
+POWERINDIA   Hitachi Energy India Limi... ₹20095.00 RSI: 55.9
+DIXON        Dixon Technologies (India... ₹16841.00 RSI: 71.1
+MAHSCOOTER   Maharashtra Scooters Limi... ₹16054.00 RSI: 71.1
+PTCIL        PTC Industries Limited       ₹14925.00 RSI: 57.2
+PGHH         Procter & Gamble Hygiene ... ₹13729.00 RSI: 64.1
+TASTYBITE    Tasty Bite Eatables Limit... ₹11390.00 RSI: 56.9
+AMBER        Amber Enterprises India L... ₹ 7963.50 RSI: 66.1
+TATAINVEST   Tata Investment Corporati... ₹ 6801.00 RSI: 57.5
+CRAFTSMAN    Craftsman Automation Limi... ₹ 6752.00 RSI: 70.3
+JKCEMENT     JK Cement Limited            ₹ 6659.00 RSI: 65.8
+KAYNES       Kaynes Technology India L... ₹ 6172.00 RSI: 61.3
+INDIGO       InterGlobe Aviation Limit... ₹ 5910.50 RSI: 58.1
+PGHL         Procter & Gamble Health L... ₹ 5895.50 RSI: 55.6
+BRITANNIA    Britannia Industries Limi... ₹ 5771.00 RSI: 55.4
+HDFCAMC      HDFC Asset Management Com... ₹ 5650.00 RSI: 71.5
+FOSECOIND    Foseco India Limited         ₹ 5412.60 RSI: 66.4
+FINEORG      Fine Organic Industries L... ₹ 5302.80 RSI: 56.5
+NAVINFLUOR   Navin Fluorine Internatio... ₹ 5047.80 RSI: 55.5
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  881.20 RSI: 12.2
+ASHOKLEY     Ashok Leyland Limited        ₹  121.05 RSI: 13.3
+MSUMI        Motherson Sumi Wiring Ind... ₹   37.10 RSI: 14.6
+ROTO         Roto Pumps Limited           ₹   88.90 RSI: 14.7
+IFGLEXPOR    IFGL Refractories Limited    ₹  233.80 RSI: 14.8
+KELLTONTEC   Kellton Tech Solutions Li... ₹   28.48 RSI: 14.8
+VMART        V-Mart Retail Limited        ₹  790.50 RSI: 17.2
+NEWGEN       Newgen Software Technolog... ₹  848.90 RSI: 18.0
+DCI          Dc Infotech And Communica... ₹  215.30 RSI: 18.1
+VESUVIUS     Vesuvius India Limited       ₹  515.70 RSI: 18.4
+ANUHPHR      Anuh Pharma Limited          ₹   97.03 RSI: 18.4
+ZENTEC       Zen Technologies Limited     ₹ 1464.10 RSI: 18.9
+SHALPAINTS   Shalimar Paints Limited      ₹   81.71 RSI: 18.9
+FIVESTAR     Five-Star Business Financ... ₹  593.80 RSI: 19.0
+TCS          Tata Consultancy Services... ₹ 3036.80 RSI: 19.0
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  881.20 ADX: 73.6 DOWN
+PROSTARM     Prostarm Info Systems Lim... ₹  232.85 ADX: 69.3 UP
+HEUBACHIND   Heubach Colorants India L... ₹  590.30 ADX: 68.6 UP
+VESUVIUS     Vesuvius India Limited       ₹  515.70 ADX: 68.5 DOWN
+LAURUSLABS   Laurus Labs Limited          ₹  874.35 ADX: 64.1 UP
+GALLANTT     Gallantt Ispat Limited       ₹  766.20 ADX: 63.1 UP
+VMART        V-Mart Retail Limited        ₹  790.50 ADX: 62.9 DOWN
+ROTO         Roto Pumps Limited           ₹   88.90 ADX: 62.5 DOWN
+CUPID        Cupid Limited                ₹  150.89 ADX: 62.4 UP
+AVTNPL       AVT Natural Products Limi... ₹   75.15 ADX: 62.2 UP
+COFORGE      Coforge Limited              ₹ 1748.20 ADX: 61.4 DOWN
+GARUDA       Garuda Construction and E... ₹  185.86 ADX: 61.3 UP
+DATAMATICS   Datamatics Global Service... ₹  980.55 ADX: 60.5 UP
+GLENMARK     Glenmark Pharmaceuticals ... ₹ 2134.10 ADX: 60.3 UP
+SMLISUZU     SML Isuzu Limited            ₹ 3306.00 ADX: 59.6 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================
