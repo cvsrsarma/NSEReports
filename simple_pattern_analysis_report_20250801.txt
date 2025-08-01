@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-01
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1763
+  Failed Analyses: 333
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1068
+  Bearish Signals: 42
+  Neutral Signals: 653
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HDFCAMC    80     neutral  ₹5615.00    +13.70% bullish   
+MUNJALSHOW 80     bullish  ₹144.90     +17.29% bullish   
+EXCELINDUS 75     bullish  ₹1340.10     +8.41% bullish   
+BESTAGRO   70     neutral  ₹512.35     +65.25% bullish   
+GANDHITUBE 70     neutral  ₹779.55      +8.72% bullish   
+NELCAST    70     neutral  ₹168.98     +23.97% bullish   
+BHARATGEAR 65     bullish  ₹92.27       +6.61% bullish   
+FORCEMOT   65     bullish  ₹16709.00   +16.58% bullish   
+GPIL       65     bullish  ₹189.05      +7.04% bullish   
+INNOVACAP  65     bullish  ₹887.70      +4.89% bullish   
+KSB        65     bullish  ₹842.60      +4.04% bullish   
+MHRIL      65     bullish  ₹355.80      +8.39% bullish   
+NIVABUPA   65     bullish  ₹81.51       -0.29% bullish   
+NLCINDIA   65     bullish  ₹233.94      +2.75% bullish   
+PARAGMILK  65     bullish  ₹238.79     +13.11% bullish   
+RAIN       65     bullish  ₹152.79      +6.91% bullish   
+TTKPRESTIG 65     bullish  ₹631.80      +2.59% bullish   
+UNIENTER   65     bullish  ₹155.88      +3.76% bullish   
+AGI        60     bullish  ₹946.65     +21.68% bullish   
+DIXON      60     bearish  ₹16848.00   +15.63% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

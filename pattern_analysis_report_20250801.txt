@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-01
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1763
+• Failed Analyses: 333
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1042
+• Bearish Signals: 156
+• Neutral Signals: 565
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 10
+• Moderate Risk: 464
+• High Risk: 1037
+• Very High Risk: 252
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+HINDUNILVR 84.0   neutral  62.0       moderate     +12.25%
+ASIANENE   80.0   neutral  60.0       high         +18.73%
+IIFL       79.0   bullish  58.8       high         -11.00%
+LORDSCHLO  79.0   neutral  59.5       very_high     +44.22%
+MAWANASUG  79.0   bullish  39.5       moderate      -7.33%
+ARIHANTCAP 78.0   neutral  59.0       high         +33.84%
+DIGIDRIVE  78.0   bearish  39.0       high          +9.44%
+PGEL       78.0   bullish  59.0       high          +5.90%
+PGHL       78.0   neutral  39.0       moderate      +4.99%
+BHEL       77.0   bullish  38.5       moderate      -8.75%
+INOXINDIA  77.0   bullish  38.5       moderate      -3.01%
+HUDCO      76.0   bullish  38.0       moderate      -9.31%
+RGL        76.0   bullish  38.0       high         -10.24%
+LIBAS      75.0   bullish  37.5       very_high      -7.30%
+SONATSOFTW 75.0   bullish  37.5       high          -7.59%
+AYMSYNTEX  74.0   bullish  37.0       high         -20.19%
+RVNL       73.0   bullish  36.5       moderate     -11.74%
+ABAN       72.0   bullish  36.0       high         -25.32%
+ALEMBICLTD 72.0   bullish  36.0       moderate      -8.69%
+BIGBLOC    72.0   bullish  36.0       moderate      -8.77%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
