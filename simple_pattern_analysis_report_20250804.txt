@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-04
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1761
+  Failed Analyses: 335
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1079
+  Bearish Signals: 71
+  Neutral Signals: 611
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+BESTAGRO   70     neutral  ₹509.80     +59.89% bullish   
+AKZOINDIA  65     bullish  ₹3722.00    +14.81% bullish   
+MHRIL      65     bullish  ₹355.95      +4.06% bullish   
+PARAGMILK  65     bullish  ₹239.80      +5.23% bullish   
+PGEL       65     bullish  ₹789.30      +3.49% bullish   
+GUJAPOLLO  60     bearish  ₹470.85     +29.66% bullish   
+SHREEPUSHK 60     bearish  ₹403.05     +29.00% bullish   
+SUDARSCHEM 60     bearish  ₹1448.10    +18.58% bullish   
+THYROCARE  60     bearish  ₹1352.90    +36.38% bullish   
+CGCL       55     bullish  ₹190.12      +9.05% bullish   
+CHEMCON    55     bullish  ₹237.97     +20.32% bullish   
+HDFCBANK   55     bullish  ₹1992.00     +0.60% bullish   
+PIIND      55     bullish  ₹4138.00     -0.72% bullish   
+RAMKY      55     bullish  ₹573.65      +6.48% bullish   
+RHIM       55     bullish  ₹523.20      +8.42% bullish   
+YATHARTH   55     bullish  ₹650.80     +23.76% bullish   
+AGROPHOS   50     bullish  ₹46.74      +29.08% bullish   
+ALLDIGI    50     bullish  ₹1060.30    +15.07% bullish   
+CARRARO    50     bullish  ₹500.40     +13.59% bullish   
+CUPID      50     bullish  ₹167.35     +61.46% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
