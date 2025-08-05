@@ -1,0 +1,129 @@
+🎯 MULTI-INDICATOR SWING TRADING SIGNALS
+================================================================================
+Generated: 2025-08-05 21:22:46
+Total High-Quality Signals: 7
+Minimum Signal Strength: 4/5
+
+📊 METHODOLOGY:
+----------------------------------------
+• Supertrend (10, 3.0): Trend direction and momentum
+• Guppy EMAs: Multiple moving average alignment
+• Squeeze Momentum: Bollinger Bands vs Keltner Channels
+• Volume Analysis: 1.5x average volume confirmation
+• RSI Filter: Avoid overbought/oversold extremes
+
+📈 SIGNAL SUMMARY:
+----------------------------------------
+Bullish Signals: 5
+Bearish Signals: 2
+Average Signal Strength: 5.0/5
+
+🎯 TOP MULTI-INDICATOR SIGNALS:
+================================================================================
+Symbol       Signal   Price      Strength RSI    Volume   Stop       Target1   
+--------------------------------------------------------------------------------
+CSBBANK      BULLISH  ₹427.70    5/5     63.8  2.8    x ₹392.24    ₹445.12   
+DICIND       BEARISH  ₹613.40    5/5     40.2  2.1    x ₹634.48    ₹575.72   
+EIHAHOTELS   BULLISH  ₹382.90    5/5     46.5  1.9    x ₹357.62    ₹406.09   
+ERIS         BULLISH  ₹1808.10   5/5     61.2  2.9    x ₹1637.53   ₹1905.61  
+GEECEE       BEARISH  ₹380.65    5/5     54.3  2.2    x ₹392.10    ₹361.13   
+HAPPYFORGE   BULLISH  ₹973.30    5/5     58.8  2.8    x ₹876.79    ₹1019.78  
+STEELXIND    BULLISH  ₹10.72     5/5     58.6  1.6    x ₹9.12      ₹11.72    
+
+================================================================================
+🎯 DETAILED ANALYSIS (Top 10):
+================================================================================
+
+1. CSBBANK - BULLISH SIGNAL
+   Current Price: ₹427.70
+   Signal Strength: 5/5
+   Supertrend: ₹398.05 (UP)
+   RSI: 63.8
+   Volume Ratio: 2.8x
+   Squeeze Status: ON
+   Stop Loss: ₹392.24
+   Target 1: ₹445.12
+   Target 2: ₹456.72
+   Risk/Reward: 1:0.5
+
+2. DICIND - BEARISH SIGNAL
+   Current Price: ₹613.40
+   Signal Strength: 5/5
+   Supertrend: ₹621.92 (UP)
+   RSI: 40.2
+   Volume Ratio: 2.1x
+   Squeeze Status: ON
+   Stop Loss: ₹634.48
+   Target 1: ₹575.72
+   Target 2: ₹550.60
+   Risk/Reward: 1:1.8
+
+3. EIHAHOTELS - BULLISH SIGNAL
+   Current Price: ₹382.90
+   Signal Strength: 5/5
+   Supertrend: ₹365.35 (UP)
+   RSI: 46.5
+   Volume Ratio: 1.9x
+   Squeeze Status: ON
+   Stop Loss: ₹357.62
+   Target 1: ₹406.09
+   Target 2: ₹421.55
+   Risk/Reward: 1:0.9
+
+4. ERIS - BULLISH SIGNAL
+   Current Price: ₹1808.10
+   Signal Strength: 5/5
+   Supertrend: ₹1670.03 (UP)
+   RSI: 61.2
+   Volume Ratio: 2.9x
+   Squeeze Status: ON
+   Stop Loss: ₹1637.53
+   Target 1: ₹1905.61
+   Target 2: ₹1970.62
+   Risk/Reward: 1:0.6
+
+5. GEECEE - BEARISH SIGNAL
+   Current Price: ₹380.65
+   Signal Strength: 5/5
+   Supertrend: ₹385.60 (UP)
+   RSI: 54.3
+   Volume Ratio: 2.2x
+   Squeeze Status: ON
+   Stop Loss: ₹392.10
+   Target 1: ₹361.13
+   Target 2: ₹348.12
+   Risk/Reward: 1:1.7
+
+6. HAPPYFORGE - BULLISH SIGNAL
+   Current Price: ₹973.30
+   Signal Strength: 5/5
+   Supertrend: ₹892.29 (UP)
+   RSI: 58.8
+   Volume Ratio: 2.8x
+   Squeeze Status: ON
+   Stop Loss: ₹876.79
+   Target 1: ₹1019.78
+   Target 2: ₹1050.77
+   Risk/Reward: 1:0.5
+
+7. STEELXIND - BULLISH SIGNAL
+   Current Price: ₹10.72
+   Signal Strength: 5/5
+   Supertrend: ₹9.45 (UP)
+   RSI: 58.6
+   Volume Ratio: 1.6x
+   Squeeze Status: ON
+   Stop Loss: ₹9.12
+   Target 1: ₹11.72
+   Target 2: ₹12.39
+   Risk/Reward: 1:0.6
+
+================================================================================
+⚠️  IMPORTANT DISCLAIMERS:
+================================================================================
+• This analysis is for educational purposes only
+• Past performance does not guarantee future results
+• Always use proper risk management and position sizing
+• Consider market conditions and news before trading
+• Consult with a qualified financial advisor
+• The creators are not responsible for any trading losses

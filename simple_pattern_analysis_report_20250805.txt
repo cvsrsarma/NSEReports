@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-05
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1759
+  Failed Analyses: 337
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1121
+  Bearish Signals: 52
+  Neutral Signals: 586
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+AKZOINDIA  65     bullish  ₹3691.50    +15.75% bullish   
+GUJTHEM    65     bullish  ₹358.10      +3.63% bullish   
+SANGHIIND  65     bullish  ₹67.10       +6.39% bullish   
+STARTECK   65     bullish  ₹308.65      +3.78% bullish   
+UNIENTER   65     bullish  ₹156.75      +1.66% bullish   
+DIXON      60     bearish  ₹16849.00   +17.70% bullish   
+ETERNAL    60     bullish  ₹302.15     +13.94% bullish   
+SHYAMMETL  60     bearish  ₹982.10     +13.66% bullish   
+SUDARSCHEM 60     bearish  ₹1450.00    +20.05% bullish   
+COMSYN     55     bullish  ₹131.63      -3.81% bullish   
+CSBBANK    55     bullish  ₹427.70      +8.77% bullish   
+JCHAC      55     bullish  ₹1765.80     -0.91% bearish   
+PAYTM      55     bullish  ₹1053.00    +14.99% bullish   
+AHLADA     50     bullish  ₹67.28       -1.55% bearish   
+ALLDIGI    50     bullish  ₹1069.40    +15.86% bullish   
+CHEMPLASTS 50     bullish  ₹421.80      -1.15% bullish   
+CUPID      50     bullish  ₹162.19     +56.03% bullish   
+EXCEL      50     bullish  ₹1.14       +34.12% bullish   
+EXIDEIND   50     bullish  ₹384.75      -1.05% bullish   
+JKCEMENT   50     bullish  ₹6928.00    +14.27% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
