@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-06
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1756
+  Failed Analyses: 340
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1228
+  Bearish Signals: 39
+  Neutral Signals: 489
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+ERIS       75     bullish  ₹1724.80     +2.92% bullish   
+AKZOINDIA  65     bullish  ₹3696.00     +8.11% bullish   
+AVTNPL     65     bullish  ₹72.74       +8.94% bullish   
+KALYANKJIL 65     bullish  ₹590.20      +8.34% bullish   
+RAIN       65     bullish  ₹152.13      +2.40% bullish   
+DPABHUSHAN 60     bullish  ₹1640.80    +13.75% bullish   
+PARADEEP   60     bearish  ₹231.57     +46.67% bullish   
+SUDARSCHEM 60     bearish  ₹1449.00    +15.03% bullish   
+THYROCARE  60     bearish  ₹1346.20    +35.07% bullish   
+TI         60     bullish  ₹486.60     +40.25% bullish   
+COMSYN     55     bullish  ₹132.04      -2.88% bullish   
+GODREJIND  55     bullish  ₹1137.80     -8.79% bearish   
+GPIL       55     bullish  ₹190.49      +0.37% bullish   
+IGARASHI   55     bullish  ₹623.65     +29.04% bullish   
+JCHAC      55     bullish  ₹1757.70     +0.45% bearish   
+LAOPALA    55     bullish  ₹275.65      +7.20% bullish   
+MATRIMONY  55     bullish  ₹530.60      -1.03% bullish   
+PGHH       55     bullish  ₹13227.00    +0.05% bullish   
+PRAKASH    55     bullish  ₹185.78     +14.08% bullish   
+SREEL      55     bullish  ₹240.50      -5.70% bearish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
