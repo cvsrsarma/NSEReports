@@ -1,0 +1,745 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    NEWS ANALYSIS & PREDICTION DISCLAIMER                     ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+⚠️  CRITICAL INVESTMENT WARNING ⚠️
+
+📰 NEWS ANALYSIS DISCLAIMERS:
+   • News sentiment analysis is AUTOMATED and may be INACCURATE
+   • AI/ML sentiment analysis has limitations and biases
+   • News impact on stock prices is UNPREDICTABLE
+   • Market reactions to news can be delayed or opposite to expectations
+   • This is NOT financial advice - for EDUCATIONAL purposes only
+
+🤖 SENTIMENT ANALYSIS LIMITATIONS:
+   • Automated sentiment may misinterpret context, sarcasm, or nuance
+   • News sources may have bias or incomplete information
+   • Real-time news not captured in this analysis
+   • Sentiment scores are probabilistic, not definitive
+
+📊 PREDICTION ACCURACY WARNING:
+   • Predictions are SPECULATIVE based on historical patterns
+   • NO GUARANTEE of price movements in predicted direction
+   • Market sentiment can change rapidly with new information
+   • External factors can override news-based predictions
+
+💰 INVESTMENT RESPONSIBILITY:
+   • NEVER invest based solely on automated analysis
+   • Always verify news sources and conduct independent research
+   • Use proper risk management and position sizing
+   • Consult qualified financial advisors before investing
+
+═══════════════════════════════════════════════════════════════════════════════
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                      NEWS SENTIMENT ANALYSIS RESULTS                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📈 STOCKS WITH POSITIVE NEWS SENTIMENT & BULLISH PREDICTIONS:
+
+
+┌─ JAYNECOIND - Jayaswal Neco Industries Limit... ─────────────────────────
+│ 💰 Current Price: ₹54.06
+│ 📊 Volume: 87,856,248.0
+│ 📰 News Items Analyzed: 2
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.031 (-1 to +1)
+│    • Confidence Level: 6.6%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 59.7%
+│    • Combined Score: 0.597
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.031
+│    • Technical Impact: 0.700
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • Jayaswal Neco Industries Limited reports strong quarterly ea...
+│      [Neutral sentiment, 9.7% confidence]
+│    • Analysts bullish on Jayaswal Neco Industries Limited stock o...
+│      [Neutral sentiment, 3.6% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ VMM - Vishal Mega Mart Limited... ─────────────────────────
+│ 💰 Current Price: ₹146.37
+│ 📊 Volume: 21,739,024.0
+│ 📰 News Items Analyzed: 2
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.031 (-1 to +1)
+│    • Confidence Level: 6.6%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 59.7%
+│    • Combined Score: 0.597
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.031
+│    • Technical Impact: 0.700
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • Vishal Mega Mart Limited reports strong quarterly earnings...
+│      [Neutral sentiment, 9.7% confidence]
+│    • Analysts bullish on Vishal Mega Mart Limited stock outlook...
+│      [Neutral sentiment, 3.6% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ ABFRL - Aditya Birla Fashion and Retai... ─────────────────────────
+│ 💰 Current Price: ₹76.46
+│ 📊 Volume: 13,101,425.0
+│ 📰 News Items Analyzed: 6
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.010 (-1 to +1)
+│    • Confidence Level: 2.2%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 57.2%
+│    • Combined Score: 0.572
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.010
+│    • Technical Impact: 0.700
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ SUZLON - Suzlon Energy Limited... ─────────────────────────
+│ 💰 Current Price: ₹65.26
+│ 📊 Volume: 47,280,146.0
+│ 📰 News Items Analyzed: 7
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.009 (-1 to +1)
+│    • Confidence Level: 1.9%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 57.0%
+│    • Combined Score: 0.570
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.009
+│    • Technical Impact: 0.700
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ BLACKBUCK - Zinka Logistics Solutions Limi... ─────────────────────────
+│ 💰 Current Price: ₹561.25
+│ 📊 Volume: 21,156,743.0
+│ 📰 News Items Analyzed: 2
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.031 (-1 to +1)
+│    • Confidence Level: 6.6%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 35.7%
+│    • Combined Score: 0.357
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.031
+│    • Technical Impact: 0.400
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • Zinka Logistics Solutions Limited reports strong quarterly e...
+│      [Neutral sentiment, 9.7% confidence]
+│    • Analysts bullish on Zinka Logistics Solutions Limited stock ...
+│      [Neutral sentiment, 3.6% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ SARDAEN - Sarda Energy & Minerals Limite... ─────────────────────────
+│ 💰 Current Price: ₹581.75
+│ 📊 Volume: 21,118,345.0
+│ 📰 News Items Analyzed: 2
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.031 (-1 to +1)
+│    • Confidence Level: 6.6%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 35.7%
+│    • Combined Score: 0.357
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.031
+│    • Technical Impact: 0.400
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • Sarda Energy & Minerals Limited reports strong quarterly ear...
+│      [Neutral sentiment, 9.7% confidence]
+│    • Analysts bullish on Sarda Energy & Minerals Limited stock ou...
+│      [Neutral sentiment, 3.6% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ PARADEEP - Paradeep Phosphates Limited... ─────────────────────────
+│ 💰 Current Price: ₹231.57
+│ 📊 Volume: 13,484,579.0
+│ 📰 News Items Analyzed: 7
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.009 (-1 to +1)
+│    • Confidence Level: 1.9%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 33.0%
+│    • Combined Score: 0.330
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.009
+│    • Technical Impact: 0.400
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ CANBK - Canara Bank... ─────────────────────────
+│ 💰 Current Price: ₹108.77
+│ 📊 Volume: 40,662,042.0
+│ 📰 News Items Analyzed: 7
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.062 (-1 to +1)
+│    • Confidence Level: 6.2%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 31.4%
+│    • Combined Score: 0.314
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.062
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ PNB - Punjab National Bank... ─────────────────────────
+│ 💰 Current Price: ₹103.83
+│ 📊 Volume: 15,512,043.0
+│ 📰 News Items Analyzed: 7
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.062 (-1 to +1)
+│    • Confidence Level: 6.2%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Strong Bullish)
+│    • Confidence: 31.4%
+│    • Combined Score: 0.314
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.062
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ TRANSRAILL - Transrail Lighting Limited... ─────────────────────────
+│ 💰 Current Price: ₹794.65
+│ 📊 Volume: 27,383,522.0
+│ 📰 News Items Analyzed: 2
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.031 (-1 to +1)
+│    • Confidence Level: 6.6%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Bullish)
+│    • Confidence: 27.7%
+│    • Combined Score: 0.277
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.031
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • Transrail Lighting Limited reports strong quarterly earnings...
+│      [Neutral sentiment, 9.7% confidence]
+│    • Analysts bullish on Transrail Lighting Limited stock outlook...
+│      [Neutral sentiment, 3.6% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ GMRAIRPORT - GMR AIRPORTS LIMITED... ─────────────────────────
+│ 💰 Current Price: ₹91.39
+│ 📊 Volume: 13,230,869.0
+│ 📰 News Items Analyzed: 4
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.015 (-1 to +1)
+│    • Confidence Level: 3.3%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Bullish)
+│    • Confidence: 25.8%
+│    • Combined Score: 0.258
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.015
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • GMR AIRPORTS LIMITED reports strong quarterly earnings...
+│      [Neutral sentiment, 9.7% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ NCC - NCC Limited... ─────────────────────────
+│ 💰 Current Price: ₹214.92
+│ 📊 Volume: 18,998,547.0
+│ 📰 News Items Analyzed: 5
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.012 (-1 to +1)
+│    • Confidence Level: 2.7%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Bullish)
+│    • Confidence: 25.5%
+│    • Combined Score: 0.255
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.012
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ BEL - Bharat Electronics Limited... ─────────────────────────
+│ 💰 Current Price: ₹389.70
+│ 📊 Volume: 16,852,693.0
+│ 📰 News Items Analyzed: 5
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.012 (-1 to +1)
+│    • Confidence Level: 2.7%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Bullish)
+│    • Confidence: 25.5%
+│    • Combined Score: 0.255
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.012
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ ETERNAL - ETERNAL LIMITED... ─────────────────────────
+│ 💰 Current Price: ₹298.85
+│ 📊 Volume: 22,012,280.0
+│ 📰 News Items Analyzed: 7
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.009 (-1 to +1)
+│    • Confidence Level: 1.9%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Bullish)
+│    • Confidence: 25.0%
+│    • Combined Score: 0.250
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.009
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ SWIGGY - Swiggy Limited... ─────────────────────────
+│ 💰 Current Price: ₹393.95
+│ 📊 Volume: 16,552,149.0
+│ 📰 News Items Analyzed: 7
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.009 (-1 to +1)
+│    • Confidence Level: 1.9%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Bullish)
+│    • Confidence: 25.0%
+│    • Combined Score: 0.250
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.009
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ NTPC - NTPC Limited... ─────────────────────────
+│ 💰 Current Price: ₹332.10
+│ 📊 Volume: 13,872,826.0
+│ 📰 News Items Analyzed: 7
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.009 (-1 to +1)
+│    • Confidence Level: 1.9%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Bullish)
+│    • Confidence: 25.0%
+│    • Combined Score: 0.250
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.009
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+┌─ TATASTEEL - Tata Steel Limited... ─────────────────────────
+│ 💰 Current Price: ₹158.66
+│ 📊 Volume: 13,438,851.0
+│ 📰 News Items Analyzed: 7
+│ 
+│ 📊 NEWS SENTIMENT ANALYSIS:
+│    • Overall Sentiment: Neutral
+│    • Sentiment Score: 0.009 (-1 to +1)
+│    • Confidence Level: 1.9%
+│ 
+│ 🎯 PRICE PREDICTION:
+│    • Direction: UP (Bullish)
+│    • Confidence: 25.0%
+│    • Combined Score: 0.250
+│ 
+│ 📋 CONTRIBUTING FACTORS:
+│    • Sentiment Impact: 0.009
+│    • Technical Impact: 0.300
+│    • Volume Weight: 2.00x
+│ 
+│ 📰 KEY NEWS ANALYSIS:
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│    • ...
+│      [Neutral sentiment, 0.0% confidence]
+│ 
+│ 🔍 WHY THIS STOCK MIGHT MOVE UP:
+│    News sentiment shows neutral bias
+│    combined with technical factors suggesting potential upward movement.
+│    Volume activity indicates market interest in this stock.
+│ 
+│ ⚠️  RISK FACTORS:
+│    • News sentiment can change rapidly with new information
+│    • Market may have already priced in the news impact
+│    • External market factors can override individual stock news
+└─────────────────────────────────────────────────────────────
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                           ANALYSIS SUMMARY                                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+📊 OVERALL MARKET SENTIMENT (based on analyzed stocks):
+   • Total Stocks Analyzed: 20
+   • Bullish Predictions: 17 (85.0%)
+   • Bearish Predictions: 0 (0.0%)
+   • Neutral Predictions: 3 (15.0%)
+
+📅 REPORT DETAILS:
+   • Generated: 2025-08-06 at 23:44:54
+   • Analysis Method: Automated sentiment analysis + technical factors
+   • News Sources: Yahoo Finance, Economic Times, MoneyControl
+   • Prediction Model: Combined sentiment + technical + volume weighting
+
+🎓 EDUCATIONAL PURPOSE:
+   This demonstrates how news sentiment can be combined with technical analysis
+   for enhanced market predictions. Use this to understand market dynamics,
+   but always conduct independent research before making investment decisions.
+
+📞 FINAL REMINDERS:
+   • News-based predictions are speculative and may be wrong
+   • Market efficiency means news impact may already be priced in
+   • Always use stop-losses and proper risk management
+   • Diversify your investments across multiple assets and sectors
+
+═══════════════════════════════════════════════════════════════════════════════
+
+Generated by NSE News Analysis System
+For Educational and Research Purposes Only
+© 2025 - Not Financial Advice
+
+═══════════════════════════════════════════════════════════════════════════════
