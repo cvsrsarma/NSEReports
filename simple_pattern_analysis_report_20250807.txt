@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-07
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1756
+  Failed Analyses: 340
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1182
+  Bearish Signals: 43
+  Neutral Signals: 531
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+3MINDIA    70     neutral  ₹32000.00   +12.28% bullish   
+ETERNAL    70     bullish  ₹301.75     +14.23% bullish   
+PROZONER   70     neutral  ₹43.17      +13.34% bullish   
+CHEVIOT    65     bullish  ₹1189.00     -2.05% bearish   
+GANDHITUBE 65     bullish  ₹734.20      +2.58% bullish   
+INNOVACAP  65     bullish  ₹909.55      +5.92% bullish   
+LAOPALA    65     bullish  ₹264.25      +1.16% bullish   
+SUDARSCHEM 60     bearish  ₹1458.50    +18.25% bullish   
+TI         60     bullish  ₹482.20     +38.98% bullish   
+APCOTEXIND 55     bullish  ₹400.95      +0.35% bullish   
+BANARISUG  55     bullish  ₹3752.90     -3.96% bearish   
+EIDPARRY   55     bullish  ₹1143.20     +2.99% bullish   
+LT         55     bullish  ₹3641.60     -0.77% bearish   
+NAVNETEDUL 55     bullish  ₹149.53      +5.05% bullish   
+PGHH       55     bullish  ₹13217.00    -1.11% bullish   
+TCS        55     bullish  ₹3047.00    -11.99% bearish   
+ALLDIGI    50     bullish  ₹1070.60    +15.61% bullish   
+ASIANPAINT 50     bearish  ₹2506.50     +7.07% bullish   
+ATHERENERG 50     bullish  ₹398.05     +19.79% bullish   
+CAPLIPOINT 50     bullish  ₹2058.30     -2.80% bearish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
