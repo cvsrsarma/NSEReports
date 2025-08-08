@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-08-08 17:51:32
+Data Date: 2025-08-08
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+3MINDIA      3M India Limited             ₹31615.00 RSI: 64.5
+FORCEMOT     FORCE MOTORS LTD             ₹17804.00 RSI: 58.6
+PTCIL        PTC Industries Limited       ₹15105.00 RSI: 60.6
+GODFRYPHLP   Godfrey Phillips India Li... ₹ 9949.50 RSI: 58.6
+JKCEMENT     JK Cement Limited            ₹ 7051.00 RSI: 73.9
+TATAINVEST   Tata Investment Corporati... ₹ 6894.50 RSI: 55.6
+CRAFTSMAN    Craftsman Automation Limi... ₹ 6520.00 RSI: 58.0
+PGHL         Procter & Gamble Health L... ₹ 6343.00 RSI: 70.6
+EICHERMOT    Eicher Motors Limited        ₹ 5663.00 RSI: 59.2
+HDFCAMC      HDFC Asset Management Com... ₹ 5562.00 RSI: 57.9
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 4599.80 RSI: 62.3
+ECLERX       eClerx Services Limited      ₹ 4109.30 RSI: 71.5
+SMLISUZU     SML Isuzu Limited            ₹ 3853.20 RSI: 69.0
+LALPATHLAB   Dr. Lal Path Labs Ltd.       ₹ 3190.30 RSI: 65.3
+PIDILITIND   Pidilite Industries Limit... ₹ 3081.30 RSI: 65.6
+TVSMOTOR     TVS Motor Company Limited    ₹ 2968.90 RSI: 61.8
+AIIL         Authum Investment & Infra... ₹ 2843.60 RSI: 57.0
+RADICO       Radico Khaitan Limited       ₹ 2824.10 RSI: 60.2
+HINDUNILVR   Hindustan Unilever Limite... ₹ 2498.60 RSI: 56.0
+ASIANPAINT   Asian Paints Limited         ₹ 2475.60 RSI: 61.2
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+NESTLEIND    Nestle India Limited         ₹ 1096.50 RSI:  6.7
+SBGLP        Suratwwala Business Group... ₹   41.09 RSI:  8.7
+PDSL         PDS Limited                  ₹  322.60 RSI: 11.8
+KOTARISUG    Kothari Sugars And Chemic... ₹   29.80 RSI: 12.5
+SHALPAINTS   Shalimar Paints Limited      ₹   75.14 RSI: 13.6
+BAJFINANCE   Bajaj Finance Limited        ₹  877.15 RSI: 13.7
+GSS          GSS Infotech Limited         ₹   26.77 RSI: 14.0
+ASHOKLEY     Ashok Leyland Limited        ₹  115.42 RSI: 14.1
+KELLTONTEC   Kellton Tech Solutions Li... ₹   25.71 RSI: 14.4
+JISLJALEQS   Jain Irrigation Systems L... ₹   46.00 RSI: 14.5
+ROTO         Roto Pumps Limited           ₹   82.94 RSI: 14.5
+ABLBL        Aditya Birla Lifestyle Br... ₹  132.14 RSI: 14.9
+PNBHOUSING   PNB Housing Finance Limit... ₹  770.75 RSI: 15.7
+MOREPENLAB   Morepen Laboratories Limi... ₹   47.14 RSI: 16.1
+BIGBLOC      Bigbloc Construction Limi... ₹   51.40 RSI: 16.3
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  877.15 ADX: 73.8 DOWN
+GALLANTT     Gallantt Ispat Limited       ₹  757.65 ADX: 71.4 UP
+HEUBACHIND   Heubach Colorants India L... ₹  590.55 ADX: 66.8 UP
+DATAMATICS   Datamatics Global Service... ₹  989.25 ADX: 66.7 UP
+ROTO         Roto Pumps Limited           ₹   82.94 ADX: 65.5 DOWN
+VESUVIUS     Vesuvius India Limited       ₹  528.85 ADX: 64.8 DOWN
+ASHOKLEY     Ashok Leyland Limited        ₹  115.42 ADX: 63.5 DOWN
+CUPID        Cupid Limited                ₹  167.70 ADX: 63.2 UP
+COFORGE      Coforge Limited              ₹ 1606.80 ADX: 62.3 DOWN
+PARAS        Paras Defence and Space T... ₹  624.50 ADX: 58.9 DOWN
+VMART        V-Mart Retail Limited        ₹  760.50 ADX: 58.7 DOWN
+IFGLEXPOR    IFGL Refractories Limited    ₹  230.50 ADX: 58.6 DOWN
+PROSTARM     Prostarm Info Systems Lim... ₹  198.58 ADX: 57.8 UP
+STARTECK     Starteck Finance Limited     ₹  329.45 ADX: 56.0 UP
+HUBTOWN      Hubtown Limited              ₹  335.50 ADX: 55.7 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

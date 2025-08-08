@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-08
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1761
+  Failed Analyses: 335
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1230
+  Bearish Signals: 36
+  Neutral Signals: 495
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+STARTECK   70     neutral  ₹329.45     +11.36% bullish   
+AGIIL      65     bullish  ₹1060.20     +8.32% bullish   
+HDFCAMC    65     bullish  ₹5562.00     +7.13% bullish   
+INSECTICID 65     bullish  ₹974.30      +0.66% bullish   
+JSL        65     bullish  ₹683.40      -3.08% bullish   
+LAURUSLABS 65     bullish  ₹821.85     +13.38% bullish   
+VENKEYS    65     bullish  ₹1507.80     -5.74% bearish   
+ETERNAL    60     bullish  ₹300.90     +13.91% bullish   
+PROZONER   60     bearish  ₹43.58      +14.41% bullish   
+SUDARSCHEM 60     bearish  ₹1460.70    +18.43% bullish   
+TEGA       60     bullish  ₹1856.80    +19.20% bullish   
+EICHERMOT  55     bullish  ₹5663.00     +0.11% bearish   
+EUREKAFORB 55     bullish  ₹559.20      -6.19% bearish   
+INNOVACAP  55     bullish  ₹916.70      +6.75% bullish   
+PERSISTENT 55     bullish  ₹5105.50    -15.49% bearish   
+ULTRACEMCO 55     bullish  ₹12157.00    +0.53% bearish   
+VSTIND     55     bullish  ₹280.05      -8.93% bearish   
+ATHERENERG 50     bullish  ₹426.35     +28.30% bullish   
+EXCEL      50     bullish  ₹1.14       +26.67% bullish   
+FORTIS     50     bullish  ₹897.35     +12.95% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
