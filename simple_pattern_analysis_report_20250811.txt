@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-11
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1759
+  Failed Analyses: 337
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1133
+  Bearish Signals: 56
+  Neutral Signals: 570
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+GENUSPOWER 65     bullish  ₹369.60      +1.71% bullish   
+RHIM       65     bullish  ₹490.30      +5.20% bullish   
+COMSYN     60     neutral  ₹138.90      +2.70% bullish   
+SUDARSCHEM 60     bearish  ₹1454.70    +16.11% bullish   
+20MICRONS  55     bullish  ₹231.93      +1.69% bullish   
+ABCAPITAL  55     bullish  ₹271.20      -0.91% bearish   
+BAJAJHFL   55     bullish  ₹112.74      -7.10% bearish   
+DEEPINDS   55     bullish  ₹547.65     +22.28% bullish   
+MARUTI     55     bullish  ₹12597.00    -0.20% bearish   
+NARMADA    55     bullish  ₹23.57      +32.94% bullish   
+PERSISTENT 55     bullish  ₹5171.00    -14.02% bearish   
+SHREECEM   55     bullish  ₹30640.00    -3.16% bearish   
+VSTTILLERS 55     bullish  ₹4806.10    +21.97% bullish   
+AFCONS     50     bullish  ₹424.90      -1.39% bearish   
+ANURAS     50     bullish  ₹1138.00     +0.32% bearish   
+CUPID      50     bullish  ₹165.13     +54.24% bullish   
+EICHERMOT  50     bearish  ₹5671.50     -0.89% bearish   
+FORTIS     50     bullish  ₹920.65     +16.16% bullish   
+HCG        50     bullish  ₹651.55     +21.85% bullish   
+JKCEMENT   50     bullish  ₹6962.00    +13.04% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
