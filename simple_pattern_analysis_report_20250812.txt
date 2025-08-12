@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-12
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1758
+  Failed Analyses: 338
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1127
+  Bearish Signals: 59
+  Neutral Signals: 572
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+AGIIL      65     bullish  ₹1070.40     +7.20% bullish   
+BOSCHLTD   65     bullish  ₹38610.00   +12.22% bullish   
+HUBTOWN    60     bearish  ₹348.85     +27.36% bullish   
+COMSYN     55     bullish  ₹137.14      +3.28% bullish   
+SANOFICONR 55     bullish  ₹5132.00     -1.08% bearish   
+TCS        55     bullish  ₹3035.40    -10.74% bearish   
+TRENT      55     bullish  ₹5365.50    -13.33% bearish   
+VSTIND     55     bullish  ₹279.20      -6.76% bearish   
+EICHERMOT  50     bearish  ₹5658.00     -1.01% bearish   
+HCG        50     bullish  ₹671.35     +22.64% bullish   
+HEUBACHIND 50     bullish  ₹595.25      +1.41% bullish   
+JAYNECOIND 50     bullish  ₹59.99      +54.14% bullish   
+JAYSREETEA 50     bullish  ₹112.86      +0.52% bearish   
+ORTINGLOBE 50     bullish  ₹18.03      +53.45% bullish   
+PIDILITIND 50     bearish  ₹3101.50     -0.42% bearish   
+RELIABLE   50     bullish  ₹89.05      +19.00% bullish   
+SIRCA      50     bullish  ₹462.45     +24.10% bullish   
+STARCEMENT 50     bullish  ₹290.62     +35.27% bullish   
+SUNFLAG    50     bullish  ₹296.45      -4.56% bearish   
+YATRA      50     bullish  ₹137.11     +61.59% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

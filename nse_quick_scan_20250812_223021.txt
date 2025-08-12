@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-08-12 22:30:21
+Data Date: 2025-08-12
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+3MINDIA      3M India Limited             ₹31025.00 RSI: 55.4
+POWERINDIA   Hitachi Energy India Limi... ₹20695.00 RSI: 56.0
+FORCEMOT     FORCE MOTORS LTD             ₹18919.00 RSI: 65.4
+ZFCVINDIA    ZF Commercial Vehicle Con... ₹13763.00 RSI: 58.4
+MARUTI       Maruti Suzuki India Limit... ₹12840.00 RSI: 61.2
+ULTRACEMCO   UltraTech Cement Limited     ₹12449.00 RSI: 58.9
+BHARATRAS    Bharat Rasayan Limited       ₹11499.00 RSI: 61.4
+JKCEMENT     JK Cement Limited            ₹ 7025.00 RSI: 69.9
+TATAINVEST   Tata Investment Corporati... ₹ 6889.50 RSI: 55.3
+CRAFTSMAN    Craftsman Automation Limi... ₹ 6881.00 RSI: 65.6
+PGHL         Procter & Gamble Health L... ₹ 6336.00 RSI: 70.0
+INDIGO       InterGlobe Aviation Limit... ₹ 5927.50 RSI: 57.2
+EICHERMOT    Eicher Motors Limited        ₹ 5658.00 RSI: 58.2
+ALKEM        Alkem Laboratories Limite... ₹ 5149.00 RSI: 62.7
+VSTTILLERS   V.S.T Tillers Tractors Li... ₹ 4995.10 RSI: 69.5
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 4645.20 RSI: 63.3
+DMART        Avenue Supermarts Limited    ₹ 4252.50 RSI: 56.8
+ECLERX       eClerx Services Limited      ₹ 4094.30 RSI: 70.1
+SMLISUZU     SML Isuzu Limited            ₹ 3937.70 RSI: 70.8
+CUMMINSIND   Cummins India Limited        ₹ 3759.90 RSI: 69.7
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+NESTLEIND    Nestle India Limited         ₹ 1091.10 RSI:  7.2
+KOTARISUG    Kothari Sugars And Chemic... ₹   28.69 RSI: 10.6
+SBGLP        Suratwwala Business Group... ₹   42.79 RSI: 12.0
+SHALPAINTS   Shalimar Paints Limited      ₹   73.36 RSI: 12.2
+PDSL         PDS Limited                  ₹  322.55 RSI: 13.2
+BAJFINANCE   Bajaj Finance Limited        ₹  853.00 RSI: 13.3
+KELLTONTEC   Kellton Tech Solutions Li... ₹   25.13 RSI: 14.3
+HIKAL        Hikal Limited                ₹  268.20 RSI: 14.4
+PRAJIND      Praj Industries Limited      ₹  413.60 RSI: 14.7
+SULA         Sula Vineyards Limited       ₹  249.75 RSI: 14.8
+IFGLEXPOR    IFGL Refractories Limited    ₹  220.43 RSI: 15.3
+ARVIND       Arvind Limited               ₹  292.65 RSI: 15.4
+MOREPENLAB   Morepen Laboratories Limi... ₹   46.64 RSI: 15.6
+PNBHOUSING   PNB Housing Finance Limit... ₹  767.15 RSI: 16.2
+GOCOLORS     Go Fashion (India) Limite... ₹  696.35 RSI: 16.2
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  853.00 ADX: 73.7 DOWN
+GALLANTT     Gallantt Ispat Limited       ₹  710.00 ADX: 69.4 UP
+HEUBACHIND   Heubach Colorants India L... ₹  595.25 ADX: 67.1 UP
+ASHOKLEY     Ashok Leyland Limited        ₹  119.36 ADX: 65.4 DOWN
+ROTO         Roto Pumps Limited           ₹   88.36 ADX: 65.1 DOWN
+VESUVIUS     Vesuvius India Limited       ₹  517.40 ADX: 63.4 DOWN
+COFORGE      Coforge Limited              ₹ 1625.40 ADX: 62.5 DOWN
+DATAMATICS   Datamatics Global Service... ₹ 1058.40 ADX: 61.6 UP
+IFGLEXPOR    IFGL Refractories Limited    ₹  220.43 ADX: 61.0 DOWN
+STARTECK     Starteck Finance Limited     ₹  323.25 ADX: 60.1 UP
+CUPID        Cupid Limited                ₹  165.41 ADX: 59.0 UP
+PARAS        Paras Defence and Space T... ₹  656.35 ADX: 58.9 DOWN
+VMART        V-Mart Retail Limited        ₹  749.15 ADX: 58.1 DOWN
+ZUARI        Zuari Agro Chemicals Limi... ₹  374.65 ADX: 57.4 UP
+TEJASNET     Tejas Networks Limited       ₹  550.95 ADX: 54.6 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

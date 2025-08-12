@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-12
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1758
+• Failed Analyses: 338
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 847
+• Bearish Signals: 219
+• Neutral Signals: 692
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 9
+• Moderate Risk: 367
+• High Risk: 1071
+• Very High Risk: 311
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+ZOTA       80.0   bearish  40.0       high         +16.18%
+STARCEMENT 78.0   neutral  59.0       high         +35.27%
+BBTCL      77.0   bullish  58.5       very_high     +24.09%
+GTLINFRA   76.0   bearish  38.0       high         -19.13%
+PVRINOX    76.0   neutral  58.0       high         +11.45%
+BANSWRAS   74.0   bullish  37.0       very_high     -19.12%
+HPAL       74.0   bullish  37.0       high          -9.92%
+ZODIACLOTH 74.0   bullish  37.0       high         -14.66%
+FORTIS     73.0   neutral  56.5       moderate     +17.33%
+IMAGICAA   72.0   bullish  36.0       high         -10.57%
+KAUSHALYA  72.0   bullish  36.0       high          -7.13%
+HAL        67.0   bullish  33.5       moderate     -10.58%
+RPPL       66.0   neutral  33.0       very_high      -6.38%
+BATAINDIA  65.0   bullish  32.5       moderate      -7.74%
+DEVYANI    64.0   neutral  32.0       moderate      -8.21%
+EQUITASBNK 64.0   neutral  32.0       high         -19.56%
+INDIANHUME 64.0   bullish  32.0       high         -18.00%
+AAATECH    63.0   neutral  31.5       high          +1.64%
+ACE        63.0   bullish  31.5       high         -20.30%
+APCOTEXIND 63.0   bullish  51.4       high          +3.09%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
