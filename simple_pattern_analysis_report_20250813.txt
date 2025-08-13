@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-13
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1757
+  Failed Analyses: 339
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1074
+  Bearish Signals: 73
+  Neutral Signals: 610
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HUBTOWN    70     neutral  ₹346.30     +24.17% bullish   
+BOSCHLTD   65     bullish  ₹38660.00    +7.60% bullish   
+GODIGIT    65     bullish  ₹356.80      +5.75% bullish   
+ATHERENERG 60     bearish  ₹412.30     +25.61% bullish   
+GABRIEL    60     neutral  ₹1109.60    +16.60% bullish   
+SUDARSCHEM 60     bearish  ₹1446.00    +15.26% bullish   
+ABB        55     bullish  ₹5087.00    -13.22% bearish   
+ABCAPITAL  55     bullish  ₹269.70      -1.95% bearish   
+ATLANTAA   55     bullish  ₹34.74       -5.83% bearish   
+BANDHANBNK 55     bullish  ₹165.70      -7.93% bearish   
+JINDALSTEL 55     bullish  ₹996.35      +4.55% bullish   
+KOTAKBANK  55     bullish  ₹1987.70     -6.67% bearish   
+NMDC       55     bullish  ₹72.58       +5.52% bullish   
+ANURAS     50     bullish  ₹1146.80     +0.87% bearish   
+ASIANPAINT 50     bearish  ₹2500.20     +3.14% bullish   
+CHEVIOT    50     bullish  ₹1178.60     +0.17% bullish   
+EICHERMOT  50     bearish  ₹5714.50     +1.52% bullish   
+GOKULAGRO  50     bullish  ₹313.75      +4.65% bearish   
+MATRIMONY  50     bullish  ₹524.75      -0.15% bullish   
+ORTINGLOBE 50     bullish  ₹18.03      +53.45% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
