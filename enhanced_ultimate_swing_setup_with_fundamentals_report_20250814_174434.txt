@@ -1,0 +1,1642 @@
+
+================================================================================
+🚀 ENHANCED ULTIMATE SWING SETUP REPORT WITH FUNDAMENTALS 🚀
+Generated: 2025-08-14 17:44:44
+================================================================================
+
+⚠️ CRITICAL DISCLAIMER ⚠️
+This report is for EDUCATIONAL PURPOSES ONLY and does NOT constitute financial advice.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee 
+future results. The strategies and signals in this report are for learning purposes.
+Always consult with a qualified financial advisor before making investment decisions.
+Never trade with money you cannot afford to lose.
+
+The fundamental analysis included is for informational purposes only and should not 
+be the sole basis for investment decisions. Always conduct your own research.
+
+================================================================================
+📊 EXECUTIVE SUMMARY
+================================================================================
+
+📈 MARKET ANALYSIS:
+• Total Stocks Analyzed: 1,722
+• Bullish Signals Found: 68
+• Average Signal Strength: 5.0/5.0
+• Average RSI: 61.7
+• Average Risk per Share: ₹197.24
+
+📊 SIGNAL STRENGTH DISTRIBUTION:
+• 5/5 Strength: 68 signals
+
+💰 RISK/REWARD DISTRIBUTION:
+• 1.5-2:1: 19 signals
+• 2-3:1: 49 signals
+
+🏭 SECTOR BREAKDOWN:
+• Technology: 11 bullish signals
+• Banking/Finance: 3 bullish signals
+
+💼 ENHANCED FUNDAMENTAL OVERVIEW:
+
+🏆 QUALITY ANALYSIS SUMMARY:
+• Average Quality Score: 5.2/10
+• AAA Quality Stocks (9.0+): 0 signals
+• AA Quality Stocks (8.0-8.9): 0 signals
+• A Quality Stocks (7.0-7.9): 0 signals
+
+💰 VALUATION ANALYSIS SUMMARY:
+• Average Valuation Score: 3.1/10
+• Undervalued Stocks (8.0+): 0 signals
+• Fairly Valued Stocks (6.0-7.9): 0 signals
+• Overvalued Stocks (<6.0): 30 signals
+
+🎯 INVESTMENT RECOMMENDATION SUMMARY:
+• Strong Buy Recommendations: 0 signals
+• Buy Recommendations: 0 signals
+• Hold Recommendations: 1 signals
+
+📊 LEGACY FUNDAMENTAL OVERVIEW:
+• Average P/E Ratio: 22.9
+• Average ROE: 14.4%
+• Average Promoter Holding: 59.3%
+• High Quality Stocks (Fund Score ≥ 4): 0
+• Good Quality Stocks (Fund Score ≥ 3): 28
+
+
+================================================================================
+🎯 TOP TRADING OPPORTUNITIES WITH FUNDAMENTALS
+================================================================================
+
+The following stocks show strong bullish swing setup signals with enhanced
+confirmation from Heikin Ashi trend analysis and ATR-based stop loss levels.
+Each includes a complete trading plan with entry, exit, risk management,
+and comprehensive fundamental analysis including promoter shareholding.
+
+
+1. 
+📊 TRADING PLAN: ABCAPITAL (Aditya Birla Capital Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹273.00
+🛑 Stop Loss: ₹265.77 (-2.6%)
+🎯 Target 1: ₹287.45 (R:R = 2.0:1)
+🎯 Target 2: ₹294.68 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹7.23
+
+📊 TECHNICAL INDICATORS:
+• RSI: 55.2 (Sweet Spot: 50-70)
+• EMA 50: ₹258.34 | EMA 200: ₹223.36
+• MACD: 2.6764 > Signal: 2.4344 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 8.20 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 23.7 (Industry Avg: 27.4)
+• P/B Ratio: 4.5 (Book Value: ₹N/A)
+• Debt/Equity: 0.6 ⚠️
+• ROE: 11.4% ⚠️
+• Revenue Growth: 7.0% YoY ⚠️
+• Profit Margin: 14.9%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 0.8%
+• Promoter Holding: 48.6% 👥
+• Fundamental Score: 3.0/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 2,219,784 (High)
+• Day Range: ₹268.10 - ₹274.10
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹271.63
+2. Watch for volume confirmation above 2,219,784
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹287.45)
+2. Take remaining 50% at Target 2 (₹294.68)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: C - Very Poor Quality):
+• Overall Quality Score: 3.97/10
+• Profitability: Average ROE (11.4%)
+• Leverage: Moderate debt (0.6)
+• Liquidity: Adequate liquidity (1.5)
+• Growth: Modest growth (7.0%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 2.5/10
+• Earnings Valuation: Fairly valued (PE: 23.7)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 4.5)
+• Dividend Income: Very low dividend yield (0.8%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: STRONG SELL
+• Risk Level: Very High
+• Reasoning: Poor quality and expensive valuation
+• Combined Score: Quality 3.97/10 + Valuation 2.5/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+2. 
+📊 TRADING PLAN: ANURAS (Anupam Rasayan India Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹1158.40
+🛑 Stop Loss: ₹1106.72 (-4.5%)
+🎯 Target 1: ₹1261.77 (R:R = 2.0:1)
+🎯 Target 2: ₹1313.45 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹51.68
+
+📊 TECHNICAL INDICATORS:
+• RSI: 60.3 (Sweet Spot: 50-70)
+• EMA 50: ₹1104.15 | EMA 200: ₹929.78
+• MACD: 5.2705 > Signal: 5.2062 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 28.10 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 16.2 (Industry Avg: 18.6)
+• P/B Ratio: 4.1 (Book Value: ₹N/A)
+• Debt/Equity: 0.56 ⚠️
+• ROE: 12.9% ⚠️
+• Revenue Growth: 7.9% YoY ⚠️
+• Profit Margin: 14.0%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 2.2%
+• Promoter Holding: 67.2% 👥
+• Fundamental Score: 3.0/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 596,446 (Medium)
+• Day Range: ₹1140.00 - ₹1197.00
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹1152.61
+2. Watch for volume confirmation above 596,446
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹1261.77)
+2. Take remaining 50% at Target 2 (₹1313.45)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: B - Poor Quality):
+• Overall Quality Score: 4.58/10
+• Profitability: Average ROE (12.9%)
+• Leverage: Moderate debt (0.56)
+• Liquidity: Strong liquidity (2.4)
+• Growth: Modest growth (7.9%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 3.1/10
+• Earnings Valuation: Fairly valued (PE: 16.2)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 4.1)
+• Dividend Income: Good dividend yield (2.2%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: STRONG SELL
+• Risk Level: Very High
+• Reasoning: Poor quality and expensive valuation
+• Combined Score: Quality 4.58/10 + Valuation 3.1/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Strong promoter holding (67.2%)
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+3. 
+📊 TRADING PLAN: APOLLO (Apollo Micro Systems Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹189.90
+🛑 Stop Loss: ₹188.34 (-0.8%)
+🎯 Target 1: ₹193.01 (R:R = 2.0:1)
+🎯 Target 2: ₹194.57 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹1.56
+
+📊 TECHNICAL INDICATORS:
+• RSI: 58.8 (Sweet Spot: 50-70)
+• EMA 50: ₹177.89 | EMA 200: ₹147.22
+• MACD: 0.7002 > Signal: -1.0921 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 8.35 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 25.5 (Industry Avg: 27.5)
+• P/B Ratio: 5.7 (Book Value: ₹N/A)
+• Debt/Equity: 0.38 ✓
+• ROE: 14.9% ⚠️
+• Revenue Growth: 10.2% YoY ✓
+• Profit Margin: 11.4%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 2.9%
+• Promoter Holding: 48.9% 👥
+• Fundamental Score: 3.2/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 7,869,661 (High)
+• Day Range: ₹183.00 - ₹193.93
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹188.95
+2. Watch for volume confirmation above 7,869,661
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹193.01)
+2. Take remaining 50% at Target 2 (₹194.57)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: BB - Below Average Quality):
+• Overall Quality Score: 5.68/10
+• Profitability: Average ROE (14.9%)
+• Leverage: Conservative debt (0.38)
+• Liquidity: Strong liquidity (2.5)
+• Growth: Good growth (10.2%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 2.5/10
+• Earnings Valuation: Expensive (PE: 25.5)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 5.7)
+• Dividend Income: Good dividend yield (2.9%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: AVOID
+• Risk Level: High
+• Reasoning: Risk-reward not favorable
+• Combined Score: Quality 5.68/10 + Valuation 2.5/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Premium valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+4. 
+📊 TRADING PLAN: ASTERDM (Aster DM Healthcare Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹605.60
+🛑 Stop Loss: ₹605.26 (-0.1%)
+🎯 Target 1: ₹606.27 (R:R = 2.0:1)
+🎯 Target 2: ₹606.61 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹0.34
+
+📊 TECHNICAL INDICATORS:
+• RSI: 54.6 (Sweet Spot: 50-70)
+• EMA 50: ₹585.77 | EMA 200: ₹520.06
+• MACD: 2.2679 > Signal: 1.0520 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 17.73 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 29.5 (Industry Avg: 29.9)
+• P/B Ratio: 6.0 (Book Value: ₹N/A)
+• Debt/Equity: 0.66 ⚠️
+• ROE: 17.4% ✓
+• Revenue Growth: 18.7% YoY ✓
+• Profit Margin: 10.5%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 1.1%
+• Promoter Holding: 69.7% 👥
+• Fundamental Score: 3.4/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 454,486 (Medium)
+• Day Range: ₹603.05 - ₹617.70
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹602.57
+2. Watch for volume confirmation above 454,486
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹606.27)
+2. Take remaining 50% at Target 2 (₹606.61)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: BB - Below Average Quality):
+• Overall Quality Score: 5.98/10
+• Profitability: Good ROE (17.4%)
+• Leverage: Moderate debt (0.66)
+• Liquidity: Strong liquidity (2.5)
+• Growth: Strong growth (18.7%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 2.2/10
+• Earnings Valuation: Expensive (PE: 29.5)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 6.0)
+• Dividend Income: Low dividend yield (1.1%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: AVOID
+• Risk Level: High
+• Reasoning: Risk-reward not favorable
+• Combined Score: Quality 5.98/10 + Valuation 2.2/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Strong promoter holding (69.7%)
+• Valuation: Premium valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+5. 
+📊 TRADING PLAN: ASTRAMICRO (Astra Microwave Products Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹1006.40
+🛑 Stop Loss: ₹944.07 (-6.2%)
+🎯 Target 1: ₹1131.05 (R:R = 2.0:1)
+🎯 Target 2: ₹1193.38 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹62.33
+
+📊 TECHNICAL INDICATORS:
+• RSI: 52.8 (Sweet Spot: 50-70)
+• EMA 50: ₹996.93 | EMA 200: ₹893.92
+• MACD: -7.5678 > Signal: -16.4087 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 34.85 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 23.6 (Industry Avg: 21.3)
+• P/B Ratio: 4.7 (Book Value: ₹N/A)
+• Debt/Equity: 0.54 ⚠️
+• ROE: 10.1% ⚠️
+• Revenue Growth: 11.5% YoY ✓
+• Profit Margin: 9.3%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 1.1%
+• Promoter Holding: 53.6% 👥
+• Fundamental Score: 3.0/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 424,650 (Medium)
+• Day Range: ₹984.60 - ₹1035.00
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹1001.37
+2. Watch for volume confirmation above 424,650
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹1131.05)
+2. Take remaining 50% at Target 2 (₹1193.38)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: B - Poor Quality):
+• Overall Quality Score: 4.38/10
+• Profitability: Average ROE (10.1%)
+• Leverage: Moderate debt (0.54)
+• Liquidity: Adequate liquidity (1.3)
+• Growth: Good growth (11.5%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 2.8/10
+• Earnings Valuation: Fairly valued (PE: 23.6)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 4.7)
+• Dividend Income: Low dividend yield (1.1%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: STRONG SELL
+• Risk Level: Very High
+• Reasoning: Poor quality and expensive valuation
+• Combined Score: Quality 4.38/10 + Valuation 2.8/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+6. 
+📊 TRADING PLAN: CAPLIPOINT (Caplin Point Laboratories Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹2135.20
+🛑 Stop Loss: ₹1871.67 (-12.3%)
+🎯 Target 1: ₹2662.25 (R:R = 2.0:1)
+🎯 Target 2: ₹2925.78 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹263.53
+
+📊 TECHNICAL INDICATORS:
+• RSI: 56.5 (Sweet Spot: 50-70)
+• EMA 50: ₹2062.46 | EMA 200: ₹1999.33
+• MACD: 10.2886 > Signal: -2.0297 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 76.31 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 25.8 (Industry Avg: 29.2)
+• P/B Ratio: 4.9 (Book Value: ₹N/A)
+• Debt/Equity: 0.53 ⚠️
+• ROE: 19.3% ✓
+• Revenue Growth: 12.5% YoY ✓
+• Profit Margin: 9.3%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 1.6%
+• Promoter Holding: 55.3% 👥
+• Fundamental Score: 3.0/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 57,779 (Low)
+• Day Range: ₹2125.00 - ₹2185.70
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹2124.52
+2. Watch for volume confirmation above 57,779
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹2662.25)
+2. Take remaining 50% at Target 2 (₹2925.78)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: BB - Below Average Quality):
+• Overall Quality Score: 5.58/10
+• Profitability: Good ROE (19.3%)
+• Leverage: Moderate debt (0.53)
+• Liquidity: Strong liquidity (2.2)
+• Growth: Good growth (12.5%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 2.2/10
+• Earnings Valuation: Expensive (PE: 25.8)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 4.9)
+• Dividend Income: Low dividend yield (1.6%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: AVOID
+• Risk Level: High
+• Reasoning: Risk-reward not favorable
+• Combined Score: Quality 5.58/10 + Valuation 2.2/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Premium valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+7. 
+📊 TRADING PLAN: EPL (EPL Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹230.25
+🛑 Stop Loss: ₹196.60 (-14.6%)
+🎯 Target 1: ₹297.55 (R:R = 2.0:1)
+🎯 Target 2: ₹331.20 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹33.65
+
+📊 TECHNICAL INDICATORS:
+• RSI: 51.8 (Sweet Spot: 50-70)
+• EMA 50: ₹229.70 | EMA 200: ₹228.25
+• MACD: -1.2218 > Signal: -2.1989 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 7.67 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 28.6 (Industry Avg: 25.6)
+• P/B Ratio: 4.8 (Book Value: ₹N/A)
+• Debt/Equity: 0.52 ⚠️
+• ROE: 18.0% ✓
+• Revenue Growth: 10.7% YoY ✓
+• Profit Margin: 12.0%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 0.6%
+• Promoter Holding: 57.2% 👥
+• Fundamental Score: 3.2/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 362,342 (Medium)
+• Day Range: ₹228.49 - ₹233.00
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹229.10
+2. Watch for volume confirmation above 362,342
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹297.55)
+2. Take remaining 50% at Target 2 (₹331.20)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: BB - Below Average Quality):
+• Overall Quality Score: 5.28/10
+• Profitability: Good ROE (18.0%)
+• Leverage: Moderate debt (0.52)
+• Liquidity: Adequate liquidity (1.9)
+• Growth: Good growth (10.7%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 1.9/10
+• Earnings Valuation: Expensive (PE: 28.6)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 4.8)
+• Dividend Income: Very low dividend yield (0.6%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: AVOID
+• Risk Level: High
+• Reasoning: Risk-reward not favorable
+• Combined Score: Quality 5.28/10 + Valuation 1.9/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Premium valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+8. 
+📊 TRADING PLAN: FACT (Fertilizers and Chemicals Travancore Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹963.70
+🛑 Stop Loss: ₹915.83 (-5.0%)
+🎯 Target 1: ₹1059.45 (R:R = 2.0:1)
+🎯 Target 2: ₹1107.32 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹47.87
+
+📊 TECHNICAL INDICATORS:
+• RSI: 52.8 (Sweet Spot: 50-70)
+• EMA 50: ₹941.77 | EMA 200: ₹883.21
+• MACD: -1.1449 > Signal: -3.8819 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 36.87 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 29.2 (Industry Avg: 26.8)
+• P/B Ratio: 5.9 (Book Value: ₹N/A)
+• Debt/Equity: 0.33 ✓
+• ROE: 14.3% ⚠️
+• Revenue Growth: 5.8% YoY ⚠️
+• Profit Margin: 12.9%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 0.8%
+• Promoter Holding: 56.6% 👥
+• Fundamental Score: 3.0/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 407,231 (Medium)
+• Day Range: ₹957.80 - ₹992.75
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹958.88
+2. Watch for volume confirmation above 407,231
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹1059.45)
+2. Take remaining 50% at Target 2 (₹1107.32)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: B - Poor Quality):
+• Overall Quality Score: 4.68/10
+• Profitability: Average ROE (14.3%)
+• Leverage: Conservative debt (0.33)
+• Liquidity: Adequate liquidity (1.7)
+• Growth: Modest growth (5.8%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 1.9/10
+• Earnings Valuation: Expensive (PE: 29.2)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 5.9)
+• Dividend Income: Very low dividend yield (0.8%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: STRONG SELL
+• Risk Level: Very High
+• Reasoning: Poor quality and expensive valuation
+• Combined Score: Quality 4.68/10 + Valuation 1.9/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Premium valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+9. 
+📊 TRADING PLAN: FIBERWEB (Fiberweb (India) Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹49.77
+🛑 Stop Loss: ₹42.38 (-14.9%)
+🎯 Target 1: ₹64.55 (R:R = 2.0:1)
+🎯 Target 2: ₹71.94 (R:R = 3.0:1)
+📦 Position Size: 9 shares
+💸 Risk per Share: ₹7.39
+
+📊 TECHNICAL INDICATORS:
+• RSI: 55.0 (Sweet Spot: 50-70)
+• EMA 50: ₹48.72 | EMA 200: ₹46.54
+• MACD: -0.3028 > Signal: -0.3813 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 2.06 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 23.7 (Industry Avg: 25.8)
+• P/B Ratio: 4.9 (Book Value: ₹N/A)
+• Debt/Equity: 0.43 ✓
+• ROE: 10.5% ⚠️
+• Revenue Growth: 23.9% YoY ✓
+• Profit Margin: 8.6%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 1.8%
+• Promoter Holding: 59.1% 👥
+• Fundamental Score: 3.6/5.0 ✅
+
+📈 MARKET DATA:
+• Volume: 82,309 (Low)
+• Day Range: ₹48.55 - ₹51.20
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹49.52
+2. Watch for volume confirmation above 82,309
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹64.55)
+2. Take remaining 50% at Target 2 (₹71.94)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: BB - Below Average Quality):
+• Overall Quality Score: 5.18/10
+• Profitability: Average ROE (10.5%)
+• Leverage: Moderate debt (0.43)
+• Liquidity: Adequate liquidity (1.8)
+• Growth: Excellent growth (23.9%)
+
+💰 VALUATION ANALYSIS (Overvalued):
+• Overall Valuation Score: 4.0/10
+• Earnings Valuation: Fairly valued (PE: 23.7)
+• Growth vs Price: Good value vs growth
+• Book Value: Very high book value multiple (PB: 4.9)
+• Dividend Income: Low dividend yield (1.8%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: AVOID
+• Risk Level: High
+• Reasoning: Risk-reward not favorable
+• Combined Score: Quality 5.18/10 + Valuation 4.0/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+10. 
+📊 TRADING PLAN: GEPIL (GE Power India Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹336.60
+🛑 Stop Loss: ₹112.50 (-66.6%)
+🎯 Target 1: ₹784.80 (R:R = 2.0:1)
+🎯 Target 2: ₹1008.89 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹224.10
+
+📊 TECHNICAL INDICATORS:
+• RSI: 61.8 (Sweet Spot: 50-70)
+• EMA 50: ₹306.14 | EMA 200: ₹305.93
+• MACD: 9.2189 > Signal: 4.4564 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 16.22 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 18.6 (Industry Avg: 21.1)
+• P/B Ratio: 3.4 (Book Value: ₹N/A)
+• Debt/Equity: 0.35 ✓
+• ROE: 16.9% ✓
+• Revenue Growth: 14.6% YoY ✓
+• Profit Margin: 8.6%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 0.7%
+• Promoter Holding: 68.7% 👥
+• Fundamental Score: 3.4/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 871,556 (Medium)
+• Day Range: ₹333.25 - ₹360.50
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹334.92
+2. Watch for volume confirmation above 871,556
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹784.80)
+2. Take remaining 50% at Target 2 (₹1008.89)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: BB - Below Average Quality):
+• Overall Quality Score: 5.38/10
+• Profitability: Good ROE (16.9%)
+• Leverage: Conservative debt (0.35)
+• Liquidity: Adequate liquidity (1.7)
+• Growth: Good growth (14.6%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 3.7/10
+• Earnings Valuation: Fairly valued (PE: 18.6)
+• Growth vs Price: Fair value vs growth
+• Book Value: High book value multiple (PB: 3.4)
+• Dividend Income: Very low dividend yield (0.7%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: AVOID
+• Risk Level: High
+• Reasoning: Risk-reward not favorable
+• Combined Score: Quality 5.38/10 + Valuation 3.7/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Strong promoter holding (68.7%)
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+11. 
+📊 TRADING PLAN: GMDCLTD (Gujarat Mineral Development Corporation Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹424.95
+🛑 Stop Loss: ₹422.06 (-0.7%)
+🎯 Target 1: ₹430.72 (R:R = 2.0:1)
+🎯 Target 2: ₹433.61 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹2.89
+
+📊 TECHNICAL INDICATORS:
+• RSI: 55.9 (Sweet Spot: 50-70)
+• EMA 50: ₹398.03 | EMA 200: ₹358.80
+• MACD: 3.2836 > Signal: 3.1398 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 20.16 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 24.9 (Industry Avg: 29.8)
+• P/B Ratio: 4.3 (Book Value: ₹N/A)
+• Debt/Equity: 0.43 ✓
+• ROE: 11.3% ⚠️
+• Revenue Growth: 18.5% YoY ✓
+• Profit Margin: 12.7%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 2.5%
+• Promoter Holding: 60.9% 👥
+• Fundamental Score: 3.6/5.0 ✅
+
+📈 MARKET DATA:
+• Volume: 9,920,292 (High)
+• Day Range: ₹414.05 - ₹440.50
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹422.83
+2. Watch for volume confirmation above 9,920,292
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹430.72)
+2. Take remaining 50% at Target 2 (₹433.61)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: B - Poor Quality):
+• Overall Quality Score: 4.78/10
+• Profitability: Average ROE (11.3%)
+• Leverage: Moderate debt (0.43)
+• Liquidity: Adequate liquidity (1.5)
+• Growth: Strong growth (18.5%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 3.7/10
+• Earnings Valuation: Fairly valued (PE: 24.9)
+• Growth vs Price: Fair value vs growth
+• Book Value: Very high book value multiple (PB: 4.3)
+• Dividend Income: Good dividend yield (2.5%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: STRONG SELL
+• Risk Level: Very High
+• Reasoning: Poor quality and expensive valuation
+• Combined Score: Quality 4.78/10 + Valuation 3.7/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Strong promoter holding (60.9%)
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+12. 
+📊 TRADING PLAN: GODFRYPHLP (Godfrey Phillips India Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹10182.50
+🛑 Stop Loss: ₹9910.87 (-2.7%)
+🎯 Target 1: ₹10725.75 (R:R = 2.0:1)
+🎯 Target 2: ₹10997.38 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹271.63
+
+📊 TECHNICAL INDICATORS:
+• RSI: 60.0 (Sweet Spot: 50-70)
+• EMA 50: ₹9037.82 | EMA 200: ₹7356.18
+• MACD: 336.6855 > Signal: 292.0116 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 526.57 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 22.0 (Industry Avg: 26.1)
+• P/B Ratio: 3.9 (Book Value: ₹N/A)
+• Debt/Equity: 0.53 ⚠️
+• ROE: 14.9% ⚠️
+• Revenue Growth: 8.2% YoY ⚠️
+• Profit Margin: 13.8%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 0.7%
+• Promoter Holding: 49.6% 👥
+• Fundamental Score: 3.0/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 199,849 (Medium)
+• Day Range: ₹9947.50 - ₹10276.50
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹10131.59
+2. Watch for volume confirmation above 199,849
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹10725.75)
+2. Take remaining 50% at Target 2 (₹10997.38)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: B - Poor Quality):
+• Overall Quality Score: 4.28/10
+• Profitability: Average ROE (14.9%)
+• Leverage: Moderate debt (0.53)
+• Liquidity: Adequate liquidity (1.6)
+• Growth: Modest growth (8.2%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 3.1/10
+• Earnings Valuation: Fairly valued (PE: 22.0)
+• Growth vs Price: Poor value vs growth
+• Book Value: High book value multiple (PB: 3.9)
+• Dividend Income: Very low dividend yield (0.7%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: STRONG SELL
+• Risk Level: Very High
+• Reasoning: Poor quality and expensive valuation
+• Combined Score: Quality 4.28/10 + Valuation 3.1/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+13. 
+📊 TRADING PLAN: GODREJIND (Godrej Industries Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹1181.40
+🛑 Stop Loss: ₹1096.18 (-7.2%)
+🎯 Target 1: ₹1351.84 (R:R = 2.0:1)
+🎯 Target 2: ₹1437.06 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹85.22
+
+📊 TECHNICAL INDICATORS:
+• RSI: 58.7 (Sweet Spot: 50-70)
+• EMA 50: ₹1155.06 | EMA 200: ₹1103.09
+• MACD: -10.3187 > Signal: -16.7712 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 38.81 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 23.2 (Industry Avg: 20.2)
+• P/B Ratio: 4.6 (Book Value: ₹N/A)
+• Debt/Equity: 0.4 ✓
+• ROE: 16.7% ✓
+• Revenue Growth: 13.3% YoY ✓
+• Profit Margin: 10.9%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 2.0%
+• Promoter Holding: 64.6% 👥
+• Fundamental Score: 3.6/5.0 ✅
+
+📈 MARKET DATA:
+• Volume: 233,762 (Medium)
+• Day Range: ₹1151.10 - ₹1198.00
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹1175.49
+2. Watch for volume confirmation above 233,762
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹1351.84)
+2. Take remaining 50% at Target 2 (₹1437.06)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: BB - Below Average Quality):
+• Overall Quality Score: 5.98/10
+• Profitability: Good ROE (16.7%)
+• Leverage: Conservative debt (0.4)
+• Liquidity: Strong liquidity (2.1)
+• Growth: Good growth (13.3%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 3.1/10
+• Earnings Valuation: Fairly valued (PE: 23.2)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 4.6)
+• Dividend Income: Good dividend yield (2.0%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: AVOID
+• Risk Level: High
+• Reasoning: Risk-reward not favorable
+• Combined Score: Quality 5.98/10 + Valuation 3.1/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Strong promoter holding (64.6%)
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+14. 
+📊 TRADING PLAN: INDIGO (InterGlobe Aviation Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹6002.50
+🛑 Stop Loss: ₹5757.76 (-4.1%)
+🎯 Target 1: ₹6491.98 (R:R = 2.0:1)
+🎯 Target 2: ₹6736.72 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹244.74
+
+📊 TECHNICAL INDICATORS:
+• RSI: 60.9 (Sweet Spot: 50-70)
+• EMA 50: ₹5726.73 | EMA 200: ₹5126.06
+• MACD: 41.9245 > Signal: 33.4683 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 122.37 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 27.1 (Industry Avg: 27.4)
+• P/B Ratio: 4.8 (Book Value: ₹N/A)
+• Debt/Equity: 0.36 ✓
+• ROE: 13.8% ⚠️
+• Revenue Growth: 17.3% YoY ✓
+• Profit Margin: 13.3%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 2.7%
+• Promoter Holding: 65.7% 👥
+• Fundamental Score: 3.4/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 767,646 (Medium)
+• Day Range: ₹5955.50 - ₹6055.00
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹5972.49
+2. Watch for volume confirmation above 767,646
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹6491.98)
+2. Take remaining 50% at Target 2 (₹6736.72)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: BB - Below Average Quality):
+• Overall Quality Score: 5.78/10
+• Profitability: Average ROE (13.8%)
+• Leverage: Conservative debt (0.36)
+• Liquidity: Strong liquidity (2.2)
+• Growth: Strong growth (17.3%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 2.5/10
+• Earnings Valuation: Expensive (PE: 27.1)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 4.8)
+• Dividend Income: Good dividend yield (2.7%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: AVOID
+• Risk Level: High
+• Reasoning: Risk-reward not favorable
+• Combined Score: Quality 5.78/10 + Valuation 2.5/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Strong promoter holding (65.7%)
+• Valuation: Premium valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+15. 
+📊 TRADING PLAN: JSL (Jindal Stainless Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹729.90
+🛑 Stop Loss: ₹677.25 (-7.2%)
+🎯 Target 1: ₹835.20 (R:R = 2.0:1)
+🎯 Target 2: ₹887.85 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹52.65
+
+📊 TECHNICAL INDICATORS:
+• RSI: 60.0 (Sweet Spot: 50-70)
+• EMA 50: ₹684.91 | EMA 200: ₹668.89
+• MACD: 8.3098 > Signal: 6.2579 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 24.96 (Volatility Measure)
+• Crossover: None
+
+💼 FUNDAMENTAL ANALYSIS:
+• P/E Ratio: 19.3 (Industry Avg: 16.8)
+• P/B Ratio: 4.4 (Book Value: ₹N/A)
+• Debt/Equity: 0.62 ⚠️
+• ROE: 11.1% ⚠️
+• Revenue Growth: 12.4% YoY ✓
+• Profit Margin: 9.6%
+• Market Cap: ₹N/A Cr (N/A)
+• Sector: General
+• Dividend Yield: 0.9%
+• Promoter Holding: 49.8% 👥
+• Fundamental Score: 3.0/5.0 ⚠️
+
+📈 MARKET DATA:
+• Volume: 465,289 (Medium)
+• Day Range: ₹716.10 - ₹731.00
+• Trade Date: 2025-08-14
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹726.25
+2. Watch for volume confirmation above 465,289
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹835.20)
+2. Take remaining 50% at Target 2 (₹887.85)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+• Consider fundamental deterioration as exit signal
+
+📊 ENHANCED FUNDAMENTAL ANALYSIS:
+
+🏆 QUALITY ANALYSIS (Rating: B - Poor Quality):
+• Overall Quality Score: 4.97/10
+• Profitability: Average ROE (11.1%)
+• Leverage: Moderate debt (0.62)
+• Liquidity: Strong liquidity (2.1)
+• Growth: Good growth (12.4%)
+
+💰 VALUATION ANALYSIS (Severely Overvalued):
+• Overall Valuation Score: 2.5/10
+• Earnings Valuation: Fairly valued (PE: 19.3)
+• Growth vs Price: Poor value vs growth
+• Book Value: Very high book value multiple (PB: 4.4)
+• Dividend Income: Very low dividend yield (0.9%)
+
+🎯 INVESTMENT RECOMMENDATION:
+• Overall Rating: STRONG SELL
+• Risk Level: Very High
+• Reasoning: Poor quality and expensive valuation
+• Combined Score: Quality 4.97/10 + Valuation 2.5/10
+
+📊 LEGACY FUNDAMENTAL INSIGHTS:
+• Quality Assessment: Good fundamentals with some concerns
+• Promoter Confidence: Moderate promoter holding
+• Valuation: Reasonable valuation
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+================================================================================
+📋 ADDITIONAL SIGNALS - QUICK REFERENCE WITH FUNDAMENTALS
+================================================================================
+
+Symbol     Company              Str RSI   Price    PE     ROE    Prom%  FScore
+--------------------------------------------------------------------------------
+KAYNES     Kaynes Technology .. 5/5  55.2 ₹  6116 20.1   11.3%  47.6%  3.2   
+LOTUSEYE   Lotus Eye Hospital.. 5/5  60.9 ₹    77 22.0   14.3%  72.7%  3.6   
+MHLXMIRU   Mahalaxmi Rubtech .. 5/5  61.2 ₹   229 16.2   12.4%  63.9%  3.8   
+PFIZER     Pfizer Limited       5/5  55.2 ₹  5328 24.9   13.2%  68.1%  2.8   
+POONAWALLA Poonawalla Fincorp.. 5/5  60.1 ₹   456 26.8   10.8%  47.9%  2.8   
+RAINBOW    Rainbow Childrens .. 5/5  57.1 ₹  1552 20.8   10.2%  69.7%  3.4   
+RSYSTEMS   R Systems Internat.. 5/5  50.9 ₹   433 18.2   18.7%  50.2%  3.2   
+SHRIPISTON Shriram Pistons & .. 5/5  54.6 ₹  2460 27.6   19.4%  68.1%  3.0   
+SKIPPER    Skipper Limited      5/5  56.6 ₹   522 26.8   16.2%  59.0%  3.4   
+SUNDROP    Sundrop Brands Lim.. 5/5  51.7 ₹   852 28.6   17.0%  70.3%  3.2   
+TDPOWERSYS TD Power Systems L.. 5/5  54.0 ₹   509 17.0   15.6%  61.3%  3.8   
+TECHNOE    Techno Electric & .. 5/5  55.0 ₹  1494 19.3   18.6%  69.4%  3.6   
+TITAN      Titan Company Limi.. 5/5  55.8 ₹  3489 17.7   19.0%  48.6%  3.4   
+ZFCVINDIA  ZF Commercial Vehi.. 5/5  57.1 ₹ 13739 16.7   10.7%  47.0%  3.6   
+ZYDUSLIFE  Zydus Lifesciences.. 5/5  58.1 ₹   989 23.9   10.2%  59.4%  3.8   
+
+
+================================================================================
+📚 ENHANCED STRATEGY OVERVIEW WITH FUNDAMENTALS
+================================================================================
+
+🔍 ENHANCED ULTIMATE SWING SETUP CRITERIA:
+1. ✅ Trend: Price above EMA 50, EMA 50 above EMA 200
+2. ✅ Momentum: MACD line above signal line
+3. ✅ Strength: RSI between 50-70 (sweet spot)
+4. ✅ Volume: On Balance Volume above 20-period EMA
+5. ✅ Heikin Ashi: Strong bullish trend confirmation
+6. ✅ ATR Stop: Dynamic stop loss based on volatility
+7. ✅ **NEW**: Fundamental context for informed decisions
+
+🎯 TRADING METHODOLOGY:
+• Entry: Buy when all technical criteria are met
+• Stop Loss: ATR-based trailing stop (2x ATR below entry)
+• Target 1: 2:1 risk/reward ratio (50% position exit)
+• Target 2: 3:1 risk/reward ratio (remaining 50% exit)
+• Position Sizing: 2% account risk per trade
+• Time Frame: Daily charts for swing trading (3-10 days)
+• **NEW**: Fundamental analysis for risk assessment
+
+⚡ EXIT SIGNALS:
+• Stop Loss: Price closes below ATR trailing stop
+• Profit Taking: RSI above 80 (overbought)
+• Trend Change: MACD turns bearish
+• Manual Exit: After 2-3 weeks if no progress
+• **NEW**: Fundamental deterioration alerts
+
+💡 ENHANCED FEATURES:
+• Heikin Ashi candles for smoother trend identification
+• Dynamic ATR-based stop loss management
+• Position sizing based on volatility
+• Risk/reward optimization
+• Complete trade management system
+• **NEW**: Comprehensive fundamental analysis
+• **NEW**: Promoter shareholding insights
+• **NEW**: Sector-specific fundamental benchmarks
+
+================================================================================
+💼 FUNDAMENTAL ANALYSIS FRAMEWORK
+================================================================================
+
+📊 KEY FUNDAMENTAL METRICS EXPLAINED:
+
+1. **Enhanced Quality Scoring System**:
+   • 5-Component Analysis: Profitability, Leverage, Liquidity, Efficiency, Growth
+   • Quality Ratings: AAA (Exceptional) to C (Very Poor)
+   • Sector-Specific Benchmarking for accurate assessment
+   • Multi-Factor Scoring similar to Piotroski F-Score
+
+2. **Comprehensive Valuation Analysis**:
+   • Multiple Valuation Methods: P/E, P/B, P/S, PEG, Dividend Yield
+   • Sector-Relative Valuation Comparisons
+   • Value Categories: Undervalued, Fairly Valued, Overvalued
+   • Investment Recommendations based on Quality × Valuation matrix
+
+3. **Quality Components Explained**:
+   • **Profitability**: ROE, ROA, Profit Margins (30% weight)
+   • **Leverage**: Debt/Equity, Interest Coverage (20% weight)
+   • **Liquidity**: Current Ratio, Quick Ratio (15% weight)
+   • **Efficiency**: Asset Turnover, Working Capital (15% weight)
+   • **Growth**: Revenue Growth trends (20% weight)
+
+4. **Valuation Methodologies**:
+   • **Earnings Multiple**: P/E ratio analysis vs sector benchmarks
+   • **Growth Valuation**: PEG ratio for growth vs price assessment
+   • **Book Value**: P/B ratio for asset-based valuation
+   • **Sales Multiple**: P/S ratio for revenue-based valuation
+   • **Income Return**: Dividend yield for income investors
+
+5. **Investment Matrix Framework**:
+   • **High Quality + Undervalued** = STRONG BUY (Low Risk)
+   • **High Quality + Fair Value** = BUY (Low-Medium Risk)
+   • **Good Quality + Undervalued** = BUY (Medium Risk)
+   • **Good Quality + Fair Value** = HOLD (Medium Risk)
+   • **Poor Quality + Any Valuation** = AVOID/SELL (High Risk)
+
+🔍 LEGACY FUNDAMENTAL METRICS:
+   • P/E Ratio: Price-to-Earnings (lower generally better for value)
+   • P/B Ratio: Price-to-Book (measures market vs book value)
+   • P/S Ratio: Price-to-Sales (revenue multiple)
+
+2. **Profitability Metrics**:
+   • ROE: Return on Equity (higher is better, >15% excellent)
+   • ROA: Return on Assets (efficiency measure)
+   • Profit Margin: Net profit as % of revenue
+
+3. **Financial Health**:
+   • Debt/Equity: Financial leverage (lower is safer)
+   • Current Ratio: Short-term liquidity
+   • Quick Ratio: Immediate liquidity
+
+4. **Growth Indicators**:
+   • Revenue Growth: YoY sales growth
+   • EPS Growth: Earnings per share growth
+   • PEG Ratio: P/E relative to growth
+
+5. **Ownership Structure**:
+   • **Promoter Holding**: Management ownership stake
+   • High promoter holding (>60%) often indicates confidence
+   • Low promoter holding may suggest dilution or exit
+
+6. **Sector Context**:
+   • Industry P/E: Sector benchmark comparison
+   • Relative valuation within sector
+   • Sector-specific metrics
+
+📈 FUNDAMENTAL SCORING SYSTEM:
+• 5.0: Excellent fundamentals across all metrics
+• 4.0-4.9: Strong fundamentals with minor concerns
+• 3.0-3.9: Average fundamentals, mixed signals
+• 2.0-2.9: Below average, some red flags
+• 1.0-1.9: Poor fundamentals, high risk
+
+⚠️ IMPORTANT NOTES:
+• Fundamental analysis is for CONTEXT, not filtering
+• Technical signals remain the primary entry criteria
+• Fundamentals help assess long-term risk/reward
+• Strong fundamentals may support holding longer
+• Weak fundamentals may suggest faster exits
+
+================================================================================
+⚠️ RISK MANAGEMENT GUIDELINES ⚠️
+================================================================================
+
+🛡️ ESSENTIAL RISK RULES:
+1. Never risk more than 2% of total portfolio on any single trade
+2. Use proper position sizing based on stop loss distance
+3. Always use stop losses - no exceptions
+4. Take partial profits at predetermined levels
+5. Keep a trading journal to track performance
+6. Don't overtrade - quality over quantity
+7. Stay disciplined and stick to the plan
+8. **NEW**: Consider fundamental quality for position sizing
+9. **NEW**: Monitor promoter holding changes
+10. **NEW**: Watch for fundamental deterioration
+
+💰 POSITION SIZING FORMULA:
+Position Size = (Account Risk %) / (Stop Loss Distance %)
+Example: For ₹1,00,000 account with 2% risk and 5% stop:
+Position Size = (₹2,000) / (5%) = ₹40,000 worth of shares
+
+**Fundamental Adjustment**: Consider reducing position size by 25-50% 
+for stocks with Fundamental Score < 3.0
+
+📈 PERFORMANCE EXPECTATIONS:
+• Win Rate: Approximately 60-70% (historical backtests)
+• Average R:R: 2:1 to 3:1 risk/reward ratio
+• Holding Period: 3-10 trading days typically
+• Market Conditions: Works best in trending markets
+• **NEW**: Higher quality fundamentals may extend holding period
+
+================================================================================
+📅 IMPLEMENTATION TIMELINE
+================================================================================
+
+📋 DAILY ROUTINE:
+1. Run technical analysis after market close
+2. Review new signals and fetch fundamental data
+3. Prepare watchlist with fundamental context
+4. Set alerts for entry points
+5. Monitor existing positions for exit signals
+6. Update position sizes based on account balance
+
+📊 WEEKLY REVIEW:
+1. Analyze performance of closed trades
+2. Review and adjust risk management
+3. Update watchlist based on market conditions
+4. **NEW**: Review fundamental changes in holdings
+5. Plan for upcoming week
+
+📈 MONTHLY ASSESSMENT:
+1. Calculate overall strategy performance
+2. Adjust position sizing if needed
+3. Review and refine entry/exit criteria
+4. Analyze sector and market trends
+5. **NEW**: Update fundamental scoring methodology
+6. **NEW**: Review promoter holding trends
+
+================================================================================
+⚠️ FINAL DISCLAIMERS & WARNINGS ⚠️
+================================================================================
+
+🚨 IMPORTANT LEGAL NOTICES:
+
+1. EDUCATIONAL PURPOSE ONLY:
+   This report is created for educational and research purposes only.
+   It is NOT financial advice, investment recommendation, or trading guidance.
+
+2. RISK OF LOSS:
+   Trading stocks involves substantial risk of loss. You may lose some or all 
+   of your invested capital. Never trade with money you cannot afford to lose.
+
+3. NO GUARANTEE:
+   Past performance does not guarantee future results. Market conditions 
+   change and strategies may not work in all environments.
+
+4. FUNDAMENTAL DATA ACCURACY:
+   Fundamental data is sourced from various APIs and may not be 100% accurate.
+   Always verify important financial information from official sources.
+
+5. PROFESSIONAL ADVICE:
+   Always consult with a qualified financial advisor, accountant, or 
+   investment professional before making any investment decisions.
+
+6. PERSONAL RESPONSIBILITY:
+   Any trading decisions you make are entirely your own responsibility.
+   The creator of this report accepts no liability for any losses.
+
+7. MARKET RISKS:
+   Stock markets are subject to various risks including market risk,
+   liquidity risk, sector risk, and individual company risk.
+
+8. REGULATORY COMPLIANCE:
+   Ensure you comply with all applicable laws and regulations in your
+   jurisdiction regarding stock trading and investments.
+
+📞 SEEK PROFESSIONAL HELP:
+If you're new to trading, consider:
+• Taking a trading course from a reputable institution
+• Paper trading before using real money
+• Starting with small positions
+• Consulting with financial professionals
+• Reading books on technical analysis and risk management
+• **NEW**: Learning fundamental analysis basics
+• **NEW**: Understanding financial statements
+
+Remember: The best traders are disciplined, patient, and never stop learning.
+Successful trading is more about risk management than being right all the time.
+Combining technical signals with fundamental context provides a more complete picture.
+
+================================================================================
+Report generated by Enhanced Ultimate Swing Setup Analysis System with Fundamentals
+Last updated: 2025-08-14 17:44:44
+Generated by: NseStocks Analysis Framework
+Version: Enhanced v3.0 with ATR Stops, Position Sizing, and Fundamental Analysis
+Fundamental Data: Live fetched with promoter shareholding
+================================================================================

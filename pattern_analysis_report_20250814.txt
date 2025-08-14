@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-14
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1755
+• Failed Analyses: 341
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 913
+• Bearish Signals: 168
+• Neutral Signals: 674
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 10
+• Moderate Risk: 389
+• High Risk: 1028
+• Very High Risk: 328
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+KINGFA     83.0   bullish  41.5       high          +4.97%
+UNITEDTEA  81.0   neutral  59.7       high         +14.18%
+NDL        80.0   bearish  40.0       high          -9.55%
+HINDWAREAP 77.0   bearish  38.5       high          +9.08%
+MANINFRA   77.0   bullish  38.5       high         -17.59%
+RISHABH    77.0   neutral  38.5       high         +26.68%
+RPPL       75.0   bullish  37.5       very_high     -14.11%
+DMCC       74.0   neutral  57.0       very_high     +33.79%
+IXIGO      73.0   neutral  56.5       very_high     +56.60%
+STEL       73.0   bearish  36.5       high          +7.81%
+IMAGICAA   72.0   bullish  36.0       high         -12.44%
+MARKSANS   72.0   bullish  36.0       very_high     -30.62%
+SWELECTES  72.0   neutral  55.8       very_high     +25.22%
+RELIABLE   71.0   neutral  55.5       high         +26.02%
+SMLISUZU   70.0   neutral  55.0       very_high     +60.39%
+HINDOILEXP 67.0   bullish  33.5       moderate      -4.04%
+AUTOIND    66.0   neutral  33.0       high         -13.21%
+HPL        66.0   bullish  33.0       very_high     -14.01%
+ROHLTD     66.0   bullish  33.0       high          +5.86%
+SBC        66.0   neutral  53.0       high         +23.02%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
