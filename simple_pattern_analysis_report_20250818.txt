@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-18
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1759
+  Failed Analyses: 337
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 908
+  Bearish Signals: 100
+  Neutral Signals: 751
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+VMM        70     neutral  ₹146.98     +11.97% bullish   
+SHALBY     65     bullish  ₹202.08      +9.92% bullish   
+TATAINVEST 65     bullish  ₹6887.50     +3.71% bullish   
+UBL        65     bullish  ₹1902.60     -3.37% bearish   
+ATHERENERG 60     bearish  ₹414.35     +26.11% bullish   
+CUPID      60     bearish  ₹171.83     +59.19% bullish   
+DALBHARAT  60     neutral  ₹2330.80     +7.12% bullish   
+DEEPINDS   60     bearish  ₹546.45     +22.88% bullish   
+HIRECT     60     bearish  ₹1995.20    +43.56% bullish   
+SUDARSCHEM 60     bearish  ₹1451.20    +20.39% bullish   
+DODLA      55     bullish  ₹1341.20     -5.87% bearish   
+EPL        55     bullish  ₹235.06      +1.18% bearish   
+LT         55     bullish  ₹3635.10     +1.55% bullish   
+ACCURACY   50     bullish  ₹7.23        -8.25% bearish   
+AFCONS     50     bearish  ₹427.60      +0.65% bearish   
+AGIIL      50     bullish  ₹1187.80    +16.83% bullish   
+AVL        50     bullish  ₹482.95     +35.00% bullish   
+BAJAJHFL   50     bullish  ₹114.77      -5.41% bearish   
+BOROLTD    50     bullish  ₹334.35      -2.45% bearish   
+FSL        50     bearish  ₹359.20      -2.03% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

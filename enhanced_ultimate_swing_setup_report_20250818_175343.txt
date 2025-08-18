@@ -1,0 +1,920 @@
+
+================================================================================
+🚀 ENHANCED ULTIMATE SWING SETUP REPORT 🚀
+Generated: 2025-08-18 17:53:43
+================================================================================
+
+⚠️ CRITICAL DISCLAIMER ⚠️
+This report is for EDUCATIONAL PURPOSES ONLY and does NOT constitute financial advice.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee 
+future results. The strategies and signals in this report are for learning purposes.
+Always consult with a qualified financial advisor before making investment decisions.
+Never trade with money you cannot afford to lose.
+
+================================================================================
+📊 EXECUTIVE SUMMARY
+================================================================================
+
+📈 MARKET ANALYSIS:
+• Total Stocks Analyzed: 1,722
+• Bullish Signals Found: 80
+• Average Signal Strength: 5.0/5.0
+• Average RSI: 61.2
+• Average Risk per Share: ₹146.33
+
+📊 SIGNAL STRENGTH DISTRIBUTION:
+• 5/5 Strength: 80 signals
+
+💰 RISK/REWARD DISTRIBUTION:
+• 1.5-2:1: 26 signals
+• 2-3:1: 54 signals
+
+🏭 SECTOR BREAKDOWN:
+• Technology: 12 bullish signals
+• Banking/Finance: 8 bullish signals
+
+
+================================================================================
+🎯 TOP TRADING OPPORTUNITIES
+================================================================================
+
+The following stocks show strong bullish swing setup signals with enhanced
+confirmation from Heikin Ashi trend analysis and ATR-based stop loss levels.
+Each includes a complete trading plan with entry, exit, and risk management.
+
+
+1. 
+📊 TRADING PLAN: ADANIPOWER (Adani Power Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹598.75
+🛑 Stop Loss: ₹400.57 (-33.1%)
+🎯 Target 1: ₹995.11 (R:R = 2.0:1)
+🎯 Target 2: ₹1193.28 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹198.18
+
+📊 TECHNICAL INDICATORS:
+• RSI: 56.9 (Sweet Spot: 50-70)
+• EMA 50: ₹578.94 | EMA 200: ₹568.08
+• MACD: 0.9832 > Signal: 0.1753 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 16.18 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 3,212,796 (High)
+• Day Range: ₹586.50 - ₹601.50
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹595.76
+2. Watch for volume confirmation above 3,212,796
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹995.11)
+2. Take remaining 50% at Target 2 (₹1193.28)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+2. 
+📊 TRADING PLAN: AJMERA (Ajmera Realty & Infra India Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹903.80
+🛑 Stop Loss: ₹742.61 (-17.8%)
+🎯 Target 1: ₹1226.17 (R:R = 2.0:1)
+🎯 Target 2: ₹1387.36 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹161.19
+
+📊 TECHNICAL INDICATORS:
+• RSI: 52.2 (Sweet Spot: 50-70)
+• EMA 50: ₹895.18 | EMA 200: ₹879.42
+• MACD: -7.4046 > Signal: -8.9848 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 37.39 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 39,766 (Low)
+• Day Range: ₹893.95 - ₹913.15
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹899.28
+2. Watch for volume confirmation above 39,766
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹1226.17)
+2. Take remaining 50% at Target 2 (₹1387.36)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+3. 
+📊 TRADING PLAN: AVROIND (AVRO INDIA LIMITED)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹162.76
+🛑 Stop Loss: ₹144.60 (-11.2%)
+🎯 Target 1: ₹199.08 (R:R = 2.0:1)
+🎯 Target 2: ₹217.24 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹18.16
+
+📊 TECHNICAL INDICATORS:
+• RSI: 56.2 (Sweet Spot: 50-70)
+• EMA 50: ₹160.23 | EMA 200: ₹151.18
+• MACD: -0.5909 > Signal: -1.7645 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 7.78 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 13,541 (Low)
+• Day Range: ₹158.12 - ₹163.51
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹161.95
+2. Watch for volume confirmation above 13,541
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹199.08)
+2. Take remaining 50% at Target 2 (₹217.24)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+4. 
+📊 TRADING PLAN: BANKBARODA (Bank of Baroda)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹242.77
+🛑 Stop Loss: ₹206.76 (-14.8%)
+🎯 Target 1: ₹314.78 (R:R = 2.0:1)
+🎯 Target 2: ₹350.79 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹36.01
+
+📊 TECHNICAL INDICATORS:
+• RSI: 51.9 (Sweet Spot: 50-70)
+• EMA 50: ₹241.04 | EMA 200: ₹239.58
+• MACD: 0.2346 > Signal: -0.0893 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 4.66 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 6,339,208 (High)
+• Day Range: ₹241.56 - ₹245.73
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹241.56
+2. Watch for volume confirmation above 6,339,208
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹314.78)
+2. Take remaining 50% at Target 2 (₹350.79)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+5. 
+📊 TRADING PLAN: BANKINDIA (Bank of India)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹114.86
+🛑 Stop Loss: ₹84.25 (-26.7%)
+🎯 Target 1: ₹176.08 (R:R = 2.0:1)
+🎯 Target 2: ₹206.69 (R:R = 3.0:1)
+📦 Position Size: 3 shares
+💸 Risk per Share: ₹30.61
+
+📊 TECHNICAL INDICATORS:
+• RSI: 53.8 (Sweet Spot: 50-70)
+• EMA 50: ₹114.50 | EMA 200: ₹113.96
+• MACD: -0.7166 > Signal: -1.1869 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 2.41 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 4,616,495 (High)
+• Day Range: ₹113.84 - ₹115.29
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹114.29
+2. Watch for volume confirmation above 4,616,495
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹176.08)
+2. Take remaining 50% at Target 2 (₹206.69)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+6. 
+📊 TRADING PLAN: COMSYN (Commercial Syn Bags Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹135.45
+🛑 Stop Loss: ₹128.51 (-5.1%)
+🎯 Target 1: ₹149.33 (R:R = 2.0:1)
+🎯 Target 2: ₹156.27 (R:R = 3.0:1)
+📦 Position Size: 1 shares
+💸 Risk per Share: ₹6.94
+
+📊 TECHNICAL INDICATORS:
+• RSI: 53.9 (Sweet Spot: 50-70)
+• EMA 50: ₹128.14 | EMA 200: ₹99.92
+• MACD: 2.6793 > Signal: 1.9825 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 7.18 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 441,975 (Medium)
+• Day Range: ₹133.00 - ₹148.90
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹134.77
+2. Watch for volume confirmation above 441,975
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹149.33)
+2. Take remaining 50% at Target 2 (₹156.27)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+7. 
+📊 TRADING PLAN: DBL (Dilip Buildcon Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹489.20
+🛑 Stop Loss: ₹451.11 (-7.8%)
+🎯 Target 1: ₹565.38 (R:R = 2.0:1)
+🎯 Target 2: ₹603.47 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹38.09
+
+📊 TECHNICAL INDICATORS:
+• RSI: 54.4 (Sweet Spot: 50-70)
+• EMA 50: ₹483.52 | EMA 200: ₹475.75
+• MACD: -4.0084 > Signal: -5.7654 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 16.66 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 746,736 (Medium)
+• Day Range: ₹475.60 - ₹497.90
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹486.75
+2. Watch for volume confirmation above 746,736
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹565.38)
+2. Take remaining 50% at Target 2 (₹603.47)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+8. 
+📊 TRADING PLAN: DIVGIITTS (Divgi Torqtransfer Systems Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹646.90
+🛑 Stop Loss: ₹516.48 (-20.2%)
+🎯 Target 1: ₹907.74 (R:R = 2.0:1)
+🎯 Target 2: ₹1038.16 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹130.42
+
+📊 TECHNICAL INDICATORS:
+• RSI: 58.1 (Sweet Spot: 50-70)
+• EMA 50: ₹615.02 | EMA 200: ₹590.94
+• MACD: 8.0431 > Signal: 7.6443 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 23.12 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 26,471 (Low)
+• Day Range: ₹642.00 - ₹674.00
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹643.67
+2. Watch for volume confirmation above 26,471
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹907.74)
+2. Take remaining 50% at Target 2 (₹1038.16)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+9. 
+📊 TRADING PLAN: EPL (EPL Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹235.06
+🛑 Stop Loss: ₹206.22 (-12.3%)
+🎯 Target 1: ₹292.74 (R:R = 2.0:1)
+🎯 Target 2: ₹321.58 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹28.84
+
+📊 TECHNICAL INDICATORS:
+• RSI: 57.2 (Sweet Spot: 50-70)
+• EMA 50: ₹229.84 | EMA 200: ₹228.30
+• MACD: -0.7125 > Signal: -1.9016 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 7.52 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 681,718 (Medium)
+• Day Range: ₹230.60 - ₹235.79
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹233.88
+2. Watch for volume confirmation above 681,718
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹292.74)
+2. Take remaining 50% at Target 2 (₹321.58)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+10. 
+📊 TRADING PLAN: FIBERWEB (Fiberweb (India) Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹50.12
+🛑 Stop Loss: ₹43.08 (-14.0%)
+🎯 Target 1: ₹64.20 (R:R = 2.0:1)
+🎯 Target 2: ₹71.24 (R:R = 3.0:1)
+📦 Position Size: 9 shares
+💸 Risk per Share: ₹7.04
+
+📊 TECHNICAL INDICATORS:
+• RSI: 56.8 (Sweet Spot: 50-70)
+• EMA 50: ₹48.78 | EMA 200: ₹46.57
+• MACD: -0.1479 > Signal: -0.3346 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 2.11 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 114,996 (Medium)
+• Day Range: ₹48.62 - ₹51.39
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹49.87
+2. Watch for volume confirmation above 114,996
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹64.20)
+2. Take remaining 50% at Target 2 (₹71.24)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+11. 
+📊 TRADING PLAN: GREAVESCOT (Greaves Cotton Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹213.95
+🛑 Stop Loss: ₹170.03 (-20.5%)
+🎯 Target 1: ₹301.80 (R:R = 2.0:1)
+🎯 Target 2: ₹345.72 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹43.92
+
+📊 TECHNICAL INDICATORS:
+• RSI: 54.9 (Sweet Spot: 50-70)
+• EMA 50: ₹207.93 | EMA 200: ₹206.39
+• MACD: 1.7367 > Signal: 1.6773 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 8.49 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 1,621,688 (High)
+• Day Range: ₹209.50 - ₹215.53
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹212.88
+2. Watch for volume confirmation above 1,621,688
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹301.80)
+2. Take remaining 50% at Target 2 (₹345.72)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+12. 
+📊 TRADING PLAN: HONDAPOWER (Honda India Power Products Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹2985.20
+🛑 Stop Loss: ₹1999.55 (-33.0%)
+🎯 Target 1: ₹4956.49 (R:R = 2.0:1)
+🎯 Target 2: ₹5942.14 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹985.65
+
+📊 TECHNICAL INDICATORS:
+• RSI: 58.0 (Sweet Spot: 50-70)
+• EMA 50: ₹2848.49 | EMA 200: ₹2762.37
+• MACD: -19.0253 > Signal: -20.0372 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 109.47 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 40,082 (Low)
+• Day Range: ₹2928.10 - ₹3000.80
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹2970.27
+2. Watch for volume confirmation above 40,082
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹4956.49)
+2. Take remaining 50% at Target 2 (₹5942.14)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+13. 
+📊 TRADING PLAN: ICICIGI (ICICI Lombard General Insurance Company Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹1946.40
+🛑 Stop Loss: ₹1727.02 (-11.3%)
+🎯 Target 1: ₹2385.16 (R:R = 2.0:1)
+🎯 Target 2: ₹2604.54 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹219.38
+
+📊 TECHNICAL INDICATORS:
+• RSI: 54.3 (Sweet Spot: 50-70)
+• EMA 50: ₹1927.07 | EMA 200: ₹1885.71
+• MACD: -12.4839 > Signal: -17.7363 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 42.64 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 741,272 (Medium)
+• Day Range: ₹1927.60 - ₹1993.60
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹1936.67
+2. Watch for volume confirmation above 741,272
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹2385.16)
+2. Take remaining 50% at Target 2 (₹2604.54)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+14. 
+📊 TRADING PLAN: IIFLCAPS (IIFL Capital Services Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹331.25
+🛑 Stop Loss: ₹270.75 (-18.3%)
+🎯 Target 1: ₹452.26 (R:R = 2.0:1)
+🎯 Target 2: ₹512.76 (R:R = 3.0:1)
+📦 Position Size: 0 shares
+💸 Risk per Share: ₹60.50
+
+📊 TECHNICAL INDICATORS:
+• RSI: 56.0 (Sweet Spot: 50-70)
+• EMA 50: ₹315.25 | EMA 200: ₹285.32
+• MACD: -3.0825 > Signal: -4.1622 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 15.06 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 552,933 (Medium)
+• Day Range: ₹316.75 - ₹332.90
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹329.59
+2. Watch for volume confirmation above 552,933
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹452.26)
+2. Take remaining 50% at Target 2 (₹512.76)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+15. 
+📊 TRADING PLAN: MAHEPC (Mahindra EPC Irrigation Limited)
+============================================================
+📈 ENTRY SIGNAL: BUY (Strength: 5/5)
+💰 Entry Price: ₹150.56
+🛑 Stop Loss: ₹142.37 (-5.4%)
+🎯 Target 1: ₹166.94 (R:R = 2.0:1)
+🎯 Target 2: ₹175.13 (R:R = 3.0:1)
+📦 Position Size: 1 shares
+💸 Risk per Share: ₹8.19
+
+📊 TECHNICAL INDICATORS:
+• RSI: 57.9 (Sweet Spot: 50-70)
+• EMA 50: ₹143.57 | EMA 200: ₹135.99
+• MACD: 0.4490 > Signal: -0.3649 ✓
+• Heikin Ashi: Bullish Trend ✓
+• OBV: Bullish ✓
+• ATR: 6.10 (Volatility Measure)
+• Crossover: None
+
+📈 MARKET DATA:
+• Volume: 63,744 (Low)
+• Day Range: ₹147.89 - ₹152.07
+• Trade Date: 2025-08-18
+
+⚡ ENTRY STRATEGY:
+1. Consider buying on minor pullbacks to ₹149.81
+2. Watch for volume confirmation above 63,744
+3. Ensure RSI stays below 70 for entry
+
+🚪 EXIT STRATEGY:
+1. Take 50% profit at Target 1 (₹166.94)
+2. Take remaining 50% at Target 2 (₹175.13)
+3. Move stop to breakeven after Target 1 hit
+4. Exit if RSI > 80 (overbought)
+5. Exit if MACD turns bearish
+
+⚠️ RISK MANAGEMENT:
+• Never risk more than 2% of portfolio on single trade
+• Position size calculated for 2% account risk
+• Use trailing stop once in profit
+• Monitor for exit signals daily
+
+📅 VALIDITY: Signal valid for 2-3 trading days
+
+
+================================================================================
+📋 ADDITIONAL SIGNALS - QUICK REFERENCE
+================================================================================
+
+Symbol       Company                   Str RSI   Price    Stop     Target   R:R  
+--------------------------------------------------------------------------------
+MAITHANALL   Maithan Alloys Limited    5/5  51.1 ₹1110.10 ₹1007.83 ₹1314.65  2.0
+MANAPPURAM   Manappuram Finance Limi.. 5/5  55.4 ₹ 267.00 ₹ 264.26 ₹ 272.48  2.0
+MARICO       Marico Limited            5/5  55.2 ₹ 720.40 ₹ 713.95 ₹ 733.29  2.0
+MCX          Multi Commodity Exchang.. 5/5  56.5 ₹8309.00 ₹8121.81 ₹8683.37  2.0
+PGHL         Procter & Gamble Health.. 5/5  58.4 ₹6223.50 ₹5988.73 ₹6693.05  2.0
+POLICYBZR    PB Fintech Limited        5/5  58.2 ₹1866.60 ₹1681.41 ₹2236.98  2.0
+RAINBOW      Rainbow Childrens Medic.. 5/5  58.1 ₹1558.50 ₹1541.88 ₹1591.73  2.0
+RUCHIRA      Ruchira Papers Limited    5/5  55.5 ₹ 138.97 ₹ 135.69 ₹ 145.52  2.0
+SANOFICONR   Sanofi Consumer Healthc.. 5/5  57.2 ₹5279.40 ₹5256.06 ₹5326.07  2.0
+SBILIFE      SBI Life Insurance Comp.. 5/5  57.6 ₹1863.00 ₹1843.14 ₹1902.73  2.0
+SHRIPISTON   Shriram Pistons & Rings.. 5/5  57.7 ₹2487.90 ₹2401.83 ₹2660.05  2.0
+SOUTHBANK    The South Indian Bank L.. 5/5  51.4 ₹  29.68 ₹  29.60 ₹  29.84  2.0
+SUNDROP      Sundrop Brands Limited    5/5  56.0 ₹ 870.80 ₹ 763.78 ₹1084.85  2.0
+TDPOWERSYS   TD Power Systems Limited  5/5  55.0 ₹ 511.70 ₹ 500.34 ₹ 534.42  2.0
+ZAGGLE       Zaggle Prepaid Ocean Se.. 5/5  57.5 ₹ 409.00 ₹ 308.63 ₹ 609.73  2.0
+
+
+================================================================================
+📚 ENHANCED STRATEGY OVERVIEW
+================================================================================
+
+🔍 ENHANCED ULTIMATE SWING SETUP CRITERIA:
+1. ✅ Trend: Price above EMA 50, EMA 50 above EMA 200
+2. ✅ Momentum: MACD line above signal line
+3. ✅ Strength: RSI between 50-70 (sweet spot)
+4. ✅ Volume: On Balance Volume above 20-period EMA
+5. ✅ Heikin Ashi: Strong bullish trend confirmation
+6. ✅ ATR Stop: Dynamic stop loss based on volatility
+
+🎯 TRADING METHODOLOGY:
+• Entry: Buy when all 5 criteria are met
+• Stop Loss: ATR-based trailing stop (2x ATR below entry)
+• Target 1: 2:1 risk/reward ratio (50% position exit)
+• Target 2: 3:1 risk/reward ratio (remaining 50% exit)
+• Position Sizing: 2% account risk per trade
+• Time Frame: Daily charts for swing trading (3-10 days)
+
+⚡ EXIT SIGNALS:
+• Stop Loss: Price closes below ATR trailing stop
+• Profit Taking: RSI above 80 (overbought)
+• Trend Change: MACD turns bearish
+• Manual Exit: After 2-3 weeks if no progress
+
+💡 ENHANCED FEATURES:
+• Heikin Ashi candles for smoother trend identification
+• Dynamic ATR-based stop loss management
+• Position sizing based on volatility
+• Risk/reward optimization
+• Complete trade management system
+
+================================================================================
+⚠️ RISK MANAGEMENT GUIDELINES ⚠️
+================================================================================
+
+🛡️ ESSENTIAL RISK RULES:
+1. Never risk more than 2% of total portfolio on any single trade
+2. Use proper position sizing based on stop loss distance
+3. Always use stop losses - no exceptions
+4. Take partial profits at predetermined levels
+5. Keep a trading journal to track performance
+6. Don't overtrade - quality over quantity
+7. Stay disciplined and stick to the plan
+
+💰 POSITION SIZING FORMULA:
+Position Size = (Account Risk %) / (Stop Loss Distance %)
+Example: For ₹1,00,000 account with 2% risk and 5% stop:
+Position Size = (₹2,000) / (5%) = ₹40,000 worth of shares
+
+📈 PERFORMANCE EXPECTATIONS:
+• Win Rate: Approximately 60-70% (historical backtests)
+• Average R:R: 2:1 to 3:1 risk/reward ratio
+• Holding Period: 3-10 trading days typically
+• Market Conditions: Works best in trending markets
+
+================================================================================
+📊 TECHNICAL ANALYSIS DETAILS
+================================================================================
+
+📈 INDICATORS EXPLAINED:
+
+1. EMA (Exponential Moving Average):
+   • EMA 50: Medium-term trend direction
+   • EMA 200: Long-term trend direction
+   • Signal: Price > EMA 50 > EMA 200 = Bullish alignment
+
+2. MACD (Moving Average Convergence Divergence):
+   • Measures momentum and trend changes
+   • Signal: MACD line above signal line = Bullish momentum
+
+3. RSI (Relative Strength Index):
+   • Measures overbought/oversold conditions
+   • Sweet Spot: 50-70 for entries (strong but not overbought)
+
+4. OBV (On Balance Volume):
+   • Confirms price movements with volume
+   • Signal: OBV above EMA 20 = Volume supporting trend
+
+5. Heikin Ashi Candles:
+   • Smoothed candlestick representation
+   • Reduces noise and clarifies trend direction
+
+6. ATR (Average True Range):
+   • Measures volatility for stop loss placement
+   • Dynamic stops adapt to market volatility
+
+================================================================================
+📅 IMPLEMENTATION TIMELINE
+================================================================================
+
+📋 DAILY ROUTINE:
+1. Run analysis after market close
+2. Review new signals and prepare watchlist
+3. Set alerts for entry points
+4. Monitor existing positions for exit signals
+5. Update position sizes based on account balance
+
+📊 WEEKLY REVIEW:
+1. Analyze performance of closed trades
+2. Review and adjust risk management
+3. Update watchlist based on market conditions
+4. Plan for upcoming week
+
+📈 MONTHLY ASSESSMENT:
+1. Calculate overall strategy performance
+2. Adjust position sizing if needed
+3. Review and refine entry/exit criteria
+4. Analyze sector and market trends
+
+================================================================================
+⚠️ FINAL DISCLAIMERS & WARNINGS ⚠️
+================================================================================
+
+🚨 IMPORTANT LEGAL NOTICES:
+
+1. EDUCATIONAL PURPOSE ONLY:
+   This report is created for educational and research purposes only.
+   It is NOT financial advice, investment recommendation, or trading guidance.
+
+2. RISK OF LOSS:
+   Trading stocks involves substantial risk of loss. You may lose some or all 
+   of your invested capital. Never trade with money you cannot afford to lose.
+
+3. NO GUARANTEE:
+   Past performance does not guarantee future results. Market conditions 
+   change and strategies may not work in all environments.
+
+4. PROFESSIONAL ADVICE:
+   Always consult with a qualified financial advisor, accountant, or 
+   investment professional before making any investment decisions.
+
+5. PERSONAL RESPONSIBILITY:
+   Any trading decisions you make are entirely your own responsibility.
+   The creator of this report accepts no liability for any losses.
+
+6. MARKET RISKS:
+   Stock markets are subject to various risks including market risk,
+   liquidity risk, sector risk, and individual company risk.
+
+7. REGULATORY COMPLIANCE:
+   Ensure you comply with all applicable laws and regulations in your
+   jurisdiction regarding stock trading and investments.
+
+📞 SEEK PROFESSIONAL HELP:
+If you're new to trading, consider:
+• Taking a trading course from a reputable institution
+• Paper trading before using real money
+• Starting with small positions
+• Consulting with financial professionals
+• Reading books on technical analysis and risk management
+
+Remember: The best traders are disciplined, patient, and never stop learning.
+Successful trading is more about risk management than being right all the time.
+
+================================================================================
+Report generated by Enhanced Ultimate Swing Setup Analysis System
+Last updated: 2025-08-18 17:53:43
+Generated by: NseStocks Analysis Framework
+Version: Enhanced v2.0 with ATR Stops and Position Sizing
+================================================================================
