@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-19
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1759
+  Failed Analyses: 337
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 802
+  Bearish Signals: 119
+  Neutral Signals: 838
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+PVRINOX    70     neutral  ₹1096.20     +8.33% bullish   
+TATAINVEST 65     bullish  ₹6922.00     +4.09% bullish   
+CUPID      60     bearish  ₹171.81     +56.76% bullish   
+DEEPINDS   60     bearish  ₹549.75     +23.76% bullish   
+ENIL       60     bearish  ₹166.52     +13.32% bullish   
+NESCO      60     bearish  ₹1420.90    +18.93% bullish   
+SADBHAV    60     neutral  ₹14.44      +14.42% bearish   
+SANGHVIMOV 60     bearish  ₹339.05     +22.18% bullish   
+ABB        55     bullish  ₹5068.00    -14.01% bearish   
+DODLA      55     bullish  ₹1334.60     -5.61% bearish   
+EPL        55     bullish  ₹236.13      +0.95% bearish   
+MTNL       55     bullish  ₹43.73      -10.97% bearish   
+THELEELA   55     bullish  ₹441.90      +0.71% bearish   
+VIJAYA     55     bullish  ₹1054.50     +4.50% bullish   
+ACUTAAS    50     bullish  ₹1396.30    +23.11% bullish   
+AFCONS     50     bearish  ₹435.10      +1.53% bearish   
+ALLDIGI    50     bullish  ₹951.40      +0.63% bullish   
+APLAPOLLO  50     bearish  ₹1626.30     -5.40% bearish   
+ATHERENERG 50     bullish  ₹435.95     +31.75% bullish   
+AVL        50     bullish  ₹497.15     +38.87% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

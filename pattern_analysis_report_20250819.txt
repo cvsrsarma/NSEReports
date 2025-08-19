@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-19
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1759
+• Failed Analyses: 337
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 859
+• Bearish Signals: 199
+• Neutral Signals: 701
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 8
+• Moderate Risk: 420
+• High Risk: 1042
+• Very High Risk: 289
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+IXIGO      90.0   bullish  65.0       very_high     +58.86%
+SARDAEN    79.0   bullish  59.5       high         +33.76%
+TTKPRESTIG 79.0   neutral  58.5       moderate      +5.07%
+BAJAJ-AUTO 78.0   neutral  39.0       moderate      +6.16%
+BELRISE    78.0   neutral  59.0       high         +33.65%
+EICHERMOT  78.0   neutral  58.9       moderate      +5.07%
+HEROMOTOCO 78.0   neutral  59.0       moderate     +18.44%
+OSWALPUMPS 78.0   neutral  59.0       high         +14.98%
+RISHABH    78.0   neutral  58.7       high         +34.51%
+ANANDRATHI 75.0   neutral  57.5       high         +33.16%
+AGIIL      74.0   neutral  57.0       high         +16.33%
+TVSMOTOR   74.0   neutral  57.0       moderate     +14.90%
+KINGFA     73.0   neutral  56.2       high         +21.21%
+RPPL       73.0   bullish  36.5       very_high     -15.51%
+SALASAR    71.0   neutral  35.5       moderate      -8.67%
+RCF        69.0   bullish  34.5       moderate      -2.82%
+RICOAUTO   69.0   bearish  34.5       high         +22.28%
+AVL        68.0   neutral  54.0       high         +38.87%
+SADBHAV    66.0   bullish  33.0       high         +14.42%
+AVROIND    65.0   bullish  32.5       high          -3.72%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
