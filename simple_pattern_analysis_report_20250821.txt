@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-21
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1756
+  Failed Analyses: 340
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 809
+  Bearish Signals: 133
+  Neutral Signals: 814
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+STEL       70     neutral  ₹441.95      +7.40% bullish   
+TATAINVEST 65     bullish  ₹6939.50     +6.09% bullish   
+INDIANB    60     bearish  ₹670.05      +5.50% bullish   
+RETAIL     60     bearish  ₹41.18      +13.47% bullish   
+SARDAEN    60     bearish  ₹599.55     +35.98% bullish   
+SMLISUZU   60     bearish  ₹4203.30    +30.33% bullish   
+YATHARTH   60     bearish  ₹730.35     +17.38% bullish   
+BLBLIMITED 55     bullish  ₹16.21      +11.03% bullish   
+HEUBACHIND 55     bullish  ₹591.85      +0.89% bearish   
+JSWENERGY  55     bullish  ₹531.75      +0.24% bullish   
+MUFIN      55     bullish  ₹88.44       -4.41% bearish   
+SBILIFE    55     bullish  ₹1858.50     +0.39% bullish   
+VIJAYA     55     bullish  ₹1038.80     +1.80% bullish   
+VISHNU     55     bullish  ₹496.70      -0.07% bearish   
+ABCAPITAL  50     bearish  ₹283.45      +4.40% bullish   
+AEGISLOG   50     bullish  ₹737.40      -0.06% bearish   
+AFCONS     50     bearish  ₹428.85      +1.53% bullish   
+AGIIL      50     bullish  ₹1162.40    +15.10% bullish   
+DMART      50     bullish  ₹4737.90    +18.11% bullish   
+FSL        50     bearish  ₹370.65      +6.33% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
