@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-08-21 22:23:04
+Data Date: 2025-08-21
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹148125.00 RSI: 56.7
+BOSCHLTD     Bosch Limited                ₹39475.00 RSI: 59.4
+FORCEMOT     FORCE MOTORS LTD             ₹21897.00 RSI: 74.8
+DIXON        Dixon Technologies (India... ₹16725.00 RSI: 57.5
+MAHSCOOTER   Maharashtra Scooters Limi... ₹15688.00 RSI: 57.7
+ZFCVINDIA    ZF Commercial Vehicle Con... ₹14598.00 RSI: 69.1
+NEULANDLAB   Neuland Laboratories Limi... ₹13794.00 RSI: 57.8
+ULTRACEMCO   UltraTech Cement Limited     ₹12870.00 RSI: 68.6
+TVSHLTD      TVS Holdings Limited         ₹12141.00 RSI: 58.2
+GODFRYPHLP   Godfrey Phillips India Li... ₹11139.00 RSI: 65.9
+WENDT        Wendt (India) Limited        ₹10264.00 RSI: 57.7
+BAJAJ-AUTO   Bajaj Auto Limited           ₹ 8684.50 RSI: 63.1
+JKCEMENT     JK Cement Limited            ₹ 7134.00 RSI: 59.6
+POLYCAB      Polycab India Limited        ₹ 7084.50 RSI: 60.5
+TATAINVEST   Tata Investment Corporati... ₹ 6954.00 RSI: 59.2
+CRAFTSMAN    Craftsman Automation Limi... ₹ 6898.50 RSI: 62.0
+PGHL         Procter & Gamble Health L... ₹ 6338.50 RSI: 63.3
+INDIGO       InterGlobe Aviation Limit... ₹ 6099.00 RSI: 62.0
+HDFCAMC      HDFC Asset Management Com... ₹ 5794.00 RSI: 69.0
+PFIZER       Pfizer Limited               ₹ 5680.50 RSI: 65.5
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+VRLLOG       VRL Logistics Limited        ₹  279.85 RSI: 10.6
+SBGLP        Suratwwala Business Group... ₹   40.28 RSI: 13.7
+DEVIT        Dev Information Technolog... ₹   48.41 RSI: 14.3
+NESTLEIND    Nestle India Limited         ₹ 1179.40 RSI: 16.3
+KELLTONTEC   Kellton Tech Solutions Li... ₹   25.90 RSI: 17.1
+RAJSREESUG   Rajshree Sugars & Chemica... ₹   39.32 RSI: 18.6
+MARALOVER    Maral Overseas Limited       ₹   58.91 RSI: 20.2
+MARKSANS     Marksans Pharma Limited      ₹  181.12 RSI: 21.5
+INDIAGLYCO   India Glycols Limited        ₹  857.40 RSI: 21.8
+AGARIND      Agarwal Industrial Corpor... ₹  820.50 RSI: 21.8
+BAJFINANCE   Bajaj Finance Limited        ₹  895.60 RSI: 22.1
+ELECTHERM    Electrotherm (India) Limi... ₹  745.55 RSI: 22.1
+LAGNAM       Lagnam Spintex Limited       ₹   85.14 RSI: 22.2
+HIKAL        Hikal Limited                ₹  253.60 RSI: 22.2
+SIGACHI      Sigachi Industries Limite... ₹   31.41 RSI: 22.3
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+BAJFINANCE   Bajaj Finance Limited        ₹  895.60 ADX: 69.2 DOWN
+STARTECK     Starteck Finance Limited     ₹  322.90 ADX: 66.4 UP
+HEUBACHIND   Heubach Colorants India L... ₹  592.00 ADX: 65.4 UP
+ROTO         Roto Pumps Limited           ₹   86.30 ADX: 61.9 DOWN
+VESUVIUS     Vesuvius India Limited       ₹  537.25 ADX: 59.0 DOWN
+HIKAL        Hikal Limited                ₹  253.60 ADX: 58.4 DOWN
+YATRA        Yatra Online Limited         ₹  158.22 ADX: 57.9 UP
+ABLBL        Aditya Birla Lifestyle Br... ₹  139.32 ADX: 57.9 DOWN
+ASHOKLEY     Ashok Leyland Limited        ₹  131.01 ADX: 57.3 DOWN
+BGRENERGY    BGR Energy Systems Limite... ₹  164.48 ADX: 57.0 UP
+COFORGE      Coforge Limited              ₹ 1728.20 ADX: 56.3 DOWN
+GOCOLORS     Go Fashion (India) Limite... ₹  701.25 ADX: 56.0 DOWN
+NESCO        Nesco Limited                ₹ 1442.50 ADX: 55.6 UP
+FORTIS       Fortis Healthcare Limited    ₹  947.55 ADX: 55.5 UP
+PARAS        Paras Defence and Space T... ₹  679.15 ADX: 55.1 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

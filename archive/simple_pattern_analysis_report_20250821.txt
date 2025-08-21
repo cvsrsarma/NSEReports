@@ -16,37 +16,37 @@ METHODOLOGY & NOTES:
 
 SUMMARY STATISTICS:
   Total Stocks Analyzed: 2096
-  Successful Analyses: 1757
-  Failed Analyses: 339
+  Successful Analyses: 1756
+  Failed Analyses: 340
 
 SIGNAL DISTRIBUTION:
-  Bullish Signals: 788
-  Bearish Signals: 128
-  Neutral Signals: 841
+  Bullish Signals: 809
+  Bearish Signals: 133
+  Neutral Signals: 814
 
 TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
 Symbol     Score  Signal   Price      Change%    Trend     
 ----------------------------------------------------------------------
-BLBLIMITED 75     bullish  ₹16.17      +10.75% bullish   
-STEL       70     neutral  ₹440.10      +6.95% bullish   
-CUMMINSIND 60     bearish  ₹3886.30    +10.29% bullish   
-CUPID      60     bearish  ₹171.33     +35.56% bullish   
-DYCL       60     neutral  ₹463.40      -4.11% bearish   
-EICHERMOT  60     bearish  ₹5975.00     +7.84% bullish   
-INDIANB    60     bearish  ₹670.85      +5.63% bullish   
-NAM-INDIA  60     neutral  ₹862.40      +6.51% bearish   
-SARDAEN    60     bearish  ₹599.15     +35.89% bullish   
-SEAMECLTD  60     neutral  ₹868.15      +4.11% bearish   
-VSTTILLERS 60     bearish  ₹5316.80    +18.71% bullish   
-YATRA      60     bearish  ₹158.22     +86.29% bullish   
-AKZOINDIA  55     bullish  ₹3398.40     -6.54% bearish   
-AXISBANK   55     bullish  ₹1078.90     -8.00% bearish   
-BAYERCROP  55     bullish  ₹5594.50    -10.12% bearish   
-CHOICEIN   55     bullish  ₹786.40     +13.85% bullish   
-GOACARBON  55     bullish  ₹462.70      -5.49% bearish   
-JINDALSTEL 55     bullish  ₹1010.15     +8.26% bullish   
-MANOMAY    55     bullish  ₹164.35      -2.02% bearish   
-MUFIN      55     bullish  ₹88.01       -4.87% bearish   
+STEL       70     neutral  ₹441.95      +7.40% bullish   
+TATAINVEST 65     bullish  ₹6939.50     +6.09% bullish   
+INDIANB    60     bearish  ₹670.05      +5.50% bullish   
+RETAIL     60     bearish  ₹41.18      +13.47% bullish   
+SARDAEN    60     bearish  ₹599.55     +35.98% bullish   
+SMLISUZU   60     bearish  ₹4203.30    +30.33% bullish   
+YATHARTH   60     bearish  ₹730.35     +17.38% bullish   
+BLBLIMITED 55     bullish  ₹16.21      +11.03% bullish   
+HEUBACHIND 55     bullish  ₹591.85      +0.89% bearish   
+JSWENERGY  55     bullish  ₹531.75      +0.24% bullish   
+MUFIN      55     bullish  ₹88.44       -4.41% bearish   
+SBILIFE    55     bullish  ₹1858.50     +0.39% bullish   
+VIJAYA     55     bullish  ₹1038.80     +1.80% bullish   
+VISHNU     55     bullish  ₹496.70      -0.07% bearish   
+ABCAPITAL  50     bearish  ₹283.45      +4.40% bullish   
+AEGISLOG   50     bullish  ₹737.40      -0.06% bearish   
+AFCONS     50     bearish  ₹428.85      +1.53% bullish   
+AGIIL      50     bullish  ₹1162.40    +15.10% bullish   
+DMART      50     bullish  ₹4737.90    +18.11% bullish   
+FSL        50     bearish  ₹370.65      +6.33% bullish   
 
 ================================================================================
 ⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️

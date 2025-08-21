@@ -22,43 +22,43 @@ Generated: 2025-08-21
 
 📈 SUMMARY STATISTICS:
 • Total Stocks Analyzed: 2096
-• Successful Analyses: 1757
-• Failed Analyses: 339
+• Successful Analyses: 1756
+• Failed Analyses: 340
 
 📊 SIGNAL DISTRIBUTION:
-• Bullish Signals: 994
-• Bearish Signals: 164
-• Neutral Signals: 599
+• Bullish Signals: 896
+• Bearish Signals: 204
+• Neutral Signals: 656
 
 ⚠️ RISK DISTRIBUTION:
 • Low Risk: 10
-• Moderate Risk: 459
-• High Risk: 1027
-• Very High Risk: 261
+• Moderate Risk: 437
+• High Risk: 1028
+• Very High Risk: 281
 
 🏆 TOP 20 PATTERN OPPORTUNITIES:
 Symbol     Score  Signal   Confidence Risk     Price Change
 ----------------------------------------------------------------------
-SALASAR    100.0  bearish  50.0       high          +3.00%
-MAHEPC     79.0   neutral  39.5       high         +24.44%
-ORICONENT  77.0   bullish  58.5       high         +17.69%
-THANGAMAYL 76.0   neutral  58.0       moderate     +11.14%
-MUNJALAU   74.0   neutral  37.0       high          +7.82%
-OSWALPUMPS 74.0   neutral  57.0       high         +26.74%
-PAYTM      74.0   neutral  57.0       high         +27.79%
-KRISHANA   73.0   neutral  56.5       high         +28.65%
-ZFCVINDIA  73.0   neutral  56.5       high         +12.34%
+SALASAR    99.0   bearish  49.5       moderate      +3.78%
+SPIC       80.0   bearish  59.6       high         +34.60%
+SARDAEN    79.0   bullish  59.5       high         +35.98%
+APOLLO     78.0   neutral  58.9       high         +10.09%
+EMCURE     78.0   neutral  59.0       high         +11.02%
+RISHABH    78.0   neutral  59.0       high         +48.57%
+SHREDIGCEM 78.0   neutral  39.0       high         +27.72%
+KRISHANA   77.0   neutral  58.5       high         +26.40%
+CUMMINSIND 76.0   bullish  58.0       moderate      +8.36%
+ETERNAL    75.0   neutral  57.5       moderate     +20.68%
+SWELECTES  75.0   neutral  57.5       very_high     +28.45%
+THANGAMAYL 75.0   neutral  57.5       moderate      +8.22%
+KINGFA     73.0   neutral  56.5       high         +34.16%
+OSWALPUMPS 73.0   neutral  56.5       high         +24.85%
+ZFCVINDIA  73.0   neutral  56.5       high         +12.51%
+DIGISPICE  72.0   neutral  55.9       very_high     +26.86%
+ESCORTS    72.0   neutral  55.4       moderate     +11.03%
+HEROMOTOCO 72.0   neutral  56.0       moderate     +20.80%
+TITAN      72.0   neutral  55.8       moderate      +5.59%
 MIRCELECTR 71.0   bearish  55.4       very_high     +79.73%
-VINCOFE    70.0   bullish  54.4       high         +16.11%
-GPIL       69.0   neutral  54.5       high         +22.01%
-BALMLAWRIE 66.0   neutral  33.0       moderate      +5.73%
-HINDOILEXP 66.0   bullish  33.0       moderate      +1.90%
-IREDA      66.0   bullish  33.0       moderate      -7.37%
-ORCHPHARMA 66.0   bullish  53.0       high          +9.08%
-SURANASOL  66.0   bullish  33.0       high          -5.56%
-PVRINOX    65.0   bearish  52.5       high         +14.40%
-CYBERMEDIA 64.0   neutral  32.0       very_high      -1.48%
-EUROTEXIND 64.0   bearish  32.0       very_high      -1.08%
 
 ================================================================================
 ⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
