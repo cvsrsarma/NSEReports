@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-22
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1757
+  Failed Analyses: 339
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 822
+  Bearish Signals: 103
+  Neutral Signals: 832
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+ECLERX     65     bullish  ₹3897.50     +8.51% bullish   
+JSWSTEEL   65     bullish  ₹1054.60     +1.51% bullish   
+TATAINVEST 65     bullish  ₹6915.50     +5.73% bullish   
+ANANDRATHI 60     bearish  ₹2806.20    +10.47% bullish   
+DALBHARAT  60     bearish  ₹2326.40     +7.75% bullish   
+EICHERMOT  60     bearish  ₹5924.50     +6.93% bullish   
+INDIANB    60     bearish  ₹670.25      +5.53% bullish   
+RELIABLE   60     bearish  ₹94.50      +29.33% bullish   
+SANGHVIMOV 60     bearish  ₹338.05     +24.31% bullish   
+SARDAEN    60     bearish  ₹596.80     +35.36% bullish   
+VSTTILLERS 60     bearish  ₹5315.50    +18.68% bullish   
+ABB        55     bullish  ₹5063.00    -10.35% bearish   
+AXISBANK   55     bullish  ₹1070.90     -8.68% bearish   
+HUBTOWN    55     bullish  ₹345.65     +16.58% bullish   
+ICICIGI    55     bullish  ₹1910.70     -5.40% bearish   
+IDFCFIRSTB 55     bullish  ₹69.68       -6.18% bearish   
+MHRIL      55     bullish  ₹362.00      +3.09% bearish   
+NATIONALUM 55     bullish  ₹188.87      -0.32% bearish   
+NETWEB     55     bullish  ₹2322.40    +17.23% bullish   
+SBILIFE    55     bullish  ₹1859.00     +0.42% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
