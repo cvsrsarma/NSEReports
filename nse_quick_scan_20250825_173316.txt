@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-08-25 17:33:16
+Data Date: 2025-08-25
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+PAGEIND      Page Industries Limited      ₹46850.00 RSI: 55.1
+FORCEMOT     FORCE MOTORS LTD             ₹20172.00 RSI: 60.3
+DIXON        Dixon Technologies (India... ₹17018.00 RSI: 61.7
+MAHSCOOTER   Maharashtra Scooters Limi... ₹15586.00 RSI: 56.0
+ZFCVINDIA    ZF Commercial Vehicle Con... ₹14771.00 RSI: 70.9
+ULTRACEMCO   UltraTech Cement Limited     ₹12606.00 RSI: 56.3
+TVSHLTD      TVS Holdings Limited         ₹12012.00 RSI: 55.3
+GODFRYPHLP   Godfrey Phillips India Li... ₹10882.00 RSI: 61.2
+BAJAJ-AUTO   Bajaj Auto Limited           ₹ 8750.50 RSI: 65.0
+POLYCAB      Polycab India Limited        ₹ 7071.50 RSI: 59.3
+TATAINVEST   Tata Investment Corporati... ₹ 6996.50 RSI: 60.9
+CRAFTSMAN    Craftsman Automation Limi... ₹ 6839.00 RSI: 59.4
+PGHL         Procter & Gamble Health L... ₹ 6414.00 RSI: 61.3
+KAYNES       Kaynes Technology India L... ₹ 6231.50 RSI: 57.1
+INDIGO       InterGlobe Aviation Limit... ₹ 6116.00 RSI: 62.5
+EICHERMOT    Eicher Motors Limited        ₹ 5990.50 RSI: 73.2
+HDFCAMC      HDFC Asset Management Com... ₹ 5892.00 RSI: 73.2
+PERSISTENT   Persistent Systems Limite... ₹ 5450.00 RSI: 56.4
+ALKEM        Alkem Laboratories Limite... ₹ 5415.50 RSI: 69.9
+ESABINDIA    Esab India Limited           ₹ 5413.50 RSI: 57.2
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+VRLLOG       VRL Logistics Limited        ₹  280.55 RSI: 11.3
+VLEGOV       VL E-Governance & IT Solu... ₹   37.66 RSI: 12.5
+DEVIT        Dev Information Technolog... ₹   43.17 RSI: 13.4
+SBGLP        Suratwwala Business Group... ₹   39.30 RSI: 13.9
+RAJSREESUG   Rajshree Sugars & Chemica... ₹   38.30 RSI: 15.7
+NESTLEIND    Nestle India Limited         ₹ 1153.00 RSI: 15.8
+KELLTONTEC   Kellton Tech Solutions Li... ₹   25.81 RSI: 17.0
+AGARIND      Agarwal Industrial Corpor... ₹  795.75 RSI: 19.2
+MARKSANS     Marksans Pharma Limited      ₹  177.84 RSI: 20.3
+NAZARA       Nazara Technologies Limit... ₹ 1116.20 RSI: 20.4
+MARALOVER    Maral Overseas Limited       ₹   57.46 RSI: 20.8
+INDIAGLYCO   India Glycols Limited        ₹  822.70 RSI: 21.0
+ROTO         Roto Pumps Limited           ₹   83.38 RSI: 21.2
+RVTH         Revathi Equipment India L... ₹  845.20 RSI: 21.6
+RAJRATAN     Rajratan Global Wire Limi... ₹  321.05 RSI: 22.8
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+STARTECK     Starteck Finance Limited     ₹  320.45 ADX: 67.3 UP
+BAJFINANCE   Bajaj Finance Limited        ₹  900.80 ADX: 67.2 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  592.55 ADX: 65.6 UP
+ROTO         Roto Pumps Limited           ₹   83.38 ADX: 61.3 DOWN
+HIKAL        Hikal Limited                ₹  256.70 ADX: 61.0 DOWN
+BGRENERGY    BGR Energy Systems Limite... ₹  181.33 ADX: 59.7 UP
+YATRA        Yatra Online Limited         ₹  145.77 ADX: 59.3 UP
+GOCOLORS     Go Fashion (India) Limite... ₹  697.40 ADX: 57.9 DOWN
+VESUVIUS     Vesuvius India Limited       ₹  526.45 ADX: 57.0 DOWN
+NESCO        Nesco Limited                ₹ 1439.50 ADX: 56.0 UP
+PAYTM        One 97 Communications Lim... ₹ 1276.10 ADX: 55.6 UP
+NESTLEIND    Nestle India Limited         ₹ 1153.00 ADX: 55.3 DOWN
+INDIAGLYCO   India Glycols Limited        ₹  822.70 ADX: 54.5 DOWN
+FORTIS       Fortis Healthcare Limited    ₹  915.15 ADX: 54.3 UP
+FORCEMOT     FORCE MOTORS LTD             ₹20172.00 ADX: 54.2 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-25
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1773
+  Failed Analyses: 323
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 933
+  Bearish Signals: 93
+  Neutral Signals: 747
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+EICHERMOT  70     neutral  ₹5990.50     +6.47% bullish   
+STEL       70     neutral  ₹440.10      +6.39% bullish   
+SWELECTES  70     neutral  ₹771.25     +30.53% bullish   
+JSWSTEEL   65     bullish  ₹1057.80     +2.72% bullish   
+SBILIFE    65     bullish  ₹1846.80     +0.97% bullish   
+CUMMINSIND 60     bearish  ₹3880.50     +8.77% bullish   
+DMART      60     bearish  ₹4725.30    +15.65% bullish   
+HEROMOTOCO 60     bearish  ₹5063.80    +14.45% bullish   
+HITECHCORP 60     neutral  ₹209.45      -3.34% bearish   
+INDIANB    60     bearish  ₹668.05      +4.14% bullish   
+KIRLOSENG  60     neutral  ₹976.70      +3.33% bullish   
+PIDILITIND 60     bearish  ₹3107.00     +3.98% bullish   
+PVRINOX    60     bearish  ₹1108.90    +13.23% bullish   
+SANGHVIMOV 60     bearish  ₹339.25     +24.18% bullish   
+SURAJEST   60     neutral  ₹324.45      -4.46% bearish   
+VSTTILLERS 60     bearish  ₹5357.30    +25.43% bullish   
+ACC        55     bullish  ₹1807.70     -9.25% bearish   
+AKZOINDIA  55     bullish  ₹3422.40     -2.38% bearish   
+AXISBANK   55     bullish  ₹1070.00     -8.42% bearish   
+CAMS       55     bullish  ₹3839.60     -8.74% bearish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

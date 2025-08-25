@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-25
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1773
+• Failed Analyses: 323
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1035
+• Bearish Signals: 117
+• Neutral Signals: 621
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 14
+• Moderate Risk: 478
+• High Risk: 1017
+• Very High Risk: 264
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+RELIABLE   98.0   bearish  69.0       very_high     +54.50%
+MUNJALAU   88.0   neutral  44.0       high         +11.66%
+ACL        80.0   neutral  40.0       high         +19.07%
+NHPC       79.0   bearish  39.5       moderate     -10.14%
+SHREDIGCEM 79.0   neutral  39.5       high         +24.57%
+CCCL       78.0   bearish  39.0       very_high      +7.41%
+RATEGAIN   78.0   neutral  59.0       high         +12.46%
+SHREERAMA  78.0   bearish  58.0       very_high     +15.19%
+EMAMIPAP   77.0   neutral  38.5       high         +14.03%
+PDMJEPAPER 77.0   neutral  58.5       high         +14.97%
+RUCHIRA    77.0   neutral  38.5       moderate      +8.20%
+HLEGLAS    76.0   neutral  58.0       very_high     +30.22%
+LOTUSEYE   74.0   neutral  57.0       high         +32.77%
+ALKALI     71.0   bullish  35.5       high         -10.11%
+MIRCELECTR 71.0   bearish  55.2       very_high     +59.19%
+MALUPAPER  67.0   bullish  33.5       high          +4.43%
+WSTCSTPAPR 67.0   neutral  33.5       high          -1.42%
+DYNPRO     66.0   bullish  53.0       very_high     +18.21%
+EUROTEXIND 66.0   bearish  33.0       very_high     +14.73%
+CIFL       65.0   bullish  32.5       high          -6.90%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
