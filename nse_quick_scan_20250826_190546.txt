@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-08-26 19:05:46
+Data Date: 2025-08-26
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+BOSCHLTD     Bosch Limited                ₹39510.00 RSI: 58.7
+FORCEMOT     FORCE MOTORS LTD             ₹19952.00 RSI: 58.6
+MAHSCOOTER   Maharashtra Scooters Limi... ₹15593.00 RSI: 56.1
+ZFCVINDIA    ZF Commercial Vehicle Con... ₹14270.00 RSI: 58.2
+ULTRACEMCO   UltraTech Cement Limited     ₹12610.00 RSI: 56.4
+GODFRYPHLP   Godfrey Phillips India Li... ₹10524.50 RSI: 56.9
+BAJAJ-AUTO   Bajaj Auto Limited           ₹ 8691.50 RSI: 61.8
+CRAFTSMAN    Craftsman Automation Limi... ₹ 7158.00 RSI: 67.3
+POLYCAB      Polycab India Limited        ₹ 7064.00 RSI: 58.8
+PGHL         Procter & Gamble Health L... ₹ 6310.00 RSI: 55.9
+KAYNES       Kaynes Technology India L... ₹ 6197.50 RSI: 55.6
+INDIGO       InterGlobe Aviation Limit... ₹ 6050.00 RSI: 57.4
+BRITANNIA    Britannia Industries Limi... ₹ 5765.50 RSI: 58.8
+HDFCAMC      HDFC Asset Management Com... ₹ 5759.50 RSI: 61.1
+ALKEM        Alkem Laboratories Limite... ₹ 5422.00 RSI: 70.2
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 5073.40 RSI: 68.9
+DMART        Avenue Supermarts Limited    ₹ 4716.40 RSI: 73.5
+SUPREMEIND   Supreme Industries Limite... ₹ 4574.40 RSI: 61.7
+SMLISUZU     SML Isuzu Limited            ₹ 4467.40 RSI: 66.8
+ECLERX       eClerx Services Limited      ₹ 4454.90 RSI: 71.9
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+HDFCBANK     HDFC Bank Limited            ₹  973.40 RSI:  5.9
+VRLLOG       VRL Logistics Limited        ₹  277.25 RSI: 11.1
+VLEGOV       VL E-Governance & IT Solu... ₹   36.91 RSI: 12.4
+DEVIT        Dev Information Technolog... ₹   41.58 RSI: 13.2
+SBGLP        Suratwwala Business Group... ₹   39.34 RSI: 14.1
+RAJSREESUG   Rajshree Sugars & Chemica... ₹   38.18 RSI: 15.4
+NESTLEIND    Nestle India Limited         ₹ 1162.20 RSI: 16.8
+KELLTONTEC   Kellton Tech Solutions Li... ₹   25.48 RSI: 16.9
+AFFORDABLE   Affordable Robotic & Auto... ₹  279.10 RSI: 17.5
+AGARIND      Agarwal Industrial Corpor... ₹  782.15 RSI: 17.8
+MARKSANS     Marksans Pharma Limited      ₹  173.27 RSI: 18.6
+RPEL         Raghav Productivity Enhan... ₹  574.15 RSI: 20.1
+RVTH         Revathi Equipment India L... ₹  820.80 RSI: 20.5
+INDIAGLYCO   India Glycols Limited        ₹  816.20 RSI: 20.9
+FAIRCHEMOR   Fairchem Organics Limited    ₹  796.70 RSI: 21.0
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+STARTECK     Starteck Finance Limited     ₹  317.05 ADX: 67.1 UP
+BAJFINANCE   Bajaj Finance Limited        ₹  876.25 ADX: 66.4 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  594.10 ADX: 65.9 UP
+HIKAL        Hikal Limited                ₹  255.75 ADX: 62.1 DOWN
+ROTO         Roto Pumps Limited           ₹   83.26 ADX: 61.2 DOWN
+YATRA        Yatra Online Limited         ₹  147.92 ADX: 59.6 UP
+GOCOLORS     Go Fashion (India) Limite... ₹  696.60 ADX: 57.0 DOWN
+VESUVIUS     Vesuvius India Limited       ₹  508.85 ADX: 56.5 DOWN
+NESTLEIND    Nestle India Limited         ₹ 1162.20 ADX: 56.2 DOWN
+PAYTM        One 97 Communications Lim... ₹ 1253.10 ADX: 56.0 UP
+NESCO        Nesco Limited                ₹ 1439.00 ADX: 55.7 UP
+INDIAGLYCO   India Glycols Limited        ₹  816.20 ADX: 55.6 DOWN
+KANPRPLA     Kanpur Plastipack Limited    ₹  207.74 ADX: 55.0 UP
+IXIGO        Le Travenues Technology L... ₹  284.52 ADX: 53.9 UP
+FORCEMOT     FORCE MOTORS LTD             ₹19952.00 ADX: 53.3 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================
