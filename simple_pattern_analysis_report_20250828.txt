@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-28
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1771
+  Failed Analyses: 325
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1056
+  Bearish Signals: 35
+  Neutral Signals: 680
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+GRANULES   80     bullish  ₹467.25      -5.51% bearish   
+HEROMOTOCO 70     neutral  ₹5091.70    +15.51% bullish   
+HEUBACHIND 65     bullish  ₹593.90      -0.50% bearish   
+ALKEM      60     bearish  ₹5376.00     +7.53% bullish   
+CHOICEIN   60     bullish  ₹796.75      +4.66% bullish   
+CLEDUCATE  60     bearish  ₹114.10     +18.79% bullish   
+DALBHARAT  60     neutral  ₹2351.40     +3.94% bullish   
+DMART      60     bearish  ₹4699.90    +16.81% bullish   
+ENRIN      60     bearish  ₹3379.00    +10.50% bullish   
+KPIL       60     bearish  ₹1269.30     +7.10% bullish   
+SBC        60     bearish  ₹19.09      +12.83% bullish   
+VSTTILLERS 60     bullish  ₹5291.40    +19.15% bullish   
+ACCELYA    55     bullish  ₹1398.80     -0.95% bullish   
+BLAL       55     bullish  ₹208.96      -0.68% bearish   
+FLUOROCHEM 55     bullish  ₹3420.70     -4.27% bearish   
+HINDUNILVR 55     bullish  ₹2654.40     +7.69% bullish   
+INDIANB    55     bullish  ₹652.85      +2.85% bullish   
+INFY       55     bullish  ₹1500.10     -5.31% bearish   
+KEI        55     bullish  ₹3863.50     -2.74% bearish   
+LGBBROSLTD 55     bullish  ₹1277.20     -1.25% bearish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

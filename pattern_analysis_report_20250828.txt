@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-28
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1771
+• Failed Analyses: 325
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1193
+• Bearish Signals: 92
+• Neutral Signals: 486
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 9
+• Moderate Risk: 399
+• High Risk: 1057
+• Very High Risk: 306
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+SHRIRAMFIN 84.0   bullish  42.0       moderate     -12.81%
+IVC        83.0   bullish  41.5       high         -12.00%
+IRCTC      82.0   bullish  41.0       moderate      -9.19%
+SUDARSCHEM 81.0   bearish  60.5       high         +19.02%
+CESC       78.0   bullish  39.0       high         -13.78%
+SIGACHI    78.0   bullish  39.0       high         -23.74%
+SANGHIIND  75.0   bullish  37.5       moderate      -8.54%
+LOTUSEYE   74.0   bearish  57.0       very_high     +49.60%
+RELIABLE   74.0   neutral  57.0       very_high     +99.72%
+VPRPL      73.0   bullish  36.5       high         -19.87%
+HCLTECH    66.0   bullish  33.0       moderate      -5.27%
+NIBE       65.0   bearish  32.5       very_high     -27.23%
+RELCHEMQ   65.0   bullish  32.5       high         -15.24%
+STEL       65.0   bearish  52.5       high          +9.78%
+NITCO      64.0   bullish  32.0       very_high     -18.57%
+AXITA      63.0   bearish  31.5       low           -4.45%
+CMSINFO    63.0   bullish  31.5       high         -20.51%
+GUJAPOLLO  63.0   bullish  31.5       very_high     +13.50%
+MICEL      63.0   bullish  31.5       high         -11.21%
+WEWIN      63.0   neutral  51.5       very_high     +10.25%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
