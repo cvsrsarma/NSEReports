@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-08-29
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1771
+  Failed Analyses: 325
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 979
+  Bearish Signals: 48
+  Neutral Signals: 744
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HBLENGINE  70     neutral  ₹807.10     +35.32% bullish   
+OLAELEC    70     neutral  ₹54.05      +32.67% bullish   
+ACCELYA    65     bullish  ₹1398.40     -0.98% bullish   
+ANANDRATHI 60     bearish  ₹2793.90     +6.47% bullish   
+CHOICEIN   60     bullish  ₹796.00      +4.56% bullish   
+CREDITACC  60     neutral  ₹1399.90     +8.20% bullish   
+DMART      60     bearish  ₹4755.60    +18.19% bullish   
+DRREDDY    60     bullish  ₹1260.10     +0.06% bullish   
+ENRIN      60     bearish  ₹3374.90    +10.37% bullish   
+GOKULAGRO  60     neutral  ₹326.35      +0.25% bullish   
+GRANULES   60     neutral  ₹492.25      -0.46% bearish   
+HEROMOTOCO 60     bearish  ₹5087.70    +15.41% bullish   
+KRISHANA   60     bearish  ₹577.65     +15.16% bullish   
+METROPOLIS 60     bearish  ₹2188.50    +12.88% bullish   
+UTTAMSUGAR 60     neutral  ₹269.35      -4.60% bearish   
+VSTTILLERS 60     bullish  ₹5288.50    +19.09% bullish   
+AKZOINDIA  55     bullish  ₹3410.60     -7.59% bearish   
+BLAL       55     bullish  ₹207.70      -1.28% bearish   
+DIVGIITTS  55     bullish  ₹647.55      +3.32% bullish   
+HEUBACHIND 55     bullish  ₹594.00      -0.49% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

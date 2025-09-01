@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-01
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1770
+  Failed Analyses: 326
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 812
+  Bearish Signals: 113
+  Neutral Signals: 845
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+GNFC       80     bullish  ₹537.45      -2.79% bearish   
+COFFEEDAY  70     neutral  ₹47.22      +26.56% bullish   
+NGLFINE    70     neutral  ₹1473.50    +15.70% bullish   
+RISHABH    70     neutral  ₹440.35     +52.55% bullish   
+VMM        65     bullish  ₹149.10      +5.80% bullish   
+BHAGERIA   60     neutral  ₹199.58      -0.10% bearish   
+CLEDUCATE  60     bearish  ₹114.31     +21.49% bullish   
+DMART      60     bearish  ₹4734.90    +17.09% bullish   
+FINPIPE    60     neutral  ₹214.01      +2.92% bullish   
+HINDWAREAP 60     bearish  ₹319.10     +20.96% bullish   
+HONASA     60     bearish  ₹299.15      +9.08% bullish   
+IOB        60     neutral  ₹38.87       -0.56% bullish   
+POLYCAB    60     bearish  ₹7144.50     +3.77% bullish   
+RADIANTCMS 60     neutral  ₹61.49       +5.02% bullish   
+SARDAEN    60     bearish  ₹601.20     +32.98% bullish   
+STARCEMENT 60     bearish  ₹297.30     +26.02% bullish   
+SUBROS     60     neutral  ₹921.65      +6.42% bullish   
+TITAN      60     bearish  ₹3618.60     +4.24% bullish   
+USHAMART   60     neutral  ₹388.50      +1.94% bullish   
+VSTTILLERS 60     bearish  ₹5443.00    +13.81% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
