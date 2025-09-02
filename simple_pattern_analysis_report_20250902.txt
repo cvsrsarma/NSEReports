@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-02
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1778
+  Failed Analyses: 318
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 813
+  Bearish Signals: 164
+  Neutral Signals: 801
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+TITAN      80     neutral  ₹3620.60     +3.91% bullish   
+JAMNAAUTO  70     neutral  ₹107.88     +13.12% bullish   
+RATEGAIN   70     neutral  ₹549.55     +21.61% bullish   
+SFL        70     neutral  ₹739.35     +12.11% bullish   
+CUMMINSIND 65     bullish  ₹3826.40     +7.37% bullish   
+HEUBACHIND 65     bullish  ₹594.15      +0.07% bullish   
+PGHL       65     bullish  ₹6332.00     +8.65% bullish   
+ACUTAAS    60     bullish  ₹1406.10    +19.36% bullish   
+AMRUTANJAN 60     bearish  ₹730.10      +4.91% bullish   
+CREDITACC  60     bearish  ₹1391.90     +1.93% bullish   
+DMART      60     bearish  ₹4680.00    +16.39% bullish   
+ENDURANCE  60     bearish  ₹2911.20    +10.31% bullish   
+ESCORTS    60     bearish  ₹3650.40     +5.95% bullish   
+EVERESTIND 60     bearish  ₹667.60     +31.16% bullish   
+HINDWAREAP 60     bearish  ₹319.50     +22.30% bullish   
+LTF        60     bearish  ₹221.93      +5.63% bullish   
+NGLFINE    60     bearish  ₹1472.30    +16.51% bullish   
+NYKAA      60     bearish  ₹232.52      +7.84% bullish   
+POLYCAB    60     bearish  ₹7178.50     +4.93% bullish   
+RHL        60     neutral  ₹305.40      +8.47% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

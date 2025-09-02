@@ -1,0 +1,177 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This professional scan uses multiple technical analysis strategies to highlight stocks:
+- Breakout stocks: Price breaking above Bollinger Bands with momentum.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover signals.
+- Stochastic recovery: Oversold recovery patterns.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud configuration.
+- Bollinger squeeze: Low volatility before potential breakout.
+- High money flow: Strong buying pressure (MFI > 70).
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+PROFESSIONAL NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-09-02 21:47:26
+Data Date: 2025-09-02
+
+📈 BREAKOUT STOCKS
+----------------------------------------------------------------------
+Strategy: Breaking above Bollinger Bands with momentum
+
+MOBIKWIK     One Mobikwik Systems Limi ₹  280.70 Breakout:  +9.2% RSI:  74.7
+QUADFUTURE   Quadrant Future Tek Limit ₹  465.35 Breakout:  +5.8% RSI:  64.8
+JAICORPLTD   Jai Corp Limited          ₹  142.42 Breakout:  +3.4% RSI:  72.9
+QPOWER       Quality Power Electrical  ₹  865.45 Breakout:  +2.6% RSI:  63.6
+JPOLYINVST   Jindal Poly Investment an ₹  958.30 Breakout:  +2.3% RSI:  68.7
+GENESYS      Genesys International Cor ₹  633.35 Breakout:  +2.0% RSI:  60.6
+CEATLTD      CEAT Limited              ₹ 3376.00 Breakout:  +1.8% RSI:  56.7
+RUBFILA      Rubfila International Lim ₹   84.65 Breakout:  +1.7% RSI:  64.0
+BAJAJCON     Bajaj Consumer Care Limit ₹  242.47 Breakout:  +1.3% RSI:  66.7
+TFCILTD      Tourism Finance Corporati ₹  335.00 Breakout:  +1.2% RSI:  73.3
+SFL          Sheela Foam Limited       ₹  739.35 Breakout:  +1.0% RSI:  66.4
+DABUR        Dabur India Limited       ₹  544.60 Breakout:  +1.0% RSI:  64.3
+ECLERX       eClerx Services Limited   ₹ 4534.50 Breakout:  +1.0% RSI:  68.2
+PANSARI      Pansari Developers Limite ₹  270.00 Breakout:  +0.9% RSI:  72.6
+XELPMOC      Xelpmoc Design And Tech L ₹  100.55 Breakout:  +0.7% RSI:  67.3
+
+🔥 TRENDING STOCKS
+----------------------------------------------------------------------
+Strategy: Strong directional movement (ADX > 35)
+
+HEUBACHIND   Heubach Colorants India L ₹  594.15 ADX:  65.8 UP   RSI:  57.8
+STARTECK     Starteck Finance Limited  ₹  315.80 ADX:  63.6 UP   RSI:  50.4
+BAJFINANCE   Bajaj Finance Limited     ₹  890.10 ADX:  63.1 DOWN RSI:  25.1
+YATRA        Yatra Online Limited      ₹  156.03 ADX:  62.1 UP   RSI:  70.2
+ROTO         Roto Pumps Limited        ₹   82.64 ADX:  60.8 DOWN RSI:  22.9
+MAHASTEEL    Mahamaya Steel Industries ₹  366.10 ADX:  60.0 UP   RSI:  89.3
+INDIAGLYCO   India Glycols Limited     ₹  825.10 ADX:  58.8 DOWN RSI:  22.1
+NESTLEIND    Nestle India Limited      ₹ 1200.90 ADX:  58.0 DOWN RSI:  22.6
+ATHERENERG   Ather Energy Limited      ₹  496.70 ADX:  57.9 UP   RSI:  80.1
+KANPRPLA     Kanpur Plastipack Limited ₹  210.89 ADX:  57.4 UP   RSI:  75.3
+VRLLOG       VRL Logistics Limited     ₹  273.00 ADX:  56.3 DOWN RSI:  14.3
+MARKSANS     Marksans Pharma Limited   ₹  170.95 ADX:  56.2 DOWN RSI:  22.6
+TEMBO        Tembo Global Industries L ₹  622.25 ADX:  55.3 UP   RSI:  84.6
+VESUVIUS     Vesuvius India Limited    ₹  515.60 ADX:  54.7 DOWN RSI:  31.7
+BHARATSE     Bharat Seats Limited      ₹  172.06 ADX:  53.6 UP   RSI:  87.1
+IXIGO        Le Travenues Technology L ₹  277.70 ADX:  52.4 UP   RSI:  60.2
+PAYTM        One 97 Communications Lim ₹ 1257.90 ADX:  51.7 UP   RSI:  69.3
+JITFINFRA    JITF Infralogistics Limit ₹  267.25 ADX:  51.4 DOWN RSI:  29.4
+NESCO        Nesco Limited             ₹ 1416.40 ADX:  51.2 UP   RSI:  58.7
+ZIMLAB       Zim Laboratories Limited  ₹   75.94 ADX:  51.0 DOWN RSI:  35.4
+
+🚀 MACD BULLISH
+----------------------------------------------------------------------
+Strategy: Bullish MACD crossover signals
+
+MRF          MRF Limited               ₹  153885 MACD: 330.95 Hist: 509.41
+HONAUT       Honeywell Automation Indi ₹   37660 MACD: -85.91 Hist: 151.89
+MARUTI       Maruti Suzuki India Limit ₹   14842 MACD: 604.08 Hist: 115.46
+FOSECOIND    Foseco India Limited      ₹ 5972.00 MACD: 347.21 Hist:  68.72
+LUMAXIND     Lumax Industries Limited  ₹ 4173.30 MACD: 150.80 Hist:  66.08
+DIXON        Dixon Technologies (India ₹   17553 MACD: 288.13 Hist:  58.77
+ASTRAZEN     AstraZeneca Pharma India  ₹ 8926.00 MACD: -99.80 Hist:  56.75
+KAUSHALYA    Kaushalya Infrastructure  ₹ 1522.30 MACD: 102.46 Hist:  56.26
+BRITANNIA    Britannia Industries Limi ₹ 5891.50 MACD:  48.52 Hist:  51.06
+BAJAJ-AUTO   Bajaj Auto Limited        ₹ 9030.50 MACD: 161.37 Hist:  50.17
+EICHERMOT    Eicher Motors Limited     ₹ 6349.00 MACD: 171.62 Hist:  45.07
+COFORGE      Coforge Limited           ₹ 1754.60 MACD: -52.91 Hist:  38.27
+KAYNES       Kaynes Technology India L ₹ 6573.00 MACD: 120.85 Hist:  37.99
+BOSCHLTD     Bosch Limited             ₹   41315 MACD: 733.51 Hist:  37.70
+PAGEIND      Page Industries Limited   ₹   45160 MACD: -446.09 Hist:  37.57
+
+🔄 STOCHASTIC RECOVERY
+----------------------------------------------------------------------
+Strategy: Oversold recovery patterns
+
+ANDHRSUGAR   The Andhra Sugars Limited ₹   77.50 K%:  28.3 D%:  12.2
+21STCENMGM   21st Century Management S ₹   53.22 K%:  24.2 D%:   9.9
+WEL          Wonder Electricals Limite ₹  137.14 K%:  28.1 D%:  13.9
+HGS          Hinduja Global Solutions  ₹  523.35 K%:  29.0 D%:  15.4
+CORDSCABLE   Cords Cable Industries Li ₹  177.32 K%:  29.5 D%:  16.2
+BLUEJET      Blue Jet Healthcare Limit ₹  684.30 K%:  23.9 D%:  10.8
+MAHSEAMLES   Maharashtra Seamless Limi ₹  656.10 K%:  27.8 D%:  15.1
+DOLATALGO    Dolat Algotech Limited    ₹   81.27 K%:  27.9 D%:  15.4
+SHRIRAMPPS   Shriram Properties Limite ₹   87.14 K%:  22.4 D%:   9.9
+REPRO        Repro India Limited       ₹  454.75 K%:  23.2 D%:  10.7
+WABAG        VA Tech Wabag Limited     ₹ 1510.40 K%:  29.5 D%:  17.2
+CUB          City Union Bank Limited   ₹  200.74 K%:  26.6 D%:  14.4
+TRANSRAILL   Transrail Lighting Limite ₹  772.65 K%:  29.4 D%:  17.3
+DCW          DCW Limited               ₹   74.62 K%:  24.7 D%:  12.8
+BLUSPRING    Bluspring Enterprises Lim ₹   80.91 K%:  26.4 D%:  14.6
+
+📊 HIGH VOLUME
+----------------------------------------------------------------------
+Strategy: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+----------------------------------------------------------------------
+Strategy: Above Ichimoku cloud configuration
+
+No stocks found matching criteria
+
+🎯 BOLLINGER SQUEEZE
+----------------------------------------------------------------------
+Strategy: Low volatility before potential breakout
+
+HEUBACHIND   Heubach Colorants India L ₹  594.15 BB Width:   1.0% RSI:  57.8
+DCM          DCM  Limited              ₹   99.69 BB Width:   2.6% RSI:  40.3
+CENTENKA     Century Enka Limited      ₹  508.10 BB Width:   3.1% RSI:  54.7
+JCHAC        Johnson Controls - Hitach ₹ 1741.80 BB Width:   3.3% RSI:  49.9
+KPITTECH     KPIT Technologies Limited ₹ 1206.10 BB Width:   3.5% RSI:  46.6
+SONACOMS     Sona BLW Precision Forgin ₹  444.95 BB Width:   3.5% RSI:  44.7
+ABB          ABB India Limited         ₹ 5148.20 BB Width:   3.5% RSI:  44.8
+NSIL         Nalwa Sons Investments Li ₹ 6818.50 BB Width:   3.5% RSI:  52.2
+ONGC         Oil & Natural Gas Corpora ₹  239.49 BB Width:   3.5% RSI:  54.4
+GMBREW       GM Breweries Limited      ₹  698.60 BB Width:   3.6% RSI:  54.9
+VEEDOL       Veedol Corporation Limite ₹ 1635.40 BB Width:   3.6% RSI:  46.2
+ACCELYA      Accelya Solutions India L ₹ 1406.40 BB Width:   3.7% RSI:  51.1
+ORIENTHOT    Oriental Hotels Limited   ₹  137.88 BB Width:   3.7% RSI:  42.3
+DBCORP       D.B.Corp Limited          ₹  266.60 BB Width:   3.8% RSI:  45.7
+JAGRAN       Jagran Prakashan Limited  ₹   72.00 BB Width:   4.0% RSI:  47.6
+
+💰 HIGH MONEY FLOW
+----------------------------------------------------------------------
+Strategy: Strong buying pressure (MFI > 70)
+
+AARTIPHARM   Aarti Pharmalabs Limited  ₹  870.20 MFI:   NaN DOWN
+AARVI        Aarvi Encon Limited       ₹  122.89 MFI:   NaN UP  
+ABDL         Allied Blenders and Disti ₹  507.40 MFI:   NaN UP  
+ABFRL        Aditya Birla Fashion and  ₹   83.32 MFI:   NaN UP  
+ACE          Action Construction Equip ₹ 1082.30 MFI:   NaN UP  
+ACI          Archean Chemical Industri ₹  678.95 MFI:   NaN UP  
+ACUTAAS      Acutaas Chemicals Limited ₹ 1406.10 MFI:   NaN UP  
+ADVANIHOTR   Advani Hotels & Resorts ( ₹   61.81 MFI:   NaN UP  
+AFCONS       Afcons Infrastructure Lim ₹  425.95 MFI:   NaN UP  
+AGIIL        Agi Infra Limited         ₹ 1170.00 MFI:   NaN UP  
+ANANDRATHI   Anand Rathi Wealth Limite ₹ 2936.70 MFI:   NaN UP  
+APOLLO       Apollo Micro Systems Limi ₹  292.70 MFI:   NaN UP  
+ARIES        Aries Agro Limited        ₹  424.25 MFI:   NaN UP  
+ARIHANTCAP   Arihant Capital Markets L ₹  106.13 MFI:   NaN UP  
+ASHOKA       Ashoka Buildcon Limited   ₹  190.04 MFI:   NaN UP  
+
+================================================================================
+TECHNICAL ANALYSIS COMPLETE
+Key Insights:
+• Breakout stocks may continue upward momentum
+• High ADX stocks show strong directional movement
+• MACD bullish signals indicate potential uptrends
+• Stochastic recovery suggests oversold bounce opportunities
+• High OBV shows institutional buying interest
+• Ichimoku bullish setups provide comprehensive trend confirmation
+• Bollinger squeeze often precedes volatility expansion
+• High MFI indicates strong buying pressure
+⚠️  For educational purposes only. Always conduct thorough research!
+================================================================================

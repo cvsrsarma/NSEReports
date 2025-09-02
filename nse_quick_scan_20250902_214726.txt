@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-09-02 21:47:26
+Data Date: 2025-09-02
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹153885.00 RSI: 64.2
+BOSCHLTD     Bosch Limited                ₹41315.00 RSI: 69.2
+3MINDIA      3M India Limited             ₹31090.00 RSI: 55.6
+DIXON        Dixon Technologies (India... ₹17553.00 RSI: 66.5
+MAHSCOOTER   Maharashtra Scooters Limi... ₹16373.00 RSI: 66.9
+ZFCVINDIA    ZF Commercial Vehicle Con... ₹14190.00 RSI: 56.0
+NEULANDLAB   Neuland Laboratories Limi... ₹13728.00 RSI: 55.9
+PGHH         Procter & Gamble Hygiene ... ₹13605.00 RSI: 60.5
+ULTRACEMCO   UltraTech Cement Limited     ₹12730.00 RSI: 58.2
+TVSHLTD      TVS Holdings Limited         ₹12340.00 RSI: 60.4
+BAJAJ-AUTO   Bajaj Auto Limited           ₹ 9030.50 RSI: 70.3
+ASTRAZEN     AstraZeneca Pharma India ... ₹ 8926.00 RSI: 57.3
+AMBER        Amber Enterprises India L... ₹ 7645.00 RSI: 57.9
+POLYCAB      Polycab India Limited        ₹ 7178.50 RSI: 63.9
+CRAFTSMAN    Craftsman Automation Limi... ₹ 6967.00 RSI: 57.0
+KAYNES       Kaynes Technology India L... ₹ 6573.00 RSI: 65.2
+PGHL         Procter & Gamble Health L... ₹ 6332.00 RSI: 56.0
+FOSECOIND    Foseco India Limited         ₹ 5972.00 RSI: 60.5
+BRITANNIA    Britannia Industries Limi... ₹ 5891.50 RSI: 63.0
+LTIM         LTIMindtree Limited          ₹ 5243.50 RSI: 56.4
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+HDFCBANK     HDFC Bank Limited            ₹  944.50 RSI:  5.7
+STEELCAS     Steelcast Limited            ₹  206.56 RSI: 11.0
+PAVNAIND     Pavna Industries Limited     ₹   38.25 RSI: 11.2
+VLEGOV       VL E-Governance & IT Solu... ₹   32.48 RSI: 11.8
+SBGLP        Suratwwala Business Group... ₹   36.12 RSI: 12.3
+VRLLOG       VRL Logistics Limited        ₹  273.00 RSI: 14.3
+CHEMBOND     Chembond Material Technol... ₹  187.77 RSI: 15.6
+DEVIT        Dev Information Technolog... ₹   43.51 RSI: 16.8
+KELLTONTEC   Kellton Tech Solutions Li... ₹   25.66 RSI: 17.4
+BAYERCROP    Bayer Cropscience Limited    ₹ 5202.50 RSI: 19.6
+VPRPL        Vishnu Prakash R Punglia ... ₹  120.27 RSI: 20.1
+MARALOVER    Maral Overseas Limited       ₹   56.53 RSI: 22.1
+FIVESTAR     Five-Star Business Financ... ₹  526.95 RSI: 22.1
+INDIAGLYCO   India Glycols Limited        ₹  825.10 RSI: 22.1
+NESTLEIND    Nestle India Limited         ₹ 1200.90 RSI: 22.6
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+HEUBACHIND   Heubach Colorants India L... ₹  594.15 ADX: 65.8 UP
+STARTECK     Starteck Finance Limited     ₹  315.80 ADX: 63.6 UP
+BAJFINANCE   Bajaj Finance Limited        ₹  890.10 ADX: 63.1 DOWN
+YATRA        Yatra Online Limited         ₹  156.03 ADX: 62.1 UP
+ROTO         Roto Pumps Limited           ₹   82.64 ADX: 60.8 DOWN
+MAHASTEEL    Mahamaya Steel Industries... ₹  366.10 ADX: 60.0 UP
+HIKAL        Hikal Limited                ₹  269.30 ADX: 59.7 DOWN
+INDIAGLYCO   India Glycols Limited        ₹  825.10 ADX: 58.8 DOWN
+NESTLEIND    Nestle India Limited         ₹ 1200.90 ADX: 58.0 DOWN
+ATHERENERG   Ather Energy Limited         ₹  496.70 ADX: 57.9 UP
+KANPRPLA     Kanpur Plastipack Limited    ₹  210.89 ADX: 57.4 UP
+VRLLOG       VRL Logistics Limited        ₹  273.00 ADX: 56.3 DOWN
+MARKSANS     Marksans Pharma Limited      ₹  170.95 ADX: 56.2 DOWN
+TEMBO        Tembo Global Industries L... ₹  622.25 ADX: 55.3 UP
+VESUVIUS     Vesuvius India Limited       ₹  515.60 ADX: 54.7 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================
