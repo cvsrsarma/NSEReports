@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-03
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1776
+• Failed Analyses: 320
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 850
+• Bearish Signals: 203
+• Neutral Signals: 723
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 6
+• Moderate Risk: 457
+• High Risk: 1041
+• Very High Risk: 272
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+EPACK      84.0   neutral  61.9       high         +12.16%
+ZUARI      80.0   bullish  60.0       very_high     +51.47%
+JPOLYINVST 79.0   neutral  39.5       very_high     +24.67%
+NATIONALUM 78.0   bearish  58.6       moderate      +6.95%
+RATEGAIN   78.0   neutral  59.0       high         +32.51%
+RUCHIRA    78.0   neutral  59.0       moderate     +13.50%
+ATHERENERG 77.0   neutral  58.5       high         +49.75%
+BLAL       77.0   neutral  38.5       moderate      +6.35%
+LOTUSEYE   76.0   neutral  58.0       very_high     +75.10%
+MSUMI      76.0   bullish  58.0       moderate      +5.88%
+YATHARTH   76.0   bearish  58.0       high         +19.59%
+RELIABLE   75.0   neutral  57.5       very_high    +123.86%
+JTEKTINDIA 72.0   neutral  55.9       high          +6.96%
+KAYNES     72.0   neutral  56.0       high         +18.45%
+SIYSIL     69.0   neutral  34.5       high          -4.42%
+TFCILTD    69.0   neutral  54.5       high         +15.47%
+HEMIPROP   67.0   neutral  53.5       high         +27.07%
+NIRAJ      65.0   neutral  32.5       very_high      -7.76%
+PARADEEP   65.0   bullish  32.5       very_high     +11.47%
+LAXMICOT   64.0   neutral  32.0       very_high     -11.20%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-03
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1776
+  Failed Analyses: 320
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 752
+  Bearish Signals: 179
+  Neutral Signals: 845
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+COFORGE    70     neutral  ₹1731.80     +2.55% bullish   
+RUCHIRA    70     neutral  ₹153.47     +13.50% bullish   
+CHOICEIN   65     bullish  ₹783.60      +4.19% bullish   
+PGHL       65     bullish  ₹6316.50     +8.71% bullish   
+VMM        65     bullish  ₹146.55      +4.73% bullish   
+ACUTAAS    60     bullish  ₹1412.20    +21.90% bullish   
+BLUESTARCO 60     bearish  ₹1960.60    +12.21% bullish   
+DENTA      60     bearish  ₹427.90     +29.61% bullish   
+DMART      60     bearish  ₹4758.50    +19.05% bullish   
+ENDURANCE  60     bearish  ₹2913.60    +12.96% bullish   
+ESCORTS    60     bearish  ₹3677.50     +7.79% bullish   
+EVERESTIND 60     bearish  ₹669.15     +31.46% bullish   
+GPIL       60     bearish  ₹247.98     +31.19% bullish   
+GRINDWELL  60     neutral  ₹1594.30     -2.97% bullish   
+GRINFRA    60     bearish  ₹1286.80     +3.64% bullish   
+GULFOILLUB 60     neutral  ₹1264.50     +2.89% bullish   
+HINDUNILVR 60     bearish  ₹2664.70    +10.32% bullish   
+HINDWAREAP 60     bearish  ₹324.65     +26.59% bullish   
+HONASA     60     bearish  ₹301.75     +14.43% bullish   
+IFBIND     60     bearish  ₹1556.80    +11.72% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
