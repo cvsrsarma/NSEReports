@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-04
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1776
+  Failed Analyses: 320
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 954
+  Bearish Signals: 95
+  Neutral Signals: 727
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+KRISHANA   65     bullish  ₹576.60     +12.07% bullish   
+TATACONSUM 65     bullish  ₹1071.10     +1.06% bullish   
+ACUTAAS    60     bearish  ₹1424.60    +24.08% bullish   
+BHAGERIA   60     neutral  ₹200.85      +2.68% bullish   
+BIKAJI     60     neutral  ₹801.35      +6.80% bullish   
+EVERESTIND 60     bearish  ₹666.75     +30.99% bullish   
+GULFOILLUB 60     bearish  ₹1264.70     +7.12% bullish   
+HINDUNILVR 60     bearish  ₹2666.60     +9.22% bullish   
+HINDWAREAP 60     bearish  ₹324.25     +29.00% bullish   
+NURECA     60     neutral  ₹260.08      +7.92% bullish   
+RHL        60     bearish  ₹299.80      +5.86% bullish   
+SALSTEEL   60     bearish  ₹18.48      +17.04% bullish   
+SENCO      60     bearish  ₹385.50     +13.85% bullish   
+BOROLTD    55     bullish  ₹344.45      +5.47% bullish   
+CENTENKA   55     bullish  ₹498.75      -1.68% bearish   
+HEUBACHIND 55     bullish  ₹594.30      +0.36% bullish   
+ICRA       55     bullish  ₹6281.00     -4.47% bearish   
+MANOMAY    55     bullish  ₹164.42      +2.60% bullish   
+ONGC       55     bullish  ₹235.72      -1.79% bearish   
+PREMEXPLN  55     bullish  ₹539.05     +16.01% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

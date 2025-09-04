@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-04
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1776
+• Failed Analyses: 320
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 968
+• Bearish Signals: 146
+• Neutral Signals: 662
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 6
+• Moderate Risk: 445
+• High Risk: 1036
+• Very High Risk: 289
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+STYLEBAAZA 80.0   neutral  60.0       high         +31.33%
+ZUARI      80.0   bullish  59.8       very_high     +37.84%
+BRITANNIA  79.0   neutral  39.5       moderate      +8.15%
+PVP        78.0   neutral  58.6       very_high     +13.90%
+YATHARTH   78.0   bearish  59.0       high         +23.73%
+BLAL       77.0   neutral  58.2       moderate      +6.61%
+LOTUSEYE   76.0   neutral  58.0       very_high     +78.25%
+RELIABLE   75.0   neutral  57.5       very_high    +120.04%
+MSUMI      73.0   bullish  56.5       high         +10.35%
+JTEKTINDIA 72.0   neutral  56.0       high         +13.53%
+KAYNES     70.0   bearish  55.0       high         +22.68%
+ASALCBR    68.0   bullish  34.0       high          -6.25%
+HEMIPROP   68.0   neutral  54.0       high         +31.23%
+SVPGLOB    68.0   bullish  34.0       very_high      +2.75%
+SONAMLTD   67.0   bullish  53.5       very_high      +2.10%
+RAMCOIND   66.0   bullish  53.0       high         +11.21%
+NKIND      65.0   bullish  52.2       very_high      +1.12%
+EICHERMOT  64.0   bullish  52.0       moderate     +19.29%
+LAXMICOT   64.0   neutral  32.0       very_high     -10.74%
+PARADEEP   64.0   bullish  32.0       very_high      +4.01%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
