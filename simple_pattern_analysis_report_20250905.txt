@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-05
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1776
+  Failed Analyses: 320
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 923
+  Bearish Signals: 98
+  Neutral Signals: 755
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+RUCHIRA    70     neutral  ₹154.65     +15.44% bullish   
+HEUBACHIND 65     bullish  ₹594.15      +0.34% bullish   
+INNOVACAP  65     bullish  ₹908.90      +3.33% bullish   
+ASHAPURMIN 60     neutral  ₹562.15      +5.01% bearish   
+BFUTILITIE 60     bullish  ₹804.45      +9.68% bullish   
+BIKAJI     60     neutral  ₹800.05      +6.63% bullish   
+EVERESTIND 60     bearish  ₹666.20     +30.88% bullish   
+GOODLUCK   60     neutral  ₹1229.40    +20.91% bullish   
+GUJALKALI  60     neutral  ₹587.80      +2.12% bullish   
+GULFOILLUB 60     bearish  ₹1252.40     +6.08% bullish   
+HLEGLAS    60     bearish  ₹549.80     +27.43% bullish   
+HONASA     60     bearish  ₹299.90     +12.89% bullish   
+JAMNAAUTO  60     bearish  ₹107.73     +19.17% bullish   
+NURECA     60     neutral  ₹257.10      +6.68% bullish   
+RTNINDIA   60     neutral  ₹61.97      +10.86% bullish   
+SHOPERSTOP 60     bearish  ₹548.60      +6.29% bullish   
+SJS        60     bearish  ₹1402.60    +14.67% bullish   
+SKFINDIA   60     neutral  ₹4878.10     +1.11% bearish   
+SPIC       60     bearish  ₹115.68     +17.64% bullish   
+TITAN      60     bearish  ₹3665.30     +8.03% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
