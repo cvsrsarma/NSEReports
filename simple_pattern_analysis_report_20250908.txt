@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-08
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1782
+  Failed Analyses: 314
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 979
+  Bearish Signals: 95
+  Neutral Signals: 708
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HEUBACHIND 80     neutral  ₹594.45      +0.66% bullish   
+MUNJALAU   70     neutral  ₹95.58      +22.79% bullish   
+DMART      65     bullish  ₹4714.20    +10.11% bullish   
+PVRINOX    65     bullish  ₹1111.80    +12.57% bullish   
+TITAN      65     bullish  ₹3658.00     +8.34% bullish   
+CGPOWER    60     bearish  ₹746.35     +13.02% bullish   
+DCI        60     bearish  ₹263.28     +20.11% bullish   
+EIHOTEL    60     bearish  ₹418.15     +10.07% bullish   
+FLAIR      60     neutral  ₹340.25      -3.57% bearish   
+FUSION     60     bearish  ₹175.03      +5.42% bullish   
+GOODLUCK   60     neutral  ₹1240.60    +11.90% bullish   
+GRANULES   60     bearish  ₹519.25      +5.51% bullish   
+GULFOILLUB 60     bearish  ₹1270.30     +4.23% bullish   
+HONASA     60     bearish  ₹299.95     +11.42% bullish   
+KIOCL      60     bearish  ₹473.70     +44.71% bullish   
+THOMASCOOK 60     bearish  ₹178.19      +6.69% bullish   
+UNOMINDA   60     bearish  ₹1309.90    +22.44% bullish   
+WCIL       60     bearish  ₹136.11     +25.69% bullish   
+63MOONS    55     bullish  ₹921.50      -7.41% bearish   
+ABB        55     bullish  ₹5108.30     -8.02% bearish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

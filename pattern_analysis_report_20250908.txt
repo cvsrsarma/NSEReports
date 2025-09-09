@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-08
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1782
+• Failed Analyses: 314
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 943
+• Bearish Signals: 144
+• Neutral Signals: 695
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 7
+• Moderate Risk: 476
+• High Risk: 1030
+• Very High Risk: 269
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+BIRLAMONEY 98.0   bearish  69.0       high         +13.69%
+NILASPACES 93.0   bullish  66.5       very_high     +17.89%
+MSUMI      88.0   bullish  64.0       high         +25.13%
+STYLEBAAZA 81.0   neutral  60.5       high         +30.43%
+ADANIPOWER 79.0   neutral  59.5       moderate      +7.49%
+DIAMONDYD  79.0   neutral  39.5       high          +3.53%
+MUNJALAU   79.0   bullish  59.5       high         +22.79%
+NDRAUTO    79.0   bearish  59.5       high         +11.17%
+PAISALO    79.0   neutral  59.3       high         +19.79%
+RAMCOIND   79.0   neutral  59.5       high         +13.33%
+SGIL       79.0   bearish  59.5       high         +14.42%
+ZOTA       79.0   neutral  58.8       high         +21.67%
+KRITINUT   78.0   bullish  39.0       high         -12.27%
+NSIL       78.0   neutral  59.0       moderate      +6.42%
+PARAGMILK  78.0   neutral  39.0       high          +8.18%
+SHAHALLOYS 78.0   neutral  58.0       very_high     +14.87%
+AKASH      77.0   neutral  38.5       high         +14.34%
+PRECAM     77.0   neutral  38.5       high         +20.78%
+SSWL       77.0   neutral  38.5       high          +2.23%
+LOTUSEYE   76.0   neutral  58.0       very_high     +76.68%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
