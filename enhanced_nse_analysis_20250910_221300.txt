@@ -1,0 +1,152 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This enhanced scan uses multiple technical analysis strategies to highlight stocks:
+- Golden Cross: SMA50 > SMA200 with bullish momentum.
+- Breakout stocks: Price breaking above Bollinger Bands with strength.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover with positive histogram.
+- Stochastic recovery: Oversold recovery with Stochastic turning up.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud with bullish signals.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+ENHANCED NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-09-10 22:13:00
+Data Date: 2025-09-10
+
+🥇 GOLDEN CROSS STOCKS
+------------------------------------------------------------
+Description: Golden Cross (SMA50 > SMA200) with bullish momentum
+
+EICHERMOT    Eicher Motors Limited          ₹ 6836.50 RSI:  86.3 SMA50:  5940.4
+KHAICHEM     Khaitan Chemicals & Fertilizers Limited ₹  130.37 RSI:  85.8 SMA50:    79.8
+SIGMA        Sigma Solve Limited            ₹  469.05 RSI:  84.7 SMA50:   341.1
+KANPRPLA     Kanpur Plastipack Limited      ₹  238.38 RSI:  82.5 SMA50:   166.0
+CUPID        Cupid Limited                  ₹  202.68 RSI:  82.0 SMA50:   156.1
+ZYDUSWELL    Zydus Wellness Limited         ₹ 2486.90 RSI:  80.7 SMA50:  2097.7
+TFCILTD      Tourism Finance Corporation of India Limited ₹  358.40 RSI:  80.4 SMA50:   295.6
+NETWEB       Netweb Technologies India Limited ₹ 3130.20 RSI:  80.2 SMA50:  2239.9
+RAMCOIND     Ramco Industries Limited       ₹  347.05 RSI:  78.7 SMA50:   298.0
+IMFA         Indian Metals & Ferro Alloys Limited ₹ 1011.40 RSI:  78.0 SMA50:   820.6
+YATHARTH     Yatharth Hospital & Trauma Care Services Limited ₹  798.05 RSI:  77.9 SMA50:   675.3
+VENUSREM     Venus Remedies Limited         ₹  453.95 RSI:  76.1 SMA50:   355.2
+MAHSCOOTER   Maharashtra Scooters Limited   ₹   17911 RSI:  75.8 SMA50: 15455.6
+KAYNES       Kaynes Technology India Limited ₹ 7097.50 RSI:  75.6 SMA50:  6228.6
+HBLENGINE    HBL Engineering Limited        ₹  867.15 RSI:  75.6 SMA50:   715.1
+ZOTA         Zota Health Care LImited       ₹ 1499.80 RSI:  75.4 SMA50:  1235.6
+PRICOLLTD    Pricol Limited                 ₹  522.00 RSI:  74.7 SMA50:   458.0
+CGPOWER      CG Power and Industrial Solutions Limited ₹  768.95 RSI:  74.4 SMA50:   690.8
+IFBAGRO      IFB Agro Industries Limited    ₹  775.40 RSI:  73.9 SMA50:   568.4
+SUNDARMHLD   Sundaram Finance Holdings Limited ₹  571.40 RSI:  73.7 SMA50:   481.6
+
+📈 BREAKOUT STOCKS
+------------------------------------------------------------
+Description: Breaking above Bollinger Bands with strength
+
+SMSPHARMA    SMS Pharmaceuticals Limited    ₹  268.03 Breakout:  +5.3% RSI:  74.8
+GRWRHITECH   Garware Hi-Tech Films Limited  ₹ 3320.10 Breakout:  +4.7% RSI:  60.7
+TOLINS       Tolins Tyres Limited           ₹  175.57 Breakout:  +4.1% RSI:  67.0
+VADILALIND   Vadilal Industries Limited     ₹ 5650.50 Breakout:  +3.6% RSI:  66.8
+SULA         Sula Vineyards Limited         ₹  285.37 Breakout:  +3.4% RSI:  65.8
+MOREPENLAB   Morepen Laboratories Limited   ₹   53.67 Breakout:  +3.1% RSI:  59.7
+FAZE3Q       Faze Three Limited             ₹  545.40 Breakout:  +2.4% RSI:  60.0
+MACPOWER     Macpower CNC Machines Limited  ₹  923.00 Breakout:  +2.2% RSI:  49.1
+ORICONENT    Oricon Enterprises Limited     ₹   56.97 Breakout:  +1.9% RSI:  71.3
+PVSL         Popular Vehicles and Services Limited ₹  139.59 Breakout:  +1.9% RSI:  72.8
+WELSPUNLIV   Welspun Living Limited         ₹  125.53 Breakout:  +1.8% RSI:  59.4
+PSPPROJECT   PSP Projects Limited           ₹  770.05 Breakout:  +1.8% RSI:  65.9
+SCHNEIDER    Schneider Electric Infrastructure Limited ₹  881.45 Breakout:  +1.7% RSI:  74.6
+MICEL        MIC Electronics Limited        ₹   74.61 Breakout:  +1.6% RSI:  72.4
+ORIENTTECH   Orient Technologies Limited    ₹  329.30 Breakout:  +1.6% RSI:  63.1
+
+🔥 TRENDING STOCKS
+------------------------------------------------------------
+Description: Strong directional movement (ADX > 35)
+
+GLOBALE      Globale Tessile Limited        ₹   13.82 ADX:  78.4 DOWN
+SBGLP        Suratwwala Business Group Limited ₹   35.47 ADX:  71.6 DOWN
+MAHASTEEL    Mahamaya Steel Industries Limited ₹  387.20 ADX:  68.7 UP  
+YATRA        Yatra Online Limited           ₹  162.03 ADX:  66.8 UP  
+ATHERENERG   Ather Energy Limited           ₹  541.55 ADX:  66.2 UP  
+VLEGOV       VL E-Governance & IT Solutions Limited ₹   36.33 ADX:  65.5 DOWN
+KAMOPAINTS   Kamdhenu Ventures Limited      ₹    9.10 ADX:  63.7 DOWN
+KANPRPLA     Kanpur Plastipack Limited      ₹  238.38 ADX:  61.1 UP  
+VRLLOG       VRL Logistics Limited          ₹  269.05 ADX:  60.6 DOWN
+KESORAMIND   Kesoram Industries Limited     ₹    5.27 ADX:  60.4 DOWN
+KHAICHEM     Khaitan Chemicals & Fertilizers Limited ₹  130.37 ADX:  59.6 UP  
+HEUBACHIND   Heubach Colorants India Limited ₹  595.30 ADX:  59.5 UP  
+KELLTONTEC   Kellton Tech Solutions Limited ₹   27.19 ADX:  58.8 DOWN
+ROTO         Roto Pumps Limited             ₹   82.06 ADX:  58.5 DOWN
+TEMBO        Tembo Global Industries Limited ₹  625.95 ADX:  58.1 UP  
+SAKUMA       Sakuma Exports Limited         ₹    2.61 ADX:  57.8 DOWN
+INDIAGLYCO   India Glycols Limited          ₹  858.65 ADX:  57.5 DOWN
+RAMCOIND     Ramco Industries Limited       ₹  347.05 ADX:  57.2 UP  
+STARTECK     Starteck Finance Limited       ₹  315.20 ADX:  56.6 UP  
+BHARATSE     Bharat Seats Limited           ₹  168.80 ADX:  56.5 UP  
+
+🚀 MACD BULLISH
+------------------------------------------------------------
+Description: Bullish MACD crossover with positive histogram
+
+JSWHL        JSW Holdings Limited           ₹   19300 MACD: -190.57 Hist: 223.22
+MAHSCOOTER   Maharashtra Scooters Limited   ₹   17911 MACD: 641.19 Hist: 183.96
+MRF          MRF Limited                    ₹  145255 MACD: 711.35 Hist: 141.50
+NEULANDLAB   Neuland Laboratories Limited   ₹   14803 MACD: 350.43 Hist: 117.18
+TVSHLTD      TVS Holdings Limited           ₹   13277 MACD: 305.68 Hist: 108.91
+E2E          E2E Networks Limited           ₹ 3265.00 MACD: 213.91 Hist: 105.01
+AXISCADES    AXISCADES Technologies Limited ₹ 1548.20 MACD: 159.58 Hist:  93.29
+NETWEB       Netweb Technologies India Limited ₹ 3130.20 MACD: 257.01 Hist:  91.16
+ASTRAZEN     AstraZeneca Pharma India Limited ₹ 8996.00 MACD:  71.70 Hist:  83.44
+KAYNES       Kaynes Technology India Limited ₹ 7097.50 MACD: 268.52 Hist:  80.35
+VADILALIND   Vadilal Industries Limited     ₹ 5650.50 MACD:  50.32 Hist:  76.87
+DIXON        Dixon Technologies (India) Limited ₹   17897 MACD: 445.02 Hist:  76.57
+GRWRHITECH   Garware Hi-Tech Films Limited  ₹ 3320.10 MACD: -74.10 Hist:  75.24
+EICHERMOT    Eicher Motors Limited          ₹ 6836.50 MACD: 288.21 Hist:  71.88
+NSIL         Nalwa Sons Investments Limited ₹ 7261.00 MACD:  94.96 Hist:  67.35
+
+🔄 STOCHASTIC RECOVERY
+------------------------------------------------------------
+Description: Oversold recovery with Stochastic turning up
+
+EIEL         Enviro Infra Engineers Limited ₹  248.68 K%:  29.7 D%:  11.3
+PATINTLOG    Patel Integrated Logistics Limited ₹   14.71 K%:  27.9 D%:  11.5
+PITTIENG     Pitti Engineering Limited      ₹  916.40 K%:  27.8 D%:  13.7
+LT           Larsen & Toubro Limited        ₹ 3550.00 K%:  25.5 D%:  11.9
+TATAINVEST   Tata Investment Corporation Limited ₹ 6760.50 K%:  25.1 D%:  12.4
+KIRLOSENG    Kirloskar Oil Engines Limited  ₹  888.10 K%:  24.4 D%:  11.8
+GHCL         GHCL Limited                   ₹  551.80 K%:  23.7 D%:  11.4
+ZAGGLE       Zaggle Prepaid Ocean Services Limited ₹  375.30 K%:  20.3 D%:   8.3
+PANAMAPET    Panama Petrochem Limited       ₹  301.00 K%:  22.4 D%:  10.6
+MANINFRA     Man Infraconstruction Limited  ₹  156.16 K%:  19.8 D%:   8.0
+GRSE         Garden Reach Shipbuilders & Engineers Limited ₹ 2412.90 K%:  28.0 D%:  16.5
+TRITURBINE   Triveni Turbine Limited        ₹  515.95 K%:  29.9 D%:  18.4
+AEROENTER    Aeroflex Enterprises Limited   ₹   86.27 K%:  24.3 D%:  12.8
+PRABHA       Prabha Energy Limited          ₹  242.43 K%:  27.0 D%:  15.7
+TIIL         Technocraft Industries (India) Limited ₹ 2514.20 K%:  19.6 D%:   8.4
+
+📊 HIGH VOLUME
+------------------------------------------------------------
+Description: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+------------------------------------------------------------
+Description: Above Ichimoku cloud with bullish signals
+
+No stocks found matching criteria
+
+================================================================================
+ANALYSIS COMPLETE
+⚠️  For educational purposes only. Conduct your own research!
+================================================================================

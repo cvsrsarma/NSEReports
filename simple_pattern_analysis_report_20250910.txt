@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-10
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1782
+  Failed Analyses: 314
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 984
+  Bearish Signals: 109
+  Neutral Signals: 689
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HEUBACHIND 80     neutral  ₹595.30      +0.74% bullish   
+SUNDRMFAST 65     bullish  ₹1015.70     +3.80% bullish   
+TITAN      65     bullish  ₹3620.60     +9.19% bullish   
+ENGINERSIN 60     neutral  ₹208.97      +0.98% bearish   
+FLUOROCHEM 60     neutral  ₹3745.80     +7.16% bearish   
+GRANULES   60     bearish  ₹524.65     +16.14% bullish   
+ORIENTBELL 60     neutral  ₹307.20      -0.66% bullish   
+SHAILY     60     bearish  ₹2246.90    +40.30% bullish   
+STEL       60     bearish  ₹498.05     +21.55% bullish   
+ZYDUSWELL  60     bearish  ₹2486.90    +20.50% bullish   
+ABB        55     bullish  ₹5161.90     -4.19% bullish   
+BTML       55     bullish  ₹9.09       +14.92% bullish   
+CONSOFINVT 55     bullish  ₹194.42      -0.83% bullish   
+DAMCAPITAL 55     bullish  ₹228.03      +5.08% bullish   
+ESABINDIA  55     bullish  ₹5137.00     -2.42% bearish   
+GOODLUCK   55     bullish  ₹1150.60     +6.95% bullish   
+GULFOILLUB 55     bullish  ₹1291.80    +10.25% bullish   
+HCG        55     bullish  ₹695.05     +13.56% bullish   
+ITC        55     bullish  ₹413.05      -0.82% bearish   
+KPIL       55     bullish  ₹1260.00    +12.38% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
