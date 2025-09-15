@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-15
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1779
+  Failed Analyses: 317
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 974
+  Bearish Signals: 107
+  Neutral Signals: 698
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HEUBACHIND 90     bullish  ₹596.05      +0.91% bullish   
+SUNDRMFAST 75     bullish  ₹1012.40     +5.05% bullish   
+VARROC     70     neutral  ₹622.25     +17.78% bullish   
+MANCREDIT  65     bullish  ₹185.81      +2.73% bullish   
+TTKPRESTIG 65     bullish  ₹672.15      +5.48% bullish   
+UTTAMSUGAR 65     bullish  ₹265.00      +9.32% bullish   
+BRITANNIA  60     bearish  ₹6212.00    +14.98% bullish   
+BTML       60     bearish  ₹9.38       +21.19% bullish   
+DALBHARAT  60     bearish  ₹2415.00     +7.30% bullish   
+DIAMONDYD  60     bearish  ₹1063.20    +14.58% bullish   
+EICHERMOT  60     bearish  ₹6801.00    +19.99% bullish   
+HINDWAREAP 60     bearish  ₹340.90     +20.04% bullish   
+IMFA       60     bearish  ₹1043.65    +46.85% bullish   
+KANSAINER  60     bearish  ₹246.15      +4.79% bullish   
+KAYNES     60     bearish  ₹7130.00    +18.21% bullish   
+MANAPPURAM 60     bearish  ₹291.30     +13.74% bullish   
+RUBFILA    60     bullish  ₹83.44       +7.80% bullish   
+SAFARI     60     bearish  ₹2248.10     +9.26% bullish   
+STALLION   60     bearish  ₹207.57     +49.69% bullish   
+YATHARTH   60     bearish  ₹801.75     +14.03% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

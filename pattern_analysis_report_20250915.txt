@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-15
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1779
+• Failed Analyses: 317
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 977
+• Bearish Signals: 212
+• Neutral Signals: 590
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 14
+• Moderate Risk: 569
+• High Risk: 936
+• Very High Risk: 260
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+KTKBANK    98.0   bearish  69.0       moderate      +3.91%
+NAGREEKEXP 98.0   bearish  49.0       very_high     +35.96%
+ALKEM      95.0   bullish  67.5       moderate     +12.92%
+RVHL       91.0   bullish  65.5       very_high     +25.83%
+TIRUMALCHM 89.0   bearish  64.5       high         +12.11%
+SHAKTIPUMP 85.0   bullish  42.5       high         +12.65%
+TITAGARH   81.0   neutral  60.5       high         +12.58%
+MAHLOG     80.0   neutral  40.0       moderate     +12.16%
+RITES      80.0   bullish  60.0       moderate      +7.27%
+NILASPACES 79.0   bullish  59.5       very_high     +23.68%
+ASHAPURMIN 78.0   neutral  59.0       high         +22.98%
+HINDZINC   78.0   bearish  59.0       moderate      +9.57%
+IOLCP      78.0   neutral  59.0       high         +25.69%
+RAILTEL    78.0   neutral  39.0       high         +10.44%
+SASTASUNDR 78.0   neutral  39.0       high         +18.19%
+SBICARD    78.0   bearish  58.9       moderate     +13.50%
+ICEMAKE    77.0   neutral  38.5       moderate      +3.72%
+NITIRAJ    77.0   neutral  38.5       very_high     +14.10%
+NORTHARC   77.0   neutral  58.5       high         +20.04%
+SWARAJENG  77.0   neutral  58.5       high         +13.97%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

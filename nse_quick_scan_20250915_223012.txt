@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-09-15 22:30:12
+Data Date: 2025-09-15
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+POWERINDIA   Hitachi Energy India Limi... ₹20180.00 RSI: 57.0
+DIXON        Dixon Technologies (India... ₹17985.00 RSI: 68.5
+MAHSCOOTER   Maharashtra Scooters Limi... ₹17958.00 RSI: 72.5
+NEULANDLAB   Neuland Laboratories Limi... ₹15672.00 RSI: 73.8
+MARUTI       Maruti Suzuki India Limit... ₹15265.00 RSI: 73.9
+PTCIL        PTC Industries Limited       ₹14530.00 RSI: 60.2
+TVSHLTD      TVS Holdings Limited         ₹13292.00 RSI: 68.2
+BAJAJ-AUTO   Bajaj Auto Limited           ₹ 9025.00 RSI: 57.4
+ASTRAZEN     AstraZeneca Pharma India ... ₹ 9009.00 RSI: 56.1
+OFSS         Oracle Financial Services... ₹ 8970.50 RSI: 59.1
+APARINDS     Apar Industries Limited      ₹ 8575.50 RSI: 59.3
+AMBER        Amber Enterprises India L... ₹ 8080.00 RSI: 64.6
+POLYCAB      Polycab India Limited        ₹ 7250.00 RSI: 61.5
+NSIL         Nalwa Sons Investments Li... ₹ 7146.50 RSI: 61.9
+TATAINVEST   Tata Investment Corporati... ₹ 6892.00 RSI: 56.0
+DYNAMATECH   Dynamatic Technologies Li... ₹ 6780.00 RSI: 56.5
+ICRA         ICRA Limited                 ₹ 6553.50 RSI: 64.2
+LINDEINDIA   Linde India Limited          ₹ 6529.50 RSI: 56.7
+BRITANNIA    Britannia Industries Limi... ₹ 6212.00 RSI: 69.0
+FOSECOIND    Foseco India Limited         ₹ 6108.00 RSI: 56.5
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+PATANJALI    Patanjali Foods Limited      ₹  599.00 RSI:  6.3
+HDFCBANK     HDFC Bank Limited            ₹  967.05 RSI:  8.7
+PAVNAIND     Pavna Industries Limited     ₹   34.05 RSI: 11.4
+STEELCAS     Steelcast Limited            ₹  204.99 RSI: 12.9
+SBGLP        Suratwwala Business Group... ₹   34.30 RSI: 16.0
+CHEMBOND     Chembond Material Technol... ₹  183.47 RSI: 17.5
+CTE          Cambridge Technology Ente... ₹   41.26 RSI: 18.5
+VLEGOV       VL E-Governance & IT Solu... ₹   36.38 RSI: 18.9
+LAXMIDENTL   Laxmi Dental Limited         ₹  303.40 RSI: 18.9
+DEVIT        Dev Information Technolog... ₹   42.85 RSI: 20.1
+PALREDTEC    Palred Technologies Limit... ₹   50.57 RSI: 20.6
+ANIKINDS     Anik Industries Limited      ₹   73.14 RSI: 20.8
+BAYERCROP    Bayer Cropscience Limited    ₹ 5107.50 RSI: 22.6
+MARALOVER    Maral Overseas Limited       ₹   47.99 RSI: 22.9
+DHRUV        Dhruv Consultancy Service... ₹   59.03 RSI: 23.4
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+MAHASTEEL    Mahamaya Steel Industries... ₹  391.10 ADX: 70.1 UP
+ATHERENERG   Ather Energy Limited         ₹  546.95 ADX: 68.9 UP
+YATRA        Yatra Online Limited         ₹  161.05 ADX: 67.1 UP
+RAMCOIND     Ramco Industries Limited     ₹  365.55 ADX: 61.8 UP
+KHAICHEM     Khaitan Chemicals & Ferti... ₹  131.87 ADX: 61.3 UP
+KANPRPLA     Kanpur Plastipack Limited    ₹  234.42 ADX: 61.2 UP
+VRLLOG       VRL Logistics Limited        ₹  281.95 ADX: 59.6 DOWN
+HDFCBANK     HDFC Bank Limited            ₹  967.05 ADX: 58.6 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  596.05 ADX: 58.3 UP
+BHARATSE     Bharat Seats Limited         ₹  167.32 ADX: 57.2 UP
+TEMBO        Tembo Global Industries L... ₹  597.90 ADX: 56.4 UP
+ROTO         Roto Pumps Limited           ₹   83.01 ADX: 56.4 DOWN
+STYLEBAAZA   Baazar Style Retail Limit... ₹  363.50 ADX: 56.0 UP
+MARUTI       Maruti Suzuki India Limit... ₹15265.00 ADX: 55.6 UP
+INDIAGLYCO   India Glycols Limited        ₹  839.20 ADX: 55.6 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================
