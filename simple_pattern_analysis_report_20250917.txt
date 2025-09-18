@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-17
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1790
+  Failed Analyses: 306
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 873
+  Bearish Signals: 160
+  Neutral Signals: 757
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HEUBACHIND 80     neutral  ₹595.95      +0.91% bullish   
+TTKPRESTIG 80     neutral  ₹676.75      +6.78% bullish   
+CYIENTDLM  70     neutral  ₹478.00     +12.35% bullish   
+FILATEX    70     neutral  ₹57.47       +8.54% bullish   
+IEX        70     neutral  ₹148.44      +7.53% bullish   
+OPTIEMUS   70     neutral  ₹663.65     +14.03% bullish   
+REDTAPE    70     neutral  ₹151.75     +25.16% bullish   
+TEGA       70     neutral  ₹2108.90    +13.58% bullish   
+UTKARSHBNK 70     neutral  ₹22.41       +8.42% bullish   
+KTKBANK    65     bullish  ₹175.25      +1.79% bullish   
+NESTLEIND  65     bullish  ₹1204.30     +9.83% bullish   
+UTTAMSUGAR 65     bullish  ₹264.15      +9.65% bullish   
+ACMESOLAR  60     bearish  ₹307.60     +13.55% bullish   
+AJOONI     60     neutral  ₹5.83       +10.00% bullish   
+BANKINDIA  60     neutral  ₹119.64      +8.14% bullish   
+CEATLTD    60     bearish  ₹3430.10     +8.51% bullish   
+CENTURYPLY 60     bearish  ₹810.55      +9.77% bullish   
+EICHERMOT  60     bearish  ₹6890.50    +21.68% bullish   
+GOKEX      60     neutral  ₹816.70     +14.16% bullish   
+HAVELLS    60     bearish  ₹1593.50     +6.83% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

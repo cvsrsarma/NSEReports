@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-18
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1788
+  Failed Analyses: 308
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 827
+  Bearish Signals: 173
+  Neutral Signals: 788
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+ASTRAZEN   80     neutral  ₹9074.50     +3.16% bullish   
+HEUBACHIND 80     neutral  ₹596.45      +0.94% bullish   
+SATIN      80     neutral  ₹146.43      +4.22% bullish   
+ASKAUTOLTD 75     bullish  ₹520.30     +11.88% bullish   
+GUJALKALI  70     neutral  ₹614.95      +9.96% bullish   
+HNDFDS     70     neutral  ₹550.60      +6.12% bullish   
+LGBBROSLTD 70     neutral  ₹1376.20    +10.41% bullish   
+MANKIND    70     neutral  ₹2638.30     +8.24% bullish   
+NDRAUTO    70     neutral  ₹1164.90    +21.64% bullish   
+NSIL       70     bullish  ₹7167.50     +6.13% bullish   
+INFIBEAM   65     bullish  ₹16.23       +7.84% bullish   
+KTKBANK    65     bullish  ₹176.59      +2.56% bullish   
+NESTLEIND  65     bullish  ₹1209.10     +9.42% bullish   
+NFL        65     bullish  ₹98.45       +5.75% bullish   
+PVRINOX    65     bullish  ₹1127.80     +5.06% bullish   
+TTKPRESTIG 65     bullish  ₹673.60      +5.89% bullish   
+WHIRLPOOL  65     bullish  ₹1335.40     +5.82% bullish   
+WONDERLA   65     bullish  ₹641.35      +9.24% bullish   
+ASTRAL     60     bullish  ₹1459.20     +5.62% bullish   
+AVG        60     neutral  ₹238.45      +0.08% bearish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-17
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1790
+• Failed Analyses: 306
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1049
+• Bearish Signals: 188
+• Neutral Signals: 553
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 20
+• Moderate Risk: 648
+• High Risk: 883
+• Very High Risk: 239
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+NAGREEKEXP 100.0  bearish  69.9       very_high     +42.91%
+PCJEWELLER 98.0   bullish  49.0       high          +5.77%
+LUXIND     97.0   bullish  48.5       moderate      +7.23%
+SELAN      84.0   neutral  42.0       high          +0.55%
+DHANI      83.0   bullish  61.5       high         +11.85%
+GULPOLY    83.0   bullish  41.5       moderate      -9.48%
+SONATSOFTW 83.0   bullish  61.3       high         +13.79%
+CREST      82.0   bearish  41.0       high          +1.43%
+MAITHANALL 81.0   neutral  60.5       moderate     +11.76%
+SHAILY     81.0   neutral  60.5       high         +54.84%
+INDIANB    80.0   neutral  59.9       moderate      +8.13%
+MINDACORP  80.0   neutral  60.0       moderate     +15.90%
+RVHL       80.0   neutral  60.0       very_high     +52.26%
+SIGACHI    80.0   neutral  60.0       high         +36.89%
+WHEELS     80.0   neutral  60.0       high         +12.14%
+AMDIND     79.0   neutral  59.3       very_high     +20.81%
+JBMA       79.0   neutral  59.5       high         +24.07%
+MBLINFRA   79.0   neutral  59.5       very_high     +20.46%
+PREMEXPLN  79.0   neutral  59.5       high         +41.44%
+RVNL       79.0   neutral  39.5       high          +7.19%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

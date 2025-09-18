@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-16
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1792
+  Failed Analyses: 304
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 965
+  Bearish Signals: 132
+  Neutral Signals: 695
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HEUBACHIND 80     neutral  ₹595.65      +0.79% bullish   
+KTKBANK    75     bullish  ₹176.41      +1.59% bullish   
+DALBHARAT  70     neutral  ₹2427.90     +7.09% bullish   
+DMART      65     bullish  ₹4696.20    +10.15% bullish   
+INDRAMEDCO 65     bullish  ₹478.80      +3.77% bullish   
+MANCREDIT  65     bullish  ₹186.67      +3.56% bullish   
+MAXIND     65     bullish  ₹216.34      +5.67% bullish   
+RELAXO     65     bullish  ₹488.80      +8.54% bullish   
+TTKPRESTIG 65     bullish  ₹678.15      +6.96% bullish   
+UTTAMSUGAR 65     bullish  ₹262.55      +9.49% bullish   
+BTML       60     bearish  ₹9.40       +15.06% bullish   
+CARBORUNIV 60     bearish  ₹1001.60    +17.04% bullish   
+DIAMONDYD  60     bearish  ₹1051.55    +15.13% bullish   
+EICHERMOT  60     bearish  ₹6927.50    +21.93% bullish   
+FILATEX    60     bearish  ₹56.97       +6.93% bullish   
+KAMDHENU   60     neutral  ₹29.44       -0.10% bearish   
+KAYNES     60     bearish  ₹7183.00    +17.97% bullish   
+LUMAXIND   60     bearish  ₹4198.00    +23.98% bullish   
+SHREEPUSHK 60     neutral  ₹404.45     +12.85% bearish   
+STALLION   60     bearish  ₹205.46     +60.28% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

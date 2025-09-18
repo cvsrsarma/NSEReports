@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-09-16 22:39:51
+Data Date: 2025-09-16
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹150890.00 RSI: 57.2
+FORCEMOT     FORCE MOTORS LTD             ₹19734.00 RSI: 56.8
+DIXON        Dixon Technologies (India... ₹18110.00 RSI: 70.2
+MAHSCOOTER   Maharashtra Scooters Limi... ₹17962.00 RSI: 72.5
+PTCIL        PTC Industries Limited       ₹14611.00 RSI: 61.5
+TVSHLTD      TVS Holdings Limited         ₹13296.00 RSI: 68.3
+OFSS         Oracle Financial Services... ₹ 9142.50 RSI: 62.6
+BAJAJ-AUTO   Bajaj Auto Limited           ₹ 9072.50 RSI: 58.9
+ASTRAZEN     AstraZeneca Pharma India ... ₹ 9016.50 RSI: 56.3
+APARINDS     Apar Industries Limited      ₹ 8632.50 RSI: 60.6
+AMBER        Amber Enterprises India L... ₹ 8298.00 RSI: 68.5
+POLYCAB      Polycab India Limited        ₹ 7395.00 RSI: 68.2
+NSIL         Nalwa Sons Investments Li... ₹ 7114.50 RSI: 59.4
+TATAINVEST   Tata Investment Corporati... ₹ 7039.00 RSI: 64.7
+DYNAMATECH   Dynamatic Technologies Li... ₹ 7000.50 RSI: 64.7
+ICRA         ICRA Limited                 ₹ 6734.00 RSI: 71.3
+BRITANNIA    Britannia Industries Limi... ₹ 6202.50 RSI: 68.2
+FOSECOIND    Foseco India Limited         ₹ 6134.00 RSI: 57.2
+HDFCAMC      HDFC Asset Management Com... ₹ 5779.50 RSI: 58.0
+VADILALIND   Vadilal Industries Limite... ₹ 5706.00 RSI: 63.4
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+PATANJALI    Patanjali Foods Limited      ₹  600.30 RSI:  6.4
+HDFCBANK     HDFC Bank Limited            ₹  966.85 RSI:  8.7
+PAVNAIND     Pavna Industries Limited     ₹   40.35 RSI: 13.7
+SBGLP        Suratwwala Business Group... ₹   32.90 RSI: 14.7
+STEELCAS     Steelcast Limited            ₹  221.36 RSI: 15.4
+CHEMBOND     Chembond Material Technol... ₹  184.00 RSI: 17.7
+CTE          Cambridge Technology Ente... ₹   40.41 RSI: 17.9
+VLEGOV       VL E-Governance & IT Solu... ₹   34.63 RSI: 18.2
+ANIKINDS     Anik Industries Limited      ₹   69.57 RSI: 18.3
+GODFRYPHLP   Godfrey Phillips India Li... ₹ 3644.00 RSI: 19.6
+PALREDTEC    Palred Technologies Limit... ₹   48.27 RSI: 20.1
+MARALOVER    Maral Overseas Limited       ₹   46.91 RSI: 21.5
+DEVIT        Dev Information Technolog... ₹   43.94 RSI: 22.4
+TICL         Twamev Construction and I... ₹   24.27 RSI: 22.6
+DHRUV        Dhruv Consultancy Service... ₹   57.08 RSI: 22.9
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+MAHASTEEL    Mahamaya Steel Industries... ₹  391.00 ADX: 70.4 UP
+ATHERENERG   Ather Energy Limited         ₹  556.30 ADX: 70.1 UP
+YATRA        Yatra Online Limited         ₹  160.40 ADX: 66.7 UP
+RAMCOIND     Ramco Industries Limited     ₹  384.10 ADX: 63.9 UP
+KHAICHEM     Khaitan Chemicals & Ferti... ₹  132.27 ADX: 62.1 UP
+KANPRPLA     Kanpur Plastipack Limited    ₹  232.78 ADX: 60.6 UP
+HDFCBANK     HDFC Bank Limited            ₹  966.85 ADX: 60.5 DOWN
+VRLLOG       VRL Logistics Limited        ₹  283.65 ADX: 58.4 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  595.65 ADX: 58.2 UP
+STYLEBAAZA   Baazar Style Retail Limit... ₹  365.35 ADX: 57.2 UP
+AXISCADES    AXISCADES Technologies Li... ₹ 1682.50 ADX: 57.0 UP
+MARUTI       Maruti Suzuki India Limit... ₹15573.00 ADX: 56.9 UP
+EICHERMOT    Eicher Motors Limited        ₹ 6927.50 ADX: 56.8 UP
+BHARATSE     Bharat Seats Limited         ₹  158.95 ADX: 56.3 UP
+ROTO         Roto Pumps Limited           ₹   83.03 ADX: 55.5 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================
