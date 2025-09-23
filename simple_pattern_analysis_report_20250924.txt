@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-24
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1796
+  Failed Analyses: 300
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1041
+  Bearish Signals: 71
+  Neutral Signals: 684
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HEUBACHIND 80     neutral  ₹596.85      +0.86% bullish   
+APOLLOTYRE 70     neutral  ₹489.05      +5.30% bullish   
+CARRARO    70     neutral  ₹468.15     +12.04% bullish   
+MAHASTEEL  70     neutral  ₹402.50     +12.92% bullish   
+PFOCUS     70     neutral  ₹195.60     +23.15% bullish   
+ASTRAL     65     bullish  ₹1436.40     +9.34% bullish   
+AWL        65     bullish  ₹260.10      +3.52% bullish   
+BLUEDART   65     bullish  ₹5755.00     -1.30% bearish   
+GUJALKALI  65     bullish  ₹586.20      +6.98% bullish   
+MAGADSUGAR 65     bullish  ₹562.15      +7.87% bullish   
+AMBER      60     bearish  ₹8300.50    +11.59% bullish   
+BAJAJFINSV 60     bearish  ₹2084.40     +4.56% bullish   
+BAJFINANCE 60     bearish  ₹1025.50    +13.29% bullish   
+BFINVEST   60     neutral  ₹472.60      +2.15% bullish   
+CENTURYPLY 60     bearish  ₹810.20      +6.54% bullish   
+CHENNPETRO 60     bearish  ₹751.70     +19.88% bullish   
+HAPPYFORGE 60     neutral  ₹973.85      +3.66% bullish   
+JSWENERGY  60     neutral  ₹543.85      +1.92% bullish   
+JTEKTINDIA 60     bearish  ₹184.86     +49.33% bullish   
+LAURUSLABS 60     bearish  ₹910.05      +5.13% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

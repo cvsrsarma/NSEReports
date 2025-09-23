@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-09-24 00:03:10
+Data Date: 2025-09-23
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹155935.00 RSI: 63.4
+DIXON        Dixon Technologies (India... ₹18130.00 RSI: 65.9
+MAHSCOOTER   Maharashtra Scooters Limi... ₹17553.00 RSI: 61.8
+LMW          LMW Limited                  ₹15623.00 RSI: 63.9
+PTCIL        PTC Industries Limited       ₹15221.00 RSI: 65.4
+NEULANDLAB   Neuland Laboratories Limi... ₹14985.00 RSI: 55.9
+TVSHLTD      TVS Holdings Limited         ₹13077.00 RSI: 60.3
+OFSS         Oracle Financial Services... ₹ 9104.00 RSI: 60.1
+APARINDS     Apar Industries Limited      ₹ 8676.00 RSI: 57.6
+AMBER        Amber Enterprises India L... ₹ 8300.50 RSI: 67.6
+MCX          Multi Commodity Exchange ... ₹ 8038.50 RSI: 57.0
+POLYCAB      Polycab India Limited        ₹ 7620.00 RSI: 72.5
+KAYNES       Kaynes Technology India L... ₹ 7242.00 RSI: 71.5
+DYNAMATECH   Dynamatic Technologies Li... ₹ 7082.50 RSI: 63.5
+ICRA         ICRA Limited                 ₹ 6679.50 RSI: 64.3
+VADILALIND   Vadilal Industries Limite... ₹ 5923.00 RSI: 66.8
+HDFCAMC      HDFC Asset Management Com... ₹ 5883.50 RSI: 62.4
+ALKEM        Alkem Laboratories Limite... ₹ 5544.50 RSI: 70.9
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 5370.50 RSI: 65.7
+PILANIINVS   Pilani Investment and Ind... ₹ 5309.50 RSI: 59.4
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+PIDILITIND   Pidilite Industries Limit... ₹ 1489.30 RSI:  5.0
+PATANJALI    Patanjali Foods Limited      ₹  599.80 RSI:  7.1
+ADANIPOWER   Adani Power Limited          ₹  162.35 RSI: 10.3
+HDFCBANK     HDFC Bank Limited            ₹  957.20 RSI: 10.4
+TIMETECHNO   Time Technoplast Limited     ₹  226.75 RSI: 12.1
+SANDUMA      Sandur Manganese & Iron O... ₹  158.75 RSI: 12.3
+TFCILTD      Tourism Finance Corporati... ₹   72.80 RSI: 13.3
+PAVNAIND     Pavna Industries Limited     ₹   39.80 RSI: 15.0
+MFML         Mahalaxmi Fabric Mills Li... ₹   32.34 RSI: 15.7
+ZYDUSWELL    Zydus Wellness Limited       ₹  473.80 RSI: 15.8
+STEELCAS     Steelcast Limited            ₹  215.91 RSI: 16.3
+VPRPL        Vishnu Prakash R Punglia ... ₹  102.70 RSI: 18.2
+CHEMBOND     Chembond Material Technol... ₹  179.20 RSI: 18.3
+VLEGOV       VL E-Governance & IT Solu... ₹   32.42 RSI: 18.4
+GODFRYPHLP   Godfrey Phillips India Li... ₹ 3348.00 RSI: 19.0
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+ATHERENERG   Ather Energy Limited         ₹  572.60 ADX: 73.6 UP
+MAHASTEEL    Mahamaya Steel Industries... ₹  402.50 ADX: 71.6 UP
+RAMCOIND     Ramco Industries Limited     ₹  385.15 ADX: 68.0 UP
+AXISCADES    AXISCADES Technologies Li... ₹ 1684.20 ADX: 66.0 UP
+HDFCBANK     HDFC Bank Limited            ₹  957.20 ADX: 65.8 DOWN
+MARUTI       Maruti Suzuki India Limit... ₹16097.00 ADX: 62.4 UP
+KHAICHEM     Khaitan Chemicals & Ferti... ₹  130.50 ADX: 62.2 UP
+EICHERMOT    Eicher Motors Limited        ₹ 6990.50 ADX: 62.0 UP
+CUPID        Cupid Limited                ₹  220.10 ADX: 61.8 UP
+PANACHE      Panache Digilife Limited     ₹  349.11 ADX: 61.3 UP
+IMFA         Indian Metals & Ferro All... ₹ 1162.20 ADX: 60.7 UP
+STYLEBAAZA   Baazar Style Retail Limit... ₹  368.80 ADX: 59.7 UP
+YATRA        Yatra Online Limited         ₹  146.84 ADX: 59.7 UP
+SANGHVIMOV   Sanghvi Movers Limited       ₹  393.95 ADX: 58.6 UP
+IFBAGRO      IFB Agro Industries Limit... ₹  813.90 ADX: 58.0 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

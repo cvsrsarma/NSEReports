@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-22
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1788
+  Failed Analyses: 308
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 931
+  Bearish Signals: 130
+  Neutral Signals: 727
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HEUBACHIND 80     neutral  ₹597.10      +0.72% bullish   
+CHENNPETRO 70     neutral  ₹756.00     +16.08% bullish   
+DECCANCE   70     neutral  ₹1130.30     +5.68% bullish   
+FEDFINA    70     neutral  ₹152.38     +18.45% bullish   
+HUHTAMAKI  70     neutral  ₹240.31     +11.26% bullish   
+KRSNAA     70     neutral  ₹858.35      +7.56% bullish   
+ASTRAL     65     bullish  ₹1438.40    +11.32% bullish   
+COMPUSOFT  65     bullish  ₹19.62       -2.87% bearish   
+ESAFSFB    65     bullish  ₹29.25       -2.47% bearish   
+GALAXYSURF 65     bullish  ₹2352.50     +0.40% bullish   
+GULFOILLUB 65     bullish  ₹1254.40     +6.77% bullish   
+IGL        65     bullish  ₹211.56      +2.54% bullish   
+KTKBANK    65     bullish  ₹174.21      +2.17% bullish   
+NESTLEIND  65     bullish  ₹1188.30     +8.33% bullish   
+PARKHOTELS 65     bullish  ₹156.24      +3.99% bullish   
+TECHM      65     bullish  ₹1505.40     -0.06% bullish   
+WIPRO      65     bullish  ₹250.33      +3.59% bullish   
+AMRUTANJAN 60     bearish  ₹759.40     +10.75% bullish   
+ASHOKA     60     bearish  ₹193.98      +8.70% bullish   
+ATHERENERG 60     bearish  ₹591.55     +43.48% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
