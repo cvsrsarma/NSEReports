@@ -20,33 +20,33 @@ SUMMARY STATISTICS:
   Failed Analyses: 300
 
 SIGNAL DISTRIBUTION:
-  Bullish Signals: 1091
-  Bearish Signals: 57
-  Neutral Signals: 648
+  Bullish Signals: 1041
+  Bearish Signals: 71
+  Neutral Signals: 684
 
 TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
 Symbol     Score  Signal   Price      Change%    Trend     
 ----------------------------------------------------------------------
-BAJAJFINSV 80     neutral  ₹2069.20     +3.80% bullish   
-CENTURYPLY 80     neutral  ₹810.90      +6.63% bullish   
-DREDGECORP 70     neutral  ₹678.20      +8.80% bullish   
-INDIANB    70     neutral  ₹708.20      +4.72% bullish   
-ASTRAL     65     bullish  ₹1439.90     +9.61% bullish   
-COALINDIA  65     bullish  ₹392.85      +1.30% bullish   
-DOMS       65     bullish  ₹2613.00     +4.97% bullish   
-HEUBACHIND 65     bullish  ₹592.90      +0.19% bullish   
-KEI        65     bullish  ₹4079.30     +4.56% bullish   
-SUNDRMFAST 65     bullish  ₹1020.80     +4.21% bullish   
-TTKHLTCARE 65     bullish  ₹1190.60     +2.77% bullish   
-ZYDUSLIFE  65     bullish  ₹1036.00     +5.02% bullish   
-ASHAPURMIN 60     bearish  ₹639.40     +24.80% bullish   
-BANKINDIA  60     neutral  ₹120.99      +5.34% bullish   
-CHENNPETRO 60     bearish  ₹753.30     +20.13% bullish   
-COMSYN     60     bearish  ₹153.26     +13.15% bullish   
-DIXON      60     bearish  ₹18161.00    +8.39% bullish   
-EMIL       60     bearish  ₹155.22     +21.79% bullish   
-HEMIPROP   60     bullish  ₹168.33     +22.95% bullish   
-JINDALSTEL 60     bearish  ₹1052.65     +6.02% bullish   
+HEUBACHIND 80     neutral  ₹596.85      +0.86% bullish   
+APOLLOTYRE 70     neutral  ₹489.05      +5.30% bullish   
+CARRARO    70     neutral  ₹468.15     +12.04% bullish   
+MAHASTEEL  70     neutral  ₹402.50     +12.92% bullish   
+PFOCUS     70     neutral  ₹195.60     +23.15% bullish   
+ASTRAL     65     bullish  ₹1436.40     +9.34% bullish   
+AWL        65     bullish  ₹260.10      +3.52% bullish   
+BLUEDART   65     bullish  ₹5755.00     -1.30% bearish   
+GUJALKALI  65     bullish  ₹586.20      +6.98% bullish   
+MAGADSUGAR 65     bullish  ₹562.15      +7.87% bullish   
+AMBER      60     bearish  ₹8300.50    +11.59% bullish   
+BAJAJFINSV 60     bearish  ₹2084.40     +4.56% bullish   
+BAJFINANCE 60     bearish  ₹1025.50    +13.29% bullish   
+BFINVEST   60     neutral  ₹472.60      +2.15% bullish   
+CENTURYPLY 60     bearish  ₹810.20      +6.54% bullish   
+CHENNPETRO 60     bearish  ₹751.70     +19.88% bullish   
+HAPPYFORGE 60     neutral  ₹973.85      +3.66% bullish   
+JSWENERGY  60     neutral  ₹543.85      +1.92% bullish   
+JTEKTINDIA 60     bearish  ₹184.86     +49.33% bullish   
+LAURUSLABS 60     bearish  ₹910.05      +5.13% bullish   
 
 ================================================================================
 ⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️

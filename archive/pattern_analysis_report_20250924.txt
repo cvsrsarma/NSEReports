@@ -26,39 +26,39 @@ Generated: 2025-09-24
 • Failed Analyses: 300
 
 📊 SIGNAL DISTRIBUTION:
-• Bullish Signals: 1077
-• Bearish Signals: 156
-• Neutral Signals: 563
+• Bullish Signals: 1058
+• Bearish Signals: 177
+• Neutral Signals: 561
 
 ⚠️ RISK DISTRIBUTION:
-• Low Risk: 23
-• Moderate Risk: 643
-• High Risk: 896
-• Very High Risk: 234
+• Low Risk: 22
+• Moderate Risk: 657
+• High Risk: 874
+• Very High Risk: 243
 
 🏆 TOP 20 PATTERN OPPORTUNITIES:
 Symbol     Score  Signal   Confidence Risk     Price Change
 ----------------------------------------------------------------------
-EVERESTIND 98.0   bullish  69.0       high         +28.46%
-OMINFRAL   80.0   neutral  59.9       high         +21.40%
-AFIL       79.0   bearish  59.5       high         +20.26%
-ATL        79.0   neutral  59.5       high         +36.81%
-EMKAY      79.0   neutral  59.5       very_high     +73.61%
-NSIL       79.0   bearish  59.5       moderate     +11.52%
-SILINV     79.0   bearish  59.5       high         +13.97%
-AHLADA     78.0   neutral  58.6       high         +13.96%
-AVTNPL     78.0   neutral  59.0       high          +2.22%
-BANARBEADS 78.0   bearish  58.7       very_high     +21.75%
-BANKBARODA 78.0   neutral  39.0       moderate      +4.78%
-BCONCEPTS  78.0   neutral  39.0       very_high     +32.22%
-BHARATGEAR 78.0   neutral  59.0       very_high     +38.94%
-CIFL       78.0   neutral  39.0       high         +10.01%
-SCI        78.0   neutral  58.5       high          +9.43%
-JLHL       77.0   bearish  58.5       moderate      +6.88%
-WHEELS     77.0   neutral  58.5       high         +18.72%
-FUSION     76.0   bullish  58.0       high         +23.55%
-MUTHOOTCAP 75.0   neutral  57.5       moderate      +5.79%
-SIRCA      75.0   neutral  57.5       moderate      +8.14%
+OMINFRAL   99.0   bullish  68.9       high         +17.12%
+EVERESTIND 97.0   bullish  68.5       high         +27.31%
+USHAMART   94.0   bullish  67.0       high         +20.71%
+IDEA       90.0   bullish  65.0       high         +34.98%
+RKEC       84.0   neutral  62.0       very_high     +20.40%
+CREATIVE   81.0   bearish  40.5       high          +4.19%
+BCONCEPTS  79.0   neutral  39.5       very_high     +26.20%
+JSWINFRA   79.0   neutral  59.5       moderate     +10.66%
+ORIENTTECH 79.0   neutral  59.5       high         +18.80%
+ATL        78.0   neutral  59.0       high         +27.94%
+AVANTEL    78.0   bullish  59.0       high         +45.72%
+AVTNPL     78.0   neutral  59.0       high          +3.41%
+BANARBEADS 78.0   bearish  39.0       very_high     +18.65%
+BFUTILITIE 78.0   bearish  39.0       high         +18.10%
+EMKAY      78.0   neutral  59.0       very_high     +73.21%
+FUSION     78.0   neutral  59.0       high         +23.46%
+GEOJITFSL  78.0   neutral  59.0       moderate     +11.68%
+INTLCONV   78.0   neutral  59.0       high         +14.46%
+ONMOBILE   78.0   neutral  59.0       high         +26.28%
+ASAL       77.0   neutral  38.5       high         +18.02%
 
 ================================================================================
 ⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
