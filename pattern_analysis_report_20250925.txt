@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-25
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1796
+• Failed Analyses: 300
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1091
+• Bearish Signals: 161
+• Neutral Signals: 544
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 20
+• Moderate Risk: 638
+• High Risk: 883
+• Very High Risk: 255
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+VIDHIING   80.0   bullish  40.0       moderate      -3.28%
+AFIL       79.0   bearish  59.5       high         +31.18%
+BHARATGEAR 79.0   neutral  59.5       very_high     +36.33%
+SCI        79.0   neutral  59.4       moderate      +9.63%
+CHEMCON    78.0   neutral  59.0       very_high     +27.01%
+FUSION     78.0   bullish  59.0       high         +24.13%
+OMINFRAL   78.0   neutral  59.0       high         +23.79%
+PRAKASH    78.0   neutral  59.0       moderate      +7.42%
+WHEELS     78.0   neutral  59.0       high         +19.90%
+ASKAUTOLTD 75.0   neutral  57.5       high         +12.99%
+MINDACORP  75.0   neutral  57.5       high         +12.61%
+MOTOGENFIN 74.0   neutral  56.6       high          +9.63%
+YESBANK    74.0   bullish  57.0       moderate     +11.84%
+RVHL       73.0   neutral  56.5       very_high     +34.90%
+USHAMART   73.0   neutral  56.5       high         +22.33%
+BCONCEPTS  72.0   neutral  55.7       very_high     +26.47%
+NSLNISP    72.0   bullish  56.0       high         +17.03%
+PRAENG     72.0   bullish  56.0       very_high     +31.64%
+GULPOLY    71.0   bullish  35.5       moderate      -8.93%
+NAGAFERT   71.0   bullish  35.5       high         -14.12%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

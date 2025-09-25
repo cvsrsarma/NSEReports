@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-25
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1796
+  Failed Analyses: 300
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1125
+  Bearish Signals: 52
+  Neutral Signals: 619
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+BAJFINANCE 70     neutral  ₹1012.75    +11.88% bullish   
+PTCIL      70     neutral  ₹15486.00   +13.02% bullish   
+SCILAL     70     bullish  ₹51.41       +2.96% bullish   
+AFCONS     65     bullish  ₹443.55      +3.73% bullish   
+ASTRAZEN   65     bullish  ₹9027.50     +7.29% bullish   
+CENTURYPLY 65     bullish  ₹809.35      +6.42% bullish   
+COALINDIA  65     bullish  ₹392.50      +1.21% bullish   
+DCBBANK    65     bullish  ₹125.46      +2.22% bullish   
+GRINFRA    65     bullish  ₹1271.80     +0.71% bullish   
+HEUBACHIND 65     bullish  ₹594.05      +0.39% bullish   
+KEC        65     bullish  ₹868.90      +4.49% bullish   
+LAURUSLABS 65     bullish  ₹896.35      +3.55% bullish   
+MANCREDIT  65     bullish  ₹186.35      +3.54% bullish   
+NYKAA      65     bullish  ₹236.46      +7.89% bullish   
+WAAREEENER 65     bullish  ₹3445.10    +15.42% bullish   
+ADANIPORTS 60     bearish  ₹1407.20     +6.03% bullish   
+BLAL       60     bullish  ₹214.61      +4.75% bullish   
+CHENNPETRO 60     bearish  ₹754.50     +20.33% bullish   
+ELECTHERM  60     bearish  ₹1052.90    +33.38% bullish   
+HEG        60     neutral  ₹521.80      +1.54% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
