@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-09-26 20:15:15
+Data Date: 2025-09-26
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MAHSCOOTER   Maharashtra Scooters Limi... ₹17470.00 RSI: 58.0
+PTCIL        PTC Industries Limited       ₹15249.00 RSI: 62.7
+PGHH         Procter & Gamble Hygiene ... ₹13648.00 RSI: 57.6
+TATAINVEST   Tata Investment Corporati... ₹ 8666.00 RSI: 74.0
+AMBER        Amber Enterprises India L... ₹ 8162.50 RSI: 58.6
+KAYNES       Kaynes Technology India L... ₹ 7341.00 RSI: 67.9
+NSIL         Nalwa Sons Investments Li... ₹ 7336.50 RSI: 59.7
+DYNAMATECH   Dynamatic Technologies Li... ₹ 6927.00 RSI: 55.5
+ALKEM        Alkem Laboratories Limite... ₹ 5433.00 RSI: 55.4
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 5328.00 RSI: 59.7
+HAL          Hindustan Aeronautics Lim... ₹ 4736.10 RSI: 57.3
+INGERRAND    Ingersoll Rand (India) Li... ₹ 4007.50 RSI: 64.6
+LT           Larsen & Toubro Limited      ₹ 3729.50 RSI: 63.6
+ENRIN        Siemens Energy India Limi... ₹ 3516.20 RSI: 58.6
+E2E          E2E Networks Limited         ₹ 3450.80 RSI: 72.7
+TVSSRICHAK   TVS Srichakra Limited        ₹ 3300.40 RSI: 67.9
+BBL          Bharat Bijlee Limited        ₹ 3163.10 RSI: 62.2
+MUTHOOTFIN   Muthoot Finance Limited      ₹ 3020.30 RSI: 64.6
+KDDL         KDDL Limited                 ₹ 2664.10 RSI: 62.1
+SHRIPISTON   Shriram Pistons & Rings L... ₹ 2655.10 RSI: 58.9
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+NAZARA       Nazara Technologies Limit... ₹  280.00 RSI:  6.3
+PIDILITIND   Pidilite Industries Limit... ₹ 1474.80 RSI:  6.5
+PATANJALI    Patanjali Foods Limited      ₹  589.00 RSI:  7.1
+HDFCBANK     HDFC Bank Limited            ₹  945.05 RSI: 10.1
+ADANIPOWER   Adani Power Limited          ₹  146.25 RSI: 10.7
+TIMETECHNO   Time Technoplast Limited     ₹  210.40 RSI: 12.4
+TFCILTD      Tourism Finance Corporati... ₹   72.60 RSI: 13.3
+VPRPL        Vishnu Prakash R Punglia ... ₹   93.15 RSI: 14.3
+SANDUMA      Sandur Manganese & Iron O... ₹  162.10 RSI: 14.7
+PAVNAIND     Pavna Industries Limited     ₹   37.25 RSI: 14.8
+SHAREINDIA   Share India Securities Li... ₹  128.03 RSI: 15.5
+STEELCAS     Steelcast Limited            ₹  210.37 RSI: 16.4
+ZYDUSWELL    Zydus Wellness Limited       ₹  482.30 RSI: 16.5
+MFML         Mahalaxmi Fabric Mills Li... ₹   29.10 RSI: 16.6
+CHEMBOND     Chembond Material Technol... ₹  166.73 RSI: 16.7
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+MAHASTEEL    Mahamaya Steel Industries... ₹  410.00 ADX: 72.5 UP
+ATHERENERG   Ather Energy Limited         ₹  539.90 ADX: 69.8 UP
+HDFCBANK     HDFC Bank Limited            ₹  945.05 ADX: 68.9 DOWN
+AXISCADES    AXISCADES Technologies Li... ₹ 1640.40 ADX: 67.6 UP
+MARUTI       Maruti Suzuki India Limit... ₹16286.00 ADX: 66.3 UP
+PANACHE      Panache Digilife Limited     ₹  402.94 ADX: 66.2 UP
+CUPID        Cupid Limited                ₹  215.52 ADX: 65.3 UP
+RAMCOIND     Ramco Industries Limited     ₹  357.35 ADX: 64.4 UP
+IMFA         Indian Metals & Ferro All... ₹ 1123.00 ADX: 64.2 UP
+EICHERMOT    Eicher Motors Limited        ₹ 7047.00 ADX: 63.7 UP
+IFBAGRO      IFB Agro Industries Limit... ₹  824.50 ADX: 60.8 UP
+TFCILTD      Tourism Finance Corporati... ₹   72.60 ADX: 60.3 DOWN
+MEGASOFT     Megasoft Limited             ₹  157.58 ADX: 58.5 UP
+SANGHVIMOV   Sanghvi Movers Limited       ₹  365.80 ADX: 57.6 UP
+KHAICHEM     Khaitan Chemicals & Ferti... ₹  118.71 ADX: 56.8 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-29
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1786
+  Failed Analyses: 310
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1081
+  Bearish Signals: 46
+  Neutral Signals: 659
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+BOROLTD    75     bullish  ₹340.55      +1.08% bullish   
+CHENNPETRO 70     neutral  ₹763.35     +15.76% bullish   
+FEDFINA    70     neutral  ₹152.68     +13.65% bullish   
+MTARTECH   70     neutral  ₹1907.90    +27.33% bullish   
+SBIN       70     neutral  ₹870.75      +5.04% bullish   
+SUNDARMHLD 70     neutral  ₹634.60     +27.06% bullish   
+MUNJALSHOW 65     bullish  ₹140.52      +0.54% bullish   
+PTL        65     bullish  ₹39.53       -1.25% bullish   
+ASHAPURMIN 60     bearish  ₹669.60     +30.90% bullish   
+ASHOKLEY   60     bearish  ₹142.42      +7.00% bullish   
+CUPID      60     bearish  ₹219.89     +31.81% bullish   
+DVL        60     neutral  ₹361.10      +1.08% bullish   
+EICHERMOT  60     bearish  ₹6985.00    +17.64% bullish   
+SANGAMIND  60     bearish  ₹437.60     +20.15% bullish   
+APLAPOLLO  55     bullish  ₹1696.00     +4.16% bullish   
+BEML       55     bullish  ₹4053.70     -0.89% bullish   
+DYNAMATECH 55     bullish  ₹6756.50     +2.30% bullish   
+GEOJITFSL  55     bullish  ₹77.93       +3.22% bullish   
+HEROMOTOCO 55     bullish  ₹5300.50     +3.20% bullish   
+HINDZINC   55     bullish  ₹466.15      +8.41% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

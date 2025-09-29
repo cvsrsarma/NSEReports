@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-26
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1796
+• Failed Analyses: 300
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1246
+• Bearish Signals: 117
+• Neutral Signals: 433
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 17
+• Moderate Risk: 580
+• High Risk: 917
+• Very High Risk: 282
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+COMPUSOFT  83.0   bullish  41.5       high          -8.83%
+VIDHIING   82.0   bullish  41.0       moderate      -4.72%
+MASFIN     80.0   bullish  40.0       moderate      -1.35%
+MEDICO     79.0   neutral  59.2       high         +13.76%
+BHARATGEAR 78.0   neutral  59.0       very_high     +59.99%
+5PAISA     77.0   bullish  38.5       moderate      -4.97%
+FUSION     77.0   bullish  58.5       high         +22.34%
+WOCKPHARMA 77.0   bullish  38.5       high         -11.34%
+ACMESOLAR  76.0   bullish  38.0       high          -5.44%
+ESSENTIA   74.0   bullish  37.0       high          -8.12%
+DCW        73.0   bullish  36.5       high         -13.20%
+RVHL       73.0   neutral  56.5       very_high     +34.90%
+PRAENG     72.0   bullish  56.0       very_high     +31.64%
+GULPOLY    71.0   bullish  35.5       moderate     -11.30%
+SANSTAR    71.0   bullish  55.5       high         +15.25%
+AFIL       70.0   neutral  55.0       high         +29.31%
+TCPLPACK   68.0   bullish  34.0       moderate      -0.46%
+CARBORUNIV 67.0   neutral  53.5       high          +5.14%
+HAL        67.0   bullish  53.5       moderate      +4.91%
+ANANTRAJ   66.0   bullish  53.0       high         +25.08%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

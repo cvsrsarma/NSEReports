@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-29
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1786
+• Failed Analyses: 310
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1172
+• Bearish Signals: 126
+• Neutral Signals: 488
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 15
+• Moderate Risk: 551
+• High Risk: 938
+• Very High Risk: 282
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+USHAMART   95.0   bullish  67.5       high         +30.86%
+BANARBEADS 79.0   neutral  59.5       very_high     +22.75%
+BHARATGEAR 79.0   neutral  59.5       very_high     +51.82%
+LUMAXTECH  79.0   neutral  58.6       very_high     +13.80%
+MUNJALAU   79.0   neutral  59.5       very_high     +35.65%
+SAMMAANCAP 79.0   bearish  59.5       high         +27.01%
+ASAL       78.0   neutral  59.0       very_high     +20.93%
+FUSION     78.0   bullish  59.0       high         +18.60%
+SPECIALITY 78.0   neutral  59.0       high         +10.73%
+5PAISA     75.0   bullish  37.5       moderate      -7.70%
+NATCAPSUQ  75.0   neutral  57.5       very_high     +39.59%
+3IINFOLTD  74.0   bullish  37.0       high          -7.54%
+DCXINDIA   74.0   bullish  37.0       high          -3.81%
+FMNL       74.0   bullish  37.0       very_high     -18.40%
+RVHL       73.0   neutral  56.5       very_high     +34.08%
+FMGOETZE   71.0   bullish  35.5       high          -6.38%
+ORCHASP    71.0   bearish  35.5       very_high      -7.59%
+HARRMALAYA 70.0   bullish  35.0       high          -8.33%
+INDOAMIN   70.0   bullish  35.0       high         -15.25%
+RPGLIFE    70.0   bullish  35.0       moderate      -4.24%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

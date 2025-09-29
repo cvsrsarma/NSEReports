@@ -1,0 +1,174 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This professional scan uses multiple technical analysis strategies to highlight stocks:
+- Breakout stocks: Price breaking above Bollinger Bands with momentum.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover signals.
+- Stochastic recovery: Oversold recovery patterns.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud configuration.
+- Bollinger squeeze: Low volatility before potential breakout.
+- High money flow: Strong buying pressure (MFI > 70).
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+PROFESSIONAL NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-09-29 18:33:52
+Data Date: 2025-09-29
+
+📈 BREAKOUT STOCKS
+----------------------------------------------------------------------
+Strategy: Breaking above Bollinger Bands with momentum
+
+MATRIMONY    Matrimony.Com Limited     ₹  550.25 Breakout:  +3.4% RSI:  72.1
+BANARBEADS   Banaras Beads Limited     ₹  133.72 Breakout:  +3.3% RSI:  71.9
+FCL          Fineotex Chemical Limited ₹  257.32 Breakout:  +2.4% RSI:  64.3
+ASAL         Automotive Stampings and  ₹  601.70 Breakout:  +2.0% RSI:  72.8
+VASCONEQ     Vascon Engineers Limited  ₹   69.38 Breakout:  +1.8% RSI:  70.6
+MOLDTECH     Mold-Tek Technologies Lim ₹  180.57 Breakout:  +1.7% RSI:  67.5
+UMIYA-MRO    UMIYA BUILDCON LIMITED    ₹   88.52 Breakout:  +1.1% RSI:  66.1
+TVSELECT     TVS Electronics Limited   ₹  635.35 Breakout:  +0.6% RSI:  73.9
+AGIIL        Agi Infra Limited         ₹ 1263.60 Breakout:  +0.3% RSI:  72.8
+INDORAMA     Indo Rama Synthetics (Ind ₹   57.57 Breakout:  +0.3% RSI:  71.8
+OIL          Oil India Limited         ₹  417.25 Breakout:  +0.3% RSI:  58.3
+V2RETAIL     V2 Retail Limited         ₹ 2074.00 Breakout:  +0.2% RSI:  70.6
+
+🔥 TRENDING STOCKS
+----------------------------------------------------------------------
+Strategy: Strong directional movement (ADX > 35)
+
+MAHASTEEL    Mahamaya Steel Industries ₹  412.70 ADX:  72.7 UP   RSI:  84.4
+HDFCBANK     HDFC Bank Limited         ₹  950.30 ADX:  69.5 DOWN RSI:  11.7
+ATHERENERG   Ather Energy Limited      ₹  580.50 ADX:  68.5 UP   RSI:  64.9
+PANACHE      Panache Digilife Limited  ₹  393.20 ADX:  67.7 UP   RSI:  87.4
+AXISCADES    AXISCADES Technologies Li ₹ 1653.20 ADX:  67.0 UP   RSI:  81.3
+MARUTI       Maruti Suzuki India Limit ₹   15984 ADX:  65.7 UP   RSI:  71.7
+CUPID        Cupid Limited             ₹  219.89 ADX:  65.5 UP   RSI:  75.2
+EICHERMOT    Eicher Motors Limited     ₹ 6985.00 ADX:  64.3 UP   RSI:  75.1
+IMFA         Indian Metals & Ferro All ₹ 1118.85 ADX:  63.9 UP   RSI:  70.6
+IFBAGRO      IFB Agro Industries Limit ₹  831.05 ADX:  61.6 UP   RSI:  73.1
+TFCILTD      Tourism Finance Corporati ₹   72.10 ADX:  61.4 DOWN RSI:  13.3
+RAMCOIND     Ramco Industries Limited  ₹  347.25 ADX:  61.3 UP   RSI:  51.8
+MEGASOFT     Megasoft Limited          ₹  152.20 ADX:  57.9 UP   RSI:  69.6
+PATANJALI    Patanjali Foods Limited   ₹  597.10 ADX:  56.2 DOWN RSI:   8.2
+SANOFI       Sanofi India Limited      ₹ 4705.50 ADX:  56.2 DOWN RSI:  16.2
+STEELCAS     Steelcast Limited         ₹  215.33 ADX:  56.0 DOWN RSI:  17.6
+SANGHVIMOV   Sanghvi Movers Limited    ₹  368.05 ADX:  56.0 UP   RSI:  57.4
+STYLEBAAZA   Baazar Style Retail Limit ₹  370.30 ADX:  55.9 UP   RSI:  65.7
+NETWEB       Netweb Technologies India ₹ 3585.00 ADX:  55.4 UP   RSI:  71.4
+VPRPL        Vishnu Prakash R Punglia  ₹   94.06 ADX:  55.3 DOWN RSI:  16.2
+
+🚀 MACD BULLISH
+----------------------------------------------------------------------
+Strategy: Bullish MACD crossover signals
+
+TATAINVEST   Tata Investment Corporati ₹ 8843.00 MACD: 463.26 Hist: 205.68
+PTCIL        PTC Industries Limited    ₹   15188 MACD: 326.17 Hist: 110.19
+PGHH         Procter & Gamble Hygiene  ₹   14214 MACD: 130.27 Hist:  71.75
+LUMAXIND     Lumax Industries Limited  ₹ 4955.10 MACD: 247.49 Hist:  59.22
+NETWEB       Netweb Technologies India ₹ 3585.00 MACD: 346.15 Hist:  48.18
+V2RETAIL     V2 Retail Limited         ₹ 2074.00 MACD:  64.23 Hist:  39.49
+MCX          Multi Commodity Exchange  ₹ 7940.00 MACD:  27.79 Hist:  37.27
+RVTH         Revathi Equipment India L ₹ 1111.45 MACD:  41.28 Hist:  36.33
+MTARTECH     Mtar Technologies Limited ₹ 1907.90 MACD: 111.89 Hist:  34.88
+ETHOSLTD     Ethos Limited             ₹ 2587.90 MACD:  -4.03 Hist:  34.42
+KDDL         KDDL Limited              ₹ 2664.80 MACD:  38.20 Hist:  33.51
+TVSSRICHAK   TVS Srichakra Limited     ₹ 3209.10 MACD:  97.03 Hist:  33.26
+NIBE         NIBE Limited              ₹ 1439.20 MACD:  18.12 Hist:  32.70
+KMEW         Knowledge Marine & Engine ₹ 2359.30 MACD: 189.12 Hist:  25.28
+LUMAXTECH    Lumax Auto Technologies L ₹ 1322.70 MACD:  43.87 Hist:  23.25
+
+🔄 STOCHASTIC RECOVERY
+----------------------------------------------------------------------
+Strategy: Oversold recovery patterns
+
+ARENTERP     Rajdarshan Industries Lim ₹   45.78 K%:  28.7 D%:  13.3
+REGENCERAM   Regency Ceramics Limited  ₹   42.82 K%:  29.7 D%:  14.8
+THYROCARE    Thyrocare Technologies Li ₹ 1175.90 K%:  29.0 D%:  14.1
+MHRIL        Mahindra Holidays & Resor ₹  348.70 K%:  27.6 D%:  13.1
+TITAN        Titan Company Limited     ₹ 3401.20 K%:  25.8 D%:  11.4
+MANORG       Mangalam Organics Limited ₹  532.25 K%:  28.9 D%:  14.8
+DHANUKA      Dhanuka Agritech Limited  ₹ 1524.30 K%:  28.5 D%:  14.6
+PALASHSECU   Palash Securities Limited ₹  119.71 K%:  26.7 D%:  12.8
+BALMLAWRIE   Balmer Lawrie & Company L ₹  210.83 K%:  23.2 D%:   9.3
+UDS          Updater Services Limited  ₹  248.80 K%:  28.3 D%:  14.4
+ORIENTLTD    Orient Press Limited      ₹   83.41 K%:  25.3 D%:  11.4
+KRITINUT     Kriti Nutrients Limited   ₹   94.13 K%:  29.1 D%:  15.7
+VBL          Varun Beverages Limited   ₹  451.70 K%:  22.5 D%:   9.2
+SPENCERS     Spencer's Retail Limited  ₹   55.08 K%:  25.5 D%:  12.3
+AAATECH      AAA Technologies Limited  ₹   78.59 K%:  27.9 D%:  15.4
+
+📊 HIGH VOLUME
+----------------------------------------------------------------------
+Strategy: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+----------------------------------------------------------------------
+Strategy: Above Ichimoku cloud configuration
+
+No stocks found matching criteria
+
+🎯 BOLLINGER SQUEEZE
+----------------------------------------------------------------------
+Strategy: Low volatility before potential breakout
+
+JCHAC        Johnson Controls - Hitach ₹ 1729.70 BB Width:   2.2% RSI:  44.2
+INDIGO       InterGlobe Aviation Limit ₹ 5707.00 BB Width:   3.3% RSI:  47.7
+SHIVAMILLS   Shiva Mills Limited       ₹   70.99 BB Width:   3.3% RSI:  46.7
+DCM          DCM  Limited              ₹   97.93 BB Width:   3.5% RSI:  40.2
+AETHER       Aether Industries Limited ₹  750.80 BB Width:   3.6% RSI:  53.0
+SBILIFE      SBI Life Insurance Compan ₹ 1788.70 BB Width:   3.6% RSI:  42.7
+SUNDRMBRAK   Sundaram Brake Linings Li ₹  764.10 BB Width:   3.7% RSI:  43.4
+MHLXMIRU     Mahalaxmi Rubtech Limited ₹  218.92 BB Width:   3.8% RSI:  48.1
+BANARISUG    Bannari Amman Sugars Limi ₹ 3650.50 BB Width:   4.0% RSI:  40.6
+AIAENG       AIA Engineering Limited   ₹ 3062.80 BB Width:   4.0% RSI:  45.6
+TORNTPHARM   Torrent Pharmaceuticals L ₹ 3586.60 BB Width:   4.0% RSI:  50.0
+HATSUN       Hatsun Agro Product Limit ₹  911.05 BB Width:   4.0% RSI:  52.2
+DONEAR       Donear Industries Limited ₹   94.36 BB Width:   4.1% RSI:  41.3
+STEELCITY    Steel City Securities Lim ₹  101.75 BB Width:   4.1% RSI:  41.2
+ITC          ITC Limited               ₹  407.25 BB Width:   4.2% RSI:  48.8
+
+💰 HIGH MONEY FLOW
+----------------------------------------------------------------------
+Strategy: Strong buying pressure (MFI > 70)
+
+ABINFRA      A B Infrabuild Limited    ₹  185.94 MFI:   NaN UP  
+ACCELYA      Accelya Solutions India L ₹ 1458.60 MFI:   NaN UP  
+ADANIENSOL   Adani Energy Solutions Li ₹  871.75 MFI:   NaN UP  
+ADANIENT     Adani Enterprises Limited ₹ 2509.50 MFI:   NaN UP  
+ADANIGREEN   Adani Green Energy Limite ₹ 1035.35 MFI:   NaN UP  
+ADSL         Allied Digital Services L ₹  177.88 MFI:   NaN UP  
+AFCONS       Afcons Infrastructure Lim ₹  448.10 MFI:   NaN UP  
+AGARIND      Agarwal Industrial Corpor ₹  931.65 MFI:   NaN UP  
+AGIIL        Agi Infra Limited         ₹ 1263.60 MFI:   NaN UP  
+AHLADA       Ahlada Engineers Limited  ₹   62.80 MFI:   NaN UP  
+AJMERA       Ajmera Realty & Infra Ind ₹  990.60 MFI:   NaN UP  
+AMDIND       AMD Industries Limited    ₹   54.70 MFI:   NaN UP  
+ANANTRAJ     Anant Raj Limited         ₹  699.15 MFI:   NaN UP  
+APOLLO       Apollo Micro Systems Limi ₹  329.90 MFI:   NaN UP  
+ARIHANTCAP   Arihant Capital Markets L ₹  109.98 MFI:   NaN UP  
+
+================================================================================
+TECHNICAL ANALYSIS COMPLETE
+Key Insights:
+• Breakout stocks may continue upward momentum
+• High ADX stocks show strong directional movement
+• MACD bullish signals indicate potential uptrends
+• Stochastic recovery suggests oversold bounce opportunities
+• High OBV shows institutional buying interest
+• Ichimoku bullish setups provide comprehensive trend confirmation
+• Bollinger squeeze often precedes volatility expansion
+• High MFI indicates strong buying pressure
+⚠️  For educational purposes only. Always conduct thorough research!
+================================================================================

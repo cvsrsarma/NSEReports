@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-26
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1796
+  Failed Analyses: 300
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1124
+  Bearish Signals: 38
+  Neutral Signals: 634
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+INDIANB    80     neutral  ₹706.35      +4.44% bullish   
+CHENNPETRO 70     neutral  ₹760.50     +21.28% bullish   
+ABB        65     bullish  ₹5173.40     +2.70% bullish   
+AFCONS     65     bullish  ₹438.30      +2.50% bullish   
+AROGRANITE 65     bullish  ₹37.04       +3.29% bullish   
+DCBBANK    65     bullish  ₹123.83      +0.89% bullish   
+MANCREDIT  65     bullish  ₹186.23      +3.47% bullish   
+NAVNETEDUL 65     bullish  ₹156.56     +10.96% bullish   
+ASHOKLEY   60     bearish  ₹141.93      +7.72% bullish   
+EICHERMOT  60     bearish  ₹7047.00    +19.20% bullish   
+NATCAPSUQ  60     neutral  ₹272.13     +34.24% bullish   
+PFOCUS     60     bullish  ₹183.41     +15.48% bullish   
+PITTIENG   60     neutral  ₹1010.05     +3.08% bullish   
+PRAKASH    60     neutral  ₹169.84      +5.43% bullish   
+SANGAMIND  60     bearish  ₹435.05     +20.85% bullish   
+ALICON     55     bullish  ₹852.75      +3.91% bullish   
+APLAPOLLO  55     bullish  ₹1660.10     +3.30% bullish   
+BHARTIARTL 55     bullish  ₹1916.60     +1.28% bullish   
+DDEVPLSTIK 55     bullish  ₹346.60      +5.24% bullish   
+DECCANCE   55     bullish  ₹1085.00     +4.26% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

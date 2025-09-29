@@ -1,0 +1,147 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This enhanced scan uses multiple technical analysis strategies to highlight stocks:
+- Golden Cross: SMA50 > SMA200 with bullish momentum.
+- Breakout stocks: Price breaking above Bollinger Bands with strength.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover with positive histogram.
+- Stochastic recovery: Oversold recovery with Stochastic turning up.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud with bullish signals.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+ENHANCED NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-09-26 20:22:13
+Data Date: 2025-09-26
+
+🥇 GOLDEN CROSS STOCKS
+------------------------------------------------------------
+Description: Golden Cross (SMA50 > SMA200) with bullish momentum
+
+MARUTI       Maruti Suzuki India Limited    ₹   16286 RSI:  83.9 SMA50: 14369.4
+BHARATGEAR   Bharat Gears Limited           ₹  138.50 RSI:  81.8 SMA50:    97.0
+EICHERMOT    Eicher Motors Limited          ₹ 7047.00 RSI:  81.3 SMA50:  6269.1
+BANCOINDIA   Banco Products (I) Limited     ₹  829.40 RSI:  79.6 SMA50:   653.4
+USHAMART     Usha Martin Limited            ₹  448.90 RSI:  79.3 SMA50:   385.7
+SUBROS       Subros Limited                 ₹ 1131.05 RSI:  78.1 SMA50:   930.3
+MCL          Madhav Copper Limited          ₹   58.53 RSI:  77.4 SMA50:    50.0
+LUMAXIND     Lumax Industries Limited       ₹ 4863.80 RSI:  76.6 SMA50:  3995.5
+NETWEB       Netweb Technologies India Limited ₹ 3695.40 RSI:  76.6 SMA50:  2583.7
+ANANTRAJ     Anant Raj Limited              ₹  679.70 RSI:  75.9 SMA50:   572.0
+SIGMA        Sigma Solve Limited            ₹  476.15 RSI:  75.4 SMA50:   385.2
+NLCINDIA     NLC India Limited              ₹  279.53 RSI:  75.3 SMA50:   245.9
+RACLGEAR     RACL Geartech Limited          ₹ 1111.20 RSI:  74.9 SMA50:   930.0
+MUNJALAU     Munjal Auto Industries Limited ₹  103.61 RSI:  74.1 SMA50:    86.7
+TATAINVEST   Tata Investment Corporation Limited ₹ 8666.00 RSI:  74.0 SMA50:  7092.9
+MTARTECH     Mtar Technologies Limited      ₹ 1879.00 RSI:  73.9 SMA50:  1595.3
+CUPID        Cupid Limited                  ₹  215.52 RSI:  73.0 SMA50:   174.9
+TVSELECT     TVS Electronics Limited        ₹  622.70 RSI:  72.9 SMA50:   431.4
+MINDACORP    Minda Corporation Limited      ₹  571.30 RSI:  72.8 SMA50:   518.1
+KMEW         Knowledge Marine & Engineering Works Limited ₹ 2492.00 RSI:  72.8 SMA50:  1968.2
+
+📈 BREAKOUT STOCKS
+------------------------------------------------------------
+Description: Breaking above Bollinger Bands with strength
+
+RACLGEAR     RACL Geartech Limited          ₹ 1111.20 Breakout:  +8.5% RSI:  74.9
+NATCAPSUQ    Natural Capsules Limited       ₹  272.13 Breakout:  +7.0% RSI:  74.3
+ASAL         Automotive Stampings and Assemblies Limited ₹  600.75 Breakout:  +4.8% RSI:  72.6
+TVSELECT     TVS Electronics Limited        ₹  622.70 Breakout:  +3.0% RSI:  72.9
+FCL          Fineotex Chemical Limited      ₹  250.44 Breakout:  +1.4% RSI:  58.9
+BEARDSELL    Beardsell Limited              ₹   36.17 Breakout:  +1.2% RSI:  69.9
+TATAINVEST   Tata Investment Corporation Limited ₹ 8666.00 Breakout:  +0.9% RSI:  74.0
+AGIIL        Agi Infra Limited              ₹ 1253.10 Breakout:  +0.5% RSI:  71.2
+MEDICO       Medico Remedies Limited        ₹   48.28 Breakout:  +0.4% RSI:  74.0
+MUNJALAU     Munjal Auto Industries Limited ₹  103.61 Breakout:  +0.1% RSI:  74.1
+
+🔥 TRENDING STOCKS
+------------------------------------------------------------
+Description: Strong directional movement (ADX > 35)
+
+KESORAMIND   Kesoram Industries Limited     ₹    5.76 ADX:  75.0 DOWN
+MAHASTEEL    Mahamaya Steel Industries Limited ₹  410.00 ADX:  72.5 UP  
+ATHERENERG   Ather Energy Limited           ₹  539.90 ADX:  69.8 UP  
+GLOBALE      Globale Tessile Limited        ₹   13.61 ADX:  69.0 DOWN
+HDFCBANK     HDFC Bank Limited              ₹  945.05 ADX:  68.9 DOWN
+AXISCADES    AXISCADES Technologies Limited ₹ 1640.40 ADX:  67.6 UP  
+VLEGOV       VL E-Governance & IT Solutions Limited ₹   29.70 ADX:  66.4 DOWN
+MARUTI       Maruti Suzuki India Limited    ₹   16286 ADX:  66.3 UP  
+PANACHE      Panache Digilife Limited       ₹  402.94 ADX:  66.2 UP  
+CUPID        Cupid Limited                  ₹  215.52 ADX:  65.3 UP  
+RAMCOIND     Ramco Industries Limited       ₹  357.35 ADX:  64.4 UP  
+IMFA         Indian Metals & Ferro Alloys Limited ₹ 1123.00 ADX:  64.2 UP  
+KAMOPAINTS   Kamdhenu Ventures Limited      ₹    8.86 ADX:  64.1 DOWN
+EICHERMOT    Eicher Motors Limited          ₹ 7047.00 ADX:  63.7 UP  
+IFBAGRO      IFB Agro Industries Limited    ₹  824.50 ADX:  60.8 UP  
+TFCILTD      Tourism Finance Corporation of India Limited ₹   72.60 ADX:  60.3 DOWN
+RAMANEWS     Shree Rama Newsprint Limited   ₹   31.38 ADX:  58.7 UP  
+MEGASOFT     Megasoft Limited               ₹  157.58 ADX:  58.5 UP  
+SANGHVIMOV   Sanghvi Movers Limited         ₹  365.80 ADX:  57.6 UP  
+SAKUMA       Sakuma Exports Limited         ₹    2.50 ADX:  57.3 DOWN
+
+🚀 MACD BULLISH
+------------------------------------------------------------
+Description: Bullish MACD crossover with positive histogram
+
+TATAINVEST   Tata Investment Corporation Limited ₹ 8666.00 MACD: 406.79 Hist: 200.63
+PTCIL        PTC Industries Limited         ₹   15249 MACD: 330.12 Hist: 141.69
+MRF          MRF Limited                    ₹  148545 MACD: 1479.94 Hist: 117.17
+NETWEB       Netweb Technologies India Limited ₹ 3695.40 MACD: 345.40 Hist:  59.48
+LUMAXIND     Lumax Industries Limited       ₹ 4863.80 MACD: 225.58 Hist:  52.11
+TVSSRICHAK   TVS Srichakra Limited          ₹ 3300.40 MACD: 101.50 Hist:  46.03
+APARINDS     Apar Industries Limited        ₹ 8360.50 MACD:  83.92 Hist:  45.86
+RVTH         Revathi Equipment India Limited ₹ 1114.00 MACD:  40.93 Hist:  45.06
+KMEW         Knowledge Marine & Engineering Works Limited ₹ 2492.00 MACD: 202.16 Hist:  44.64
+MCX          Multi Commodity Exchange of India Limited ₹ 7920.50 MACD:  25.22 Hist:  44.01
+MTARTECH     Mtar Technologies Limited      ₹ 1879.00 MACD: 107.97 Hist:  39.68
+PGHH         Procter & Gamble Hygiene and Health Care Limited ₹   13648 MACD:  79.21 Hist:  38.63
+KDDL         KDDL Limited                   ₹ 2664.10 MACD:  33.35 Hist:  37.03
+V2RETAIL     V2 Retail Limited              ₹ 1885.90 MACD:  48.98 Hist:  34.10
+ETHOSLTD     Ethos Limited                  ₹ 2558.40 MACD: -13.86 Hist:  33.20
+
+🔄 STOCHASTIC RECOVERY
+------------------------------------------------------------
+Description: Oversold recovery with Stochastic turning up
+
+SANOFICONR   Sanofi Consumer Healthcare India Limited ₹ 4940.50 K%:  29.6 D%:  13.7
+VIDHIING     Vidhi Specialty Food Ingredients Limited ₹  360.55 K%:  25.4 D%:  12.0
+TIRUPATIFL   Tirupati Forge Limited         ₹   37.35 K%:  24.3 D%:  11.2
+KAMDHENU     Kamdhenu Limited               ₹   26.39 K%:  22.2 D%:  10.1
+NH           Narayana Hrudayalaya Ltd.      ₹ 1725.00 K%:  22.5 D%:  10.5
+TATAMOTORS   Tata Motors Limited            ₹  672.90 K%:  25.2 D%:  13.9
+INNOVACAP    Innova Captab Limited          ₹  845.05 K%:  25.6 D%:  14.4
+APLLTD       Alembic Pharmaceuticals Limited ₹  909.90 K%:  24.9 D%:  14.0
+PARKHOTELS   Apeejay Surrendra Park Hotels Limited ₹  149.99 K%:  23.9 D%:  12.9
+UFO          UFO Moviez India Limited       ₹   74.58 K%:  25.8 D%:  15.0
+TVTODAY      TV Today Network Limited       ₹  143.96 K%:  18.3 D%:   7.9
+SAURASHCEM   Saurashtra Cement Limited      ₹  107.53 K%:  20.3 D%:   9.8
+SSDL         Saraswati Saree Depot Limited  ₹   87.10 K%:  27.3 D%:  16.9
+TPLPLASTEH   TPL Plastech Limited           ₹   72.72 K%:  20.1 D%:   9.9
+SHYAMTEL     Shyam Telecom Limited          ₹   13.89 K%:  17.6 D%:   8.0
+
+📊 HIGH VOLUME
+------------------------------------------------------------
+Description: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+------------------------------------------------------------
+Description: Above Ichimoku cloud with bullish signals
+
+No stocks found matching criteria
+
+================================================================================
+ANALYSIS COMPLETE
+⚠️  For educational purposes only. Conduct your own research!
+================================================================================
