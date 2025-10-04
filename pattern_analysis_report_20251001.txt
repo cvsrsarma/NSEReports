@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-04
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1867
+• Failed Analyses: 229
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 732
+• Bearish Signals: 217
+• Neutral Signals: 918
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 11
+• Moderate Risk: 590
+• High Risk: 980
+• Very High Risk: 286
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+INDIAGLYCO 80.0   bearish  60.0       high         +12.52%
+AEGISLOG   79.0   bearish  59.5       high         +21.50%
+AIAENG     78.0   bearish  58.6       moderate      +4.34%
+AVANTEL    78.0   bearish  59.0       very_high     +34.10%
+AVL        78.0   neutral  59.0       high         +11.52%
+BEL        78.0   bullish  59.0       moderate     +10.91%
+HINDALCO   77.0   neutral  58.5       moderate      +9.01%
+INDORAMA   77.0   bullish  58.5       high         +19.68%
+SURYODAY   77.0   neutral  58.5       high         +21.30%
+MARINE     76.0   bearish  58.0       high         +22.71%
+SATIN      75.0   neutral  57.5       moderate      +9.24%
+RACLGEAR   74.0   neutral  57.0       very_high     +35.45%
+BBL        73.0   bearish  56.5       high         +13.82%
+PGHH       73.0   neutral  56.5       moderate      +8.63%
+YESBANK    73.0   neutral  56.5       moderate     +11.76%
+FUSION     71.0   neutral  55.5       high         +14.60%
+TAKE       71.0   bearish  55.2       high         +18.76%
+PROZONER   69.0   neutral  54.5       very_high     +62.46%
+TRF        69.0   bullish  54.5       very_high     +17.83%
+BANARISUG  66.0   bullish  33.0       moderate      -5.79%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

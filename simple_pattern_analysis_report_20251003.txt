@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-03
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1867
+  Failed Analyses: 229
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 930
+  Bearish Signals: 109
+  Neutral Signals: 828
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+ACCELYA    70     neutral  ₹1500.00     +4.71% bullish   
+GHCL       70     neutral  ₹605.10      +6.37% bullish   
+MEDICO     70     neutral  ₹48.28      +23.79% bullish   
+CENTURYPLY 65     bullish  ₹807.95      +9.57% bullish   
+AFIL       60     bearish  ₹9.32       +29.62% bullish   
+APOLLO     60     bearish  ₹342.75     +36.70% bullish   
+BALKRISHNA 60     bearish  ₹24.68      +12.49% bullish   
+BELRISE    60     bearish  ₹163.02     +14.42% bullish   
+CHENNPETRO 60     bearish  ₹780.40     +18.08% bullish   
+FUSION     60     bearish  ₹193.17     +14.60% bullish   
+HAL        60     bearish  ₹4870.40     +9.26% bullish   
+IMPAL      60     bearish  ₹1098.20     +6.14% bullish   
+JSWSTEEL   60     bearish  ₹1161.70     +9.82% bullish   
+KDDL       60     bearish  ₹2672.30     +9.70% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +37.52% bullish   
+NORTHARC   60     bearish  ₹285.70     +12.42% bullish   
+PGHH       60     bearish  ₹14337.00    +8.63% bullish   
+SANSTAR    60     bullish  ₹95.33      +14.35% bullish   
+SBIN       60     bearish  ₹867.30      +6.23% bullish   
+SHREEPUSHK 60     bullish  ₹437.45     +31.74% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

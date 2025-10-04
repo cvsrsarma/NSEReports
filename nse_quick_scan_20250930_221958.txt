@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-09-30 22:19:58
+Data Date: 2025-09-30
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MARUTI       Maruti Suzuki India Limit... ₹16029.00 RSI: 72.3
+PTCIL        PTC Industries Limited       ₹15528.00 RSI: 66.0
+PGHH         Procter & Gamble Hygiene ... ₹14145.00 RSI: 66.8
+ASTRAZEN     AstraZeneca Pharma India ... ₹ 9105.50 RSI: 56.6
+AMBER        Amber Enterprises India L... ₹ 8089.00 RSI: 55.1
+NSIL         Nalwa Sons Investments Li... ₹ 7600.50 RSI: 67.2
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 5472.50 RSI: 66.0
+PILANIINVS   Pilani Investment and Ind... ₹ 5355.00 RSI: 58.1
+HAL          Hindustan Aeronautics Lim... ₹ 4746.50 RSI: 58.0
+SCHAEFFLER   Schaeffler India Limited     ₹ 4208.80 RSI: 64.0
+INGERRAND    Ingersoll Rand (India) Li... ₹ 3935.90 RSI: 55.1
+FLUOROCHEM   Gujarat Fluorochemicals L... ₹ 3707.80 RSI: 56.1
+NETWEB       Netweb Technologies India... ₹ 3648.50 RSI: 72.6
+E2E          E2E Networks Limited         ₹ 3204.30 RSI: 60.5
+TVSSRICHAK   TVS Srichakra Limited        ₹ 3176.40 RSI: 56.9
+BBL          Bharat Bijlee Limited        ₹ 3138.30 RSI: 58.1
+MUTHOOTFIN   Muthoot Finance Limited      ₹ 3077.10 RSI: 68.4
+SHRIPISTON   Shriram Pistons & Rings L... ₹ 2695.30 RSI: 62.6
+KDDL         KDDL Limited                 ₹ 2670.20 RSI: 62.5
+ADANIENT     Adani Enterprises Limited    ₹ 2505.90 RSI: 56.8
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+HEUBACHIND   Heubach Colorants India L... ₹  516.70 RSI:  5.4
+NAZARA       Nazara Technologies Limit... ₹  254.60 RSI:  6.1
+PIDILITIND   Pidilite Industries Limit... ₹ 1468.00 RSI:  6.6
+PATANJALI    Patanjali Foods Limited      ₹  575.80 RSI:  7.9
+ADANIPOWER   Adani Power Limited          ₹  144.65 RSI: 10.7
+HDFCBANK     HDFC Bank Limited            ₹  951.00 RSI: 11.9
+TIMETECHNO   Time Technoplast Limited     ₹  209.80 RSI: 13.5
+TFCILTD      Tourism Finance Corporati... ₹   73.35 RSI: 13.7
+SANOFI       Sanofi India Limited         ₹ 4650.00 RSI: 14.7
+PAVNAIND     Pavna Industries Limited     ₹   37.00 RSI: 15.0
+PRAJIND      Praj Industries Limited      ₹  329.95 RSI: 16.0
+VLEGOV       VL E-Governance & IT Solu... ₹   27.08 RSI: 16.2
+ZYDUSWELL    Zydus Wellness Limited       ₹  457.20 RSI: 16.4
+VPRPL        Vishnu Prakash R Punglia ... ₹   94.21 RSI: 16.6
+SANDUMA      Sandur Manganese & Iron O... ₹  168.85 RSI: 16.7
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+MAHASTEEL    Mahamaya Steel Industries... ₹  415.35 ADX: 72.9 UP
+HDFCBANK     HDFC Bank Limited            ₹  951.00 ADX: 70.0 DOWN
+ATHERENERG   Ather Energy Limited         ₹  565.50 ADX: 67.3 UP
+AXISCADES    AXISCADES Technologies Li... ₹ 1594.00 ADX: 66.5 UP
+CUPID        Cupid Limited                ₹  214.96 ADX: 65.6 UP
+MARUTI       Maruti Suzuki India Limit... ₹16029.00 ADX: 65.0 UP
+EICHERMOT    Eicher Motors Limited        ₹ 7005.50 ADX: 64.5 UP
+IMFA         Indian Metals & Ferro All... ₹ 1108.05 ADX: 62.9 UP
+TFCILTD      Tourism Finance Corporati... ₹   73.35 ADX: 62.4 DOWN
+IFBAGRO      IFB Agro Industries Limit... ₹  816.50 ADX: 61.7 UP
+PATANJALI    Patanjali Foods Limited      ₹  575.80 ADX: 58.4 DOWN
+SANOFI       Sanofi India Limited         ₹ 4650.00 ADX: 58.0 DOWN
+MEGASOFT     Megasoft Limited             ₹  153.10 ADX: 57.4 UP
+RAMCOIND     Ramco Industries Limited     ₹  333.55 ADX: 57.4 UP
+NETWEB       Netweb Technologies India... ₹ 3648.50 ADX: 56.4 UP
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

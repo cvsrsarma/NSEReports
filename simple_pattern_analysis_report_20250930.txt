@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-30
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1800
+  Failed Analyses: 296
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1051
+  Bearish Signals: 59
+  Neutral Signals: 690
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+CENTURYPLY 75     bullish  ₹813.10      +9.79% bullish   
+BANKINDIA  70     neutral  ₹123.41      +6.43% bullish   
+CANBK      70     neutral  ₹123.71     +11.38% bullish   
+PNB        70     neutral  ₹112.83      +5.29% bullish   
+SBIN       70     neutral  ₹872.45      +5.66% bullish   
+KEI        65     bullish  ₹4062.30     +2.76% bullish   
+AVALON     60     bearish  ₹1009.15    +19.30% bullish   
+BHEL       60     bearish  ₹238.45      +9.14% bullish   
+CHENNPETRO 60     bearish  ₹757.80     +14.20% bullish   
+DVL        60     bearish  ₹365.10      +3.41% bullish   
+GHCL       60     neutral  ₹604.95      +3.36% bullish   
+KDDL       60     bearish  ₹2670.20     +4.31% bullish   
+MEDICO     60     bearish  ₹48.21      +18.98% bullish   
+PTCIL      60     bearish  ₹15528.00   +16.17% bullish   
+QPOWER     60     bearish  ₹1069.30    +40.69% bullish   
+SANGAMIND  60     bearish  ₹435.90     +19.34% bullish   
+YESBANK    60     bearish  ₹21.25       +9.37% bullish   
+LT         55     bullish  ₹3659.00     +1.28% bullish   
+MOIL       55     bullish  ₹370.30     +12.16% bullish   
+NSIL       55     bullish  ₹7600.50    +12.06% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

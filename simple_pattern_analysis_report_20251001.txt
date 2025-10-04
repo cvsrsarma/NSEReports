@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-01
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2096
+  Successful Analyses: 1868
+  Failed Analyses: 228
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 948
+  Bearish Signals: 96
+  Neutral Signals: 824
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+CANBK      70     neutral  ₹123.76     +12.58% bullish   
+MEDICO     70     neutral  ₹48.28      +21.31% bullish   
+KAYNES     65     bullish  ₹7157.00    +15.27% bullish   
+LGBBROSLTD 65     bullish  ₹1380.30     +6.59% bullish   
+AVALON     60     bearish  ₹1009.30    +18.17% bullish   
+BANCOINDIA 60     bearish  ₹859.85     +48.08% bullish   
+BHEL       60     bearish  ₹240.17      +9.87% bullish   
+CHENNPETRO 60     bearish  ₹757.10     +14.85% bullish   
+FUSION     60     bearish  ₹193.67     +15.84% bullish   
+IMPAL      60     bearish  ₹1082.60     +3.16% bullish   
+KDDL       60     bearish  ₹2664.50     +7.82% bullish   
+MTARTECH   60     bearish  ₹1898.60    +24.88% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +37.77% bullish   
+PTCIL      60     bearish  ₹15698.00   +14.05% bullish   
+SANSTAR    60     bullish  ₹95.36      +13.73% bullish   
+SBIN       60     bearish  ₹864.10      +5.86% bullish   
+SEJALLTD   60     bearish  ₹805.80     +44.06% bullish   
+TATACONSUM 60     bearish  ₹1144.80     +5.60% bullish   
+BEML       55     bullish  ₹4318.70     +7.06% bullish   
+GMBREW     55     bullish  ₹727.45      +6.94% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

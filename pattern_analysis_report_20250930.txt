@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-09-30
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2096
+• Successful Analyses: 1800
+• Failed Analyses: 296
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 997
+• Bearish Signals: 179
+• Neutral Signals: 624
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 12
+• Moderate Risk: 558
+• High Risk: 939
+• Very High Risk: 291
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+SAMMAANCAP 95.0   bearish  67.5       high         +30.61%
+BLBLIMITED 86.0   bullish  43.0       high          +3.71%
+VSSL       78.0   bearish  59.0       high         +16.75%
+MATRIMONY  76.0   neutral  58.0       moderate      +8.76%
+MOTHERSON  76.0   bullish  58.0       moderate      +7.92%
+FMNL       74.0   bullish  37.0       very_high     -20.35%
+SIGMA      74.0   neutral  57.0       high         +24.01%
+BANARBEADS 73.0   neutral  56.5       very_high     +27.27%
+KPITTECH   72.0   bullish  36.0       high          -9.59%
+KOHINOOR   71.0   bullish  35.5       moderate      -6.09%
+ORCHASP    71.0   bearish  35.5       very_high      -1.40%
+PROZONER   68.0   neutral  54.0       very_high     +25.66%
+AIROLAM    63.0   bullish  31.5       high          +3.23%
+BHANDARI   63.0   bullish  31.5       high         -10.44%
+GENUSPAPER 63.0   bullish  31.5       high          -7.22%
+INDIGOPNTS 63.0   bullish  31.5       moderate      -7.63%
+NSIL       63.0   bullish  51.5       moderate     +12.06%
+VAISHALI   63.0   bullish  31.5       high          -9.74%
+AEGISLOG   62.0   bullish  51.0       high          +3.32%
+ALPA       62.0   bullish  31.0       high         -10.25%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
