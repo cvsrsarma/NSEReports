@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-10-07 00:05:00
+Data Date: 2025-10-06
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹152350.00 RSI: 55.8
+MARUTI       Maruti Suzuki India Limit... ₹15998.00 RSI: 67.6
+NEULANDLAB   Neuland Laboratories Limi... ₹15163.00 RSI: 55.9
+PGHH         Procter & Gamble Hygiene ... ₹14380.00 RSI: 70.3
+TVSHLTD      TVS Holdings Limited         ₹13171.00 RSI: 60.0
+TATAINVEST   Tata Investment Corporati... ₹ 9947.00 RSI: 73.1
+ASTRAZEN     AstraZeneca Pharma India ... ₹ 9414.50 RSI: 64.0
+OFSS         Oracle Financial Services... ₹ 9093.50 RSI: 58.2
+MCX          Multi Commodity Exchange ... ₹ 8192.00 RSI: 59.9
+AMBER        Amber Enterprises India L... ₹ 8174.50 RSI: 56.7
+POLYCAB      Polycab India Limited        ₹ 7615.50 RSI: 65.7
+KAYNES       Kaynes Technology India L... ₹ 7466.50 RSI: 66.6
+NUVAMA       Nuvama Wealth Management ... ₹ 6928.00 RSI: 64.3
+ORISSAMINE   The Orissa Minerals Devel... ₹ 5800.00 RSI: 74.3
+VSTTILLERS   V.S.T Tillers Tractors Li... ₹ 5591.00 RSI: 69.0
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 5581.50 RSI: 69.0
+PILANIINVS   Pilani Investment and Ind... ₹ 5501.50 RSI: 61.6
+ALKEM        Alkem Laboratories Limite... ₹ 5494.00 RSI: 59.8
+KICL         Kalyani Investment Compan... ₹ 5224.40 RSI: 63.9
+PFIZER       Pfizer Limited               ₹ 5223.50 RSI: 55.4
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+PIDILITIND   Pidilite Industries Limit... ₹ 1489.00 RSI:  8.3
+NAZARA       Nazara Technologies Limit... ₹  279.25 RSI:  9.0
+PATANJALI    Patanjali Foods Limited      ₹  597.55 RSI: 11.4
+ADANIPOWER   Adani Power Limited          ₹  151.99 RSI: 13.7
+SHILPAMED    Shilpa Medicare Limited      ₹  377.45 RSI: 14.5
+TFCILTD      Tourism Finance Corporati... ₹   75.73 RSI: 14.8
+PAVNAIND     Pavna Industries Limited     ₹   36.54 RSI: 15.6
+BANARISUG    Bannari Amman Sugars Limi... ₹ 3359.20 RSI: 16.6
+ZYDUSWELL    Zydus Wellness Limited       ₹  452.30 RSI: 16.7
+GMMPFAUDLR   GMM Pfaudler Limited         ₹ 1020.60 RSI: 17.4
+TIMETECHNO   Time Technoplast Limited     ₹  219.35 RSI: 17.5
+VLEGOV       VL E-Governance & IT Solu... ₹   27.05 RSI: 18.9
+HDFCBANK     HDFC Bank Limited            ₹  973.45 RSI: 19.4
+VPRPL        Vishnu Prakash R Punglia ... ₹   92.99 RSI: 19.8
+FLEXITUFF    Flexituff Ventures Intern... ₹   22.68 RSI: 20.0
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+MAHASTEEL    Mahamaya Steel Industries... ₹  467.00 ADX: 75.5 UP
+HDFCBANK     HDFC Bank Limited            ₹  973.45 ADX: 69.4 DOWN
+CUPID        Cupid Limited                ₹  217.58 ADX: 66.1 UP
+AXISCADES    AXISCADES Technologies Li... ₹ 1689.30 ADX: 65.7 UP
+ATHERENERG   Ather Energy Limited         ₹  620.85 ADX: 65.7 UP
+TFCILTD      Tourism Finance Corporati... ₹   75.73 ADX: 64.8 DOWN
+PATANJALI    Patanjali Foods Limited      ₹  597.55 ADX: 63.6 DOWN
+IFBAGRO      IFB Agro Industries Limit... ₹  886.25 ADX: 63.4 UP
+EICHERMOT    Eicher Motors Limited        ₹ 6880.00 ADX: 62.4 UP
+NAZARA       Nazara Technologies Limit... ₹  279.25 ADX: 61.5 DOWN
+IMFA         Indian Metals & Ferro All... ₹ 1163.40 ADX: 61.4 UP
+NETWEB       Netweb Technologies India... ₹ 4212.20 ADX: 61.0 UP
+MARUTI       Maruti Suzuki India Limit... ₹15998.00 ADX: 60.6 UP
+SANOFI       Sanofi India Limited         ₹ 4776.80 ADX: 60.5 DOWN
+VPRPL        Vishnu Prakash R Punglia ... ₹   92.99 ADX: 59.1 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================
