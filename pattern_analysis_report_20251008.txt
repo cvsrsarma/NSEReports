@@ -17,48 +17,48 @@ However, these signals are probabilistic, not guarantees. Always use additional 
 
 ================================================================================
 📊 STOCK PATTERN ANALYSIS REPORT
-Generated: 2025-10-07
+Generated: 2025-10-08
 ================================================================================
 
 📈 SUMMARY STATISTICS:
 • Total Stocks Analyzed: 2189
-• Successful Analyses: 1886
-• Failed Analyses: 303
+• Successful Analyses: 1883
+• Failed Analyses: 306
 
 📊 SIGNAL DISTRIBUTION:
-• Bullish Signals: 839
-• Bearish Signals: 170
-• Neutral Signals: 877
+• Bullish Signals: 869
+• Bearish Signals: 139
+• Neutral Signals: 875
 
 ⚠️ RISK DISTRIBUTION:
-• Low Risk: 13
-• Moderate Risk: 622
-• High Risk: 945
-• Very High Risk: 306
+• Low Risk: 11
+• Moderate Risk: 631
+• High Risk: 941
+• Very High Risk: 300
 
 🏆 TOP 20 PATTERN OPPORTUNITIES:
 Symbol     Score  Signal   Confidence Risk     Price Change
 ----------------------------------------------------------------------
-MINDACORP  93.0   bullish  66.5       high         +18.56%
-NAGREEKCAP 90.0   bullish  65.0       very_high     +16.97%
-MRPL       80.0   neutral  60.0       high         +22.71%
-CENTEXT    79.0   bearish  59.4       very_high     +45.57%
-RACLGEAR   79.0   neutral  59.5       very_high     +40.16%
-ALANKIT    78.0   bullish  39.0       high         -12.53%
-ASHOKLEY   77.0   neutral  58.5       moderate      +7.71%
-RATEGAIN   75.0   neutral  57.5       high         +40.41%
-NLCINDIA   74.0   bullish  57.0       high         +24.46%
-BORANA     73.0   bearish  56.5       moderate      +7.35%
-INDBANK    73.0   neutral  36.5       high         +28.60%
-SAMBHAAV   73.0   neutral  36.5       high         +16.44%
-JAYNECOIND 72.0   neutral  56.0       high         +26.11%
-PRECWIRE   72.0   neutral  56.0       high         +21.79%
-IRCON      70.0   bullish  54.3       high         +13.32%
-JMA        66.0   neutral  33.0       high          +0.44%
-YESBANK    66.0   neutral  53.0       moderate     +18.95%
-SURAJLTD   65.0   bullish  51.7       high          +1.55%
-BANG       64.0   bearish  52.0       high          +8.40%
-IRFC       64.0   neutral  51.8       moderate      +7.17%
+MANOMAY    81.0   neutral  60.5       high         +16.32%
+ALANKIT    78.0   bullish  39.0       high         -13.32%
+ARIHANTSUP 78.0   neutral  58.2       high          +5.92%
+SAMBHAAV   78.0   neutral  39.0       high         +12.35%
+TARSONS    78.0   bullish  39.0       moderate      -4.71%
+ASHOKLEY   77.0   neutral  58.5       moderate      +9.76%
+MODIRUBBER 77.0   bearish  58.2       very_high     +23.67%
+SPCENET    73.0   bearish  56.5       very_high     +51.18%
+ONMOBILE   72.0   bullish  56.0       high         +35.71%
+AVALON     71.0   neutral  55.5       high         +47.98%
+VMART      71.0   neutral  35.5       high         +12.59%
+RAMCOSYS   69.0   bullish  54.3       high         +21.70%
+ZUARIIND   69.0   bullish  54.5       very_high     +16.21%
+IRFC       68.0   bullish  34.0       moderate      +5.24%
+SEQUENT    68.0   neutral  54.0       high         +27.23%
+ESSARSHPNG 67.0   neutral  53.5       high         +43.64%
+TVVISION   67.0   bearish  53.2       very_high      +5.75%
+AKSHAR     65.0   bearish  52.5       high          +8.77%
+NAGREEKCAP 65.0   neutral  52.5       very_high     +22.41%
+RBLBANK    65.0   neutral  52.5       moderate      +9.73%
 
 ================================================================================
 ⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️

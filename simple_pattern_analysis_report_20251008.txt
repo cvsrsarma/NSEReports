@@ -1,7 +1,7 @@
 
 ================================================================================
 SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
-Generated: 2025-10-07
+Generated: 2025-10-08
 ================================================================================
 
 DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
@@ -16,37 +16,37 @@ METHODOLOGY & NOTES:
 
 SUMMARY STATISTICS:
   Total Stocks Analyzed: 2189
-  Successful Analyses: 1886
-  Failed Analyses: 303
+  Successful Analyses: 1883
+  Failed Analyses: 306
 
 SIGNAL DISTRIBUTION:
-  Bullish Signals: 1044
-  Bearish Signals: 81
-  Neutral Signals: 761
+  Bullish Signals: 1148
+  Bearish Signals: 61
+  Neutral Signals: 674
 
 TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
 Symbol     Score  Signal   Price      Change%    Trend     
 ----------------------------------------------------------------------
-NTPC       75     bullish  ₹338.00      +2.18% bullish   
-SAIL       75     bullish  ₹132.88     +11.43% bullish   
-MEDICO     70     neutral  ₹48.28      +26.42% bullish   
-ADANIPORTS 65     bullish  ₹1399.50     +6.39% bullish   
-CENTURYPLY 65     bullish  ₹817.10     +11.79% bullish   
-EKC        65     bullish  ₹141.46      +3.70% bullish   
-HEG        65     bullish  ₹510.75      +8.45% bullish   
-TATACONSUM 65     bullish  ₹1120.00     +5.42% bullish   
-ACCELYA    60     bearish  ₹1499.60     +7.21% bullish   
-AGARWALEYE 60     bearish  ₹506.00     +15.24% bullish   
-BPCL       60     bearish  ₹341.90     +10.04% bullish   
-FUSION     60     bearish  ₹193.14     +14.40% bullish   
-JSWSTEEL   60     bearish  ₹1156.80    +11.68% bullish   
-MINDACORP  60     bearish  ₹594.35     +18.56% bullish   
-NATCAPSUQ  60     bearish  ₹272.05     +38.40% bullish   
-PGHH       60     bearish  ₹14279.00    +9.23% bullish   
+MEDICO     70     neutral  ₹48.28      +26.29% bullish   
+WHEELS     70     neutral  ₹920.35     +25.56% bullish   
+EICHERMOT  65     bullish  ₹6902.50    +13.10% bullish   
+ICICIGI    65     bullish  ₹1878.10     +2.09% bullish   
+KAYNES     65     bullish  ₹7189.00    +17.41% bullish   
+TATACONSUM 65     bullish  ₹1120.20     +5.14% bullish   
+BPCL       60     bearish  ₹345.10     +11.97% bullish   
+FUSION     60     bearish  ₹193.99     +13.77% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +38.45% bullish   
+PGHH       60     bearish  ₹14288.00    +9.19% bullish   
 SHRENIK    60     bearish  ₹0.56        +5.66% bullish   
-SMCGLOBAL  60     bearish  ₹142.63      +9.90% bullish   
-BANG       55     bullish  ₹53.82       +8.40% bullish   
-BRNL       55     bullish  ₹23.78      +20.22% bullish   
+AFCONS     55     bullish  ₹459.00      +9.86% bullish   
+BRNL       55     bullish  ₹24.42      +27.99% bullish   
+CENTURYPLY 55     bullish  ₹820.10      +9.87% bullish   
+CGPOWER    55     bullish  ₹743.95      +7.15% bullish   
+CONTROLPR  55     bullish  ₹783.70      +1.27% bullish   
+DOLLAR     55     bullish  ₹363.10      +2.95% bullish   
+ELECTHERM  55     bullish  ₹1110.35    +30.49% bullish   
+IGARASHI   55     bullish  ₹538.80     +12.54% bullish   
+MFSL       55     bullish  ₹1568.70     -2.09% bearish   
 
 ================================================================================
 ⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️

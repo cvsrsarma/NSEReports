@@ -16,37 +16,37 @@ METHODOLOGY & NOTES:
 
 SUMMARY STATISTICS:
   Total Stocks Analyzed: 2189
-  Successful Analyses: 1886
-  Failed Analyses: 303
+  Successful Analyses: 1864
+  Failed Analyses: 325
 
 SIGNAL DISTRIBUTION:
-  Bullish Signals: 1044
-  Bearish Signals: 81
-  Neutral Signals: 761
+  Bullish Signals: 958
+  Bearish Signals: 106
+  Neutral Signals: 800
 
 TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
 Symbol     Score  Signal   Price      Change%    Trend     
 ----------------------------------------------------------------------
-NTPC       75     bullish  ₹338.00      +2.18% bullish   
-SAIL       75     bullish  ₹132.88     +11.43% bullish   
+SAIL       75     bullish  ₹132.62     +11.21% bullish   
+ACCELYA    70     neutral  ₹1499.40     +7.19% bullish   
 MEDICO     70     neutral  ₹48.28      +26.42% bullish   
-ADANIPORTS 65     bullish  ₹1399.50     +6.39% bullish   
-CENTURYPLY 65     bullish  ₹817.10     +11.79% bullish   
-EKC        65     bullish  ₹141.46      +3.70% bullish   
-HEG        65     bullish  ₹510.75      +8.45% bullish   
-TATACONSUM 65     bullish  ₹1120.00     +5.42% bullish   
-ACCELYA    60     bearish  ₹1499.60     +7.21% bullish   
-AGARWALEYE 60     bearish  ₹506.00     +15.24% bullish   
-BPCL       60     bearish  ₹341.90     +10.04% bullish   
-FUSION     60     bearish  ₹193.14     +14.40% bullish   
-JSWSTEEL   60     bearish  ₹1156.80    +11.68% bullish   
-MINDACORP  60     bearish  ₹594.35     +18.56% bullish   
+SILINV     70     neutral  ₹629.25     +12.01% bullish   
+SMCGLOBAL  70     neutral  ₹143.22     +10.36% bullish   
+UCOBANK    70     neutral  ₹31.30      +11.03% bullish   
+ADANIPORTS 65     bullish  ₹1400.50     +6.47% bullish   
+BAJFINANCE 65     bullish  ₹1008.90    +15.06% bullish   
+CENTURYPLY 65     bullish  ₹816.25     +11.67% bullish   
+EKC        65     bullish  ₹142.11      +4.18% bullish   
+BELRISE    60     bearish  ₹161.33     +15.15% bullish   
+EQUITASBNK 60     bearish  ₹58.05      +14.11% bullish   
+GMBREW     60     bearish  ₹736.10      +9.37% bullish   
+JSWSTEEL   60     bearish  ₹1159.90    +11.98% bullish   
+LT         60     bearish  ₹3737.00     +4.97% bullish   
 NATCAPSUQ  60     bearish  ₹272.05     +38.40% bullish   
-PGHH       60     bearish  ₹14279.00    +9.23% bullish   
-SHRENIK    60     bearish  ₹0.56        +5.66% bullish   
-SMCGLOBAL  60     bearish  ₹142.63      +9.90% bullish   
-BANG       55     bullish  ₹53.82       +8.40% bullish   
-BRNL       55     bullish  ₹23.78      +20.22% bullish   
+PGHH       60     bearish  ₹14380.00   +10.01% bullish   
+SBIN       60     bearish  ₹874.05      +8.99% bullish   
+SHREEPUSHK 60     bullish  ₹429.30     +33.93% bullish   
+SJS        60     bearish  ₹1545.60    +15.07% bullish   
 
 ================================================================================
 ⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
