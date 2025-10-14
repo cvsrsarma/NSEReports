@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-13
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1899
+  Failed Analyses: 290
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1104
+  Bearish Signals: 97
+  Neutral Signals: 698
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+MEDICO     70     neutral  ₹48.28      +19.56% bullish   
+INGERRAND  65     bullish  ₹3919.50     +1.66% bullish   
+JSWSTEEL   65     bullish  ₹1161.40     +8.32% bullish   
+ADANIGREEN 60     bullish  ₹1051.30    +12.35% bullish   
+BANKBARODA 60     bearish  ₹268.10     +12.45% bullish   
+KOTAKBANK  60     bearish  ₹2152.10     +9.79% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +31.37% bullish   
+SBICARD    60     bearish  ₹920.85     +15.78% bullish   
+STARHEALTH 60     bearish  ₹479.70      +6.12% bullish   
+WHEELS     60     bearish  ₹927.70     +25.00% bullish   
+ASIANPAINT 55     bullish  ₹2342.50     -8.28% bearish   
+ATGL       55     bullish  ₹625.35      +4.72% bullish   
+BLISSGVS   55     bullish  ₹154.78      -2.45% bearish   
+CEATLTD    55     bullish  ₹3578.60     +7.82% bullish   
+COLPAL     55     bullish  ₹2221.20     -6.75% bearish   
+HDFCBANK   55     bullish  ₹977.00      +2.36% bullish   
+JAGRAN     55     bullish  ₹71.76       -0.22% bearish   
+KAPSTON    55     bullish  ₹249.06      +2.65% bullish   
+ONESOURCE  55     bullish  ₹1849.80     -2.59% bearish   
+SANATHAN   55     bullish  ₹499.85      -2.50% bearish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-14
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1898
+  Failed Analyses: 291
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1227
+  Bearish Signals: 52
+  Neutral Signals: 619
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+PGHH       80     neutral  ₹14246.00    +5.33% bullish   
+ONGC       75     bullish  ₹244.69      +3.81% bullish   
+FINOPB     70     neutral  ₹313.50     +15.17% bullish   
+MEDICO     70     neutral  ₹48.28      +22.20% bullish   
+UNIPARTS   70     neutral  ₹495.25     +20.60% bullish   
+BBL        65     bullish  ₹3153.30     +5.18% bullish   
+HEROMOTOCO 65     bullish  ₹5571.50     +4.12% bullish   
+JSWSTEEL   65     bullish  ₹1147.80     +7.03% bullish   
+LICI       65     bullish  ₹902.00      +2.72% bullish   
+LPDC       65     bullish  ₹8.09        +3.59% bullish   
+SRGHFL     65     bullish  ₹298.90      -0.30% bullish   
+ADANIENT   60     bullish  ₹2517.00    +10.45% bullish   
+INDIANB    60     bearish  ₹768.15     +15.65% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +26.87% bullish   
+WHEELS     60     bearish  ₹924.85     +25.45% bullish   
+BEML       55     bullish  ₹4359.00    +10.31% bullish   
+BLISSGVS   55     bullish  ₹153.05      -2.02% bullish   
+COLPAL     55     bullish  ₹2202.40    -10.64% bearish   
+GLAXO      55     bullish  ₹2763.60     -3.09% bearish   
+GRINDWELL  55     bullish  ₹1673.20     +4.42% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

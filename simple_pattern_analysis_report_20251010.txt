@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-10
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1882
+  Failed Analyses: 307
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1071
+  Bearish Signals: 117
+  Neutral Signals: 694
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+MEDICO     70     neutral  ₹48.28      +19.27% bullish   
+MUNJALAU   65     bullish  ₹98.49      +10.87% bullish   
+BANKBARODA 60     bearish  ₹266.95     +13.88% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +38.47% bullish   
+NGLFINE    60     neutral  ₹1540.20     +4.53% bullish   
+ONGC       60     bearish  ₹246.34      +3.19% bullish   
+PGHH       60     bearish  ₹14292.00    +7.58% bullish   
+SANGINITA  60     bearish  ₹10.69      +11.24% bullish   
+ABB        55     bullish  ₹5186.00     +1.14% bullish   
+ACCELYA    55     bullish  ₹1500.20     +6.59% bullish   
+ADOR       55     bullish  ₹1028.50     +6.31% bullish   
+AFCONS     55     bullish  ₹463.35      +8.90% bullish   
+ASIANPAINT 55     bullish  ₹2340.20     -8.95% bearish   
+CAMS       55     bullish  ₹3860.80     +0.55% bearish   
+CENTRALBK  55     bullish  ₹38.12       +8.76% bullish   
+CESC       55     bullish  ₹171.16      +9.69% bullish   
+COLPAL     55     bullish  ₹2227.80     -5.61% bearish   
+DOLLAR     55     bullish  ₹362.30      +1.74% bullish   
+IGARASHI   55     bullish  ₹540.45     +12.68% bullish   
+KAYNES     55     bullish  ₹7102.00     +7.61% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-10-10 23:02:54
+Data Date: 2025-10-10
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹155395.00 RSI: 59.4
+NEULANDLAB   Neuland Laboratories Limi... ₹16316.00 RSI: 64.6
+MARUTI       Maruti Suzuki India Limit... ₹16265.00 RSI: 70.0
+PTCIL        PTC Industries Limited       ₹16247.00 RSI: 62.1
+PGHH         Procter & Gamble Hygiene ... ₹14292.00 RSI: 65.1
+TVSHLTD      TVS Holdings Limited         ₹13303.00 RSI: 60.9
+TATAINVEST   Tata Investment Corporati... ₹ 9295.00 RSI: 61.2
+ASTRAZEN     AstraZeneca Pharma India ... ₹ 9262.00 RSI: 57.8
+OFSS         Oracle Financial Services... ₹ 9213.00 RSI: 58.1
+BAJAJ-AUTO   Bajaj Auto Limited           ₹ 8946.50 RSI: 55.4
+MCX          Multi Commodity Exchange ... ₹ 8688.50 RSI: 70.6
+AMBER        Amber Enterprises India L... ₹ 8284.50 RSI: 57.8
+DYNAMATECH   Dynamatic Technologies Li... ₹ 7797.00 RSI: 72.2
+POLYCAB      Polycab India Limited        ₹ 7730.00 RSI: 69.1
+NSIL         Nalwa Sons Investments Li... ₹ 7696.50 RSI: 60.2
+NUVAMA       Nuvama Wealth Management ... ₹ 7235.50 RSI: 71.2
+EICHERMOT    Eicher Motors Limited        ₹ 6965.00 RSI: 65.0
+DIVISLAB     Divi's Laboratories Limit... ₹ 6474.50 RSI: 69.2
+ORISSAMINE   The Orissa Minerals Devel... ₹ 5574.40 RSI: 65.0
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 5500.00 RSI: 60.9
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+NAZARA       Nazara Technologies Limit... ₹  264.95 RSI:  9.0
+PATANJALI    Patanjali Foods Limited      ₹  594.10 RSI: 11.4
+PIDILITIND   Pidilite Industries Limit... ₹ 1510.60 RSI: 12.1
+SHANKARA     Shankara Building Product... ₹  134.88 RSI: 12.4
+ADANIPOWER   Adani Power Limited          ₹  149.70 RSI: 13.9
+TFCILTD      Tourism Finance Corporati... ₹   73.85 RSI: 14.6
+AGIIL        Agi Infra Limited            ₹  287.90 RSI: 14.9
+SHILPAMED    Shilpa Medicare Limited      ₹  366.80 RSI: 16.0
+ZYDUSWELL    Zydus Wellness Limited       ₹  456.00 RSI: 17.4
+LGHL         Laxmi Goldorna House Limi... ₹  368.25 RSI: 17.5
+NIRAJ        Niraj Cement Structurals ... ₹   35.04 RSI: 18.2
+TIMETECHNO   Time Technoplast Limited     ₹  222.24 RSI: 18.8
+21STCENMGM   21st Century Management S... ₹   47.20 RSI: 19.2
+PAVNAIND     Pavna Industries Limited     ₹   40.13 RSI: 19.6
+FLEXITUFF    Flexituff Ventures Intern... ₹   21.65 RSI: 19.7
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+MAHASTEEL    Mahamaya Steel Industries... ₹  522.70 ADX: 77.2 UP
+IFBAGRO      IFB Agro Industries Limit... ₹  972.75 ADX: 68.4 UP
+PATANJALI    Patanjali Foods Limited      ₹  594.10 ADX: 67.9 DOWN
+NAZARA       Nazara Technologies Limit... ₹  264.95 ADX: 67.0 DOWN
+TFCILTD      Tourism Finance Corporati... ₹   73.85 ADX: 66.9 DOWN
+CUPID        Cupid Limited                ₹  246.26 ADX: 65.9 UP
+HDFCBANK     HDFC Bank Limited            ₹  980.90 ADX: 65.0 DOWN
+ATHERENERG   Ather Energy Limited         ₹  594.85 ADX: 64.8 UP
+ISHANCH      Ishan Dyes and Chemicals ... ₹   80.44 ADX: 64.1 UP
+ZYDUSWELL    Zydus Wellness Limited       ₹  456.00 ADX: 61.2 DOWN
+STALLION     Stallion India Fluorochem... ₹  306.90 ADX: 60.5 UP
+NETWEB       Netweb Technologies India... ₹ 4027.50 ADX: 60.2 UP
+SANOFI       Sanofi India Limited         ₹ 4698.90 ADX: 60.0 DOWN
+PIDILITIND   Pidilite Industries Limit... ₹ 1510.60 ADX: 59.7 DOWN
+VPRPL        Vishnu Prakash R Punglia ... ₹   97.61 ADX: 59.6 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

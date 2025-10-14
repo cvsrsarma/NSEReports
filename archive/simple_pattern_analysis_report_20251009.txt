@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-09
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1882
+  Failed Analyses: 307
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1104
+  Bearish Signals: 83
+  Neutral Signals: 695
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+MEDICO     70     neutral  ₹48.28      +19.27% bullish   
+USHAMART   70     neutral  ₹481.60     +23.96% bullish   
+EICHERMOT  65     bullish  ₹6896.50     +9.82% bullish   
+ICICIGI    65     bullish  ₹1882.70     +2.30% bullish   
+KAYNES     65     bullish  ₹7102.50     +7.61% bullish   
+TATACONSUM 65     bullish  ₹1118.00     +3.93% bullish   
+BPCL       60     bearish  ₹344.00      +9.29% bullish   
+FUSION     60     bearish  ₹192.67     +10.81% bullish   
+INDIANB    60     bearish  ₹766.20     +14.61% bullish   
+JSWSTEEL   60     bearish  ₹1175.20    +13.49% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +38.47% bullish   
+PGHH       60     bearish  ₹14194.00    +6.84% bullish   
+SHRIRAMFIN 60     bearish  ₹669.05     +13.67% bullish   
+ABB        55     bullish  ₹5146.50     +0.37% bullish   
+BANG       55     bullish  ₹54.54       +9.83% bullish   
+CESC       55     bullish  ₹170.25      +9.11% bullish   
+COLPAL     55     bullish  ₹2208.60     -6.42% bearish   
+DOLLAR     55     bullish  ₹362.60      +1.83% bullish   
+INDIAGLYCO 55     bullish  ₹929.35     +14.10% bullish   
+KIRLOSIND  55     bullish  ₹3909.80     +4.12% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

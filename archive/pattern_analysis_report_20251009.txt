@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-09
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1882
+• Failed Analyses: 307
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 918
+• Bearish Signals: 165
+• Neutral Signals: 799
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 16
+• Moderate Risk: 637
+• High Risk: 924
+• Very High Risk: 305
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+RAMCOSYS   98.0   bullish  69.0       very_high     +28.78%
+MANOMAY    96.0   bullish  68.0       high         +20.01%
+PRECWIRE   91.0   bullish  65.5       high         +23.31%
+HINDZINC   79.0   neutral  59.5       moderate     +17.52%
+ALKALI     78.0   bearish  58.9       high         +19.96%
+CUPID      78.0   bearish  59.0       high         +39.21%
+KALYANIFRG 78.0   neutral  39.0       high         +15.00%
+ANDHRSUGAR 75.0   neutral  37.5       moderate      +7.34%
+MOLDTECH   74.0   neutral  57.0       high         +23.83%
+SPCENET    74.0   bearish  57.0       very_high     +58.62%
+SUNDARMHLD 74.0   bullish  57.0       high         +39.28%
+ARIHANTSUP 72.0   neutral  55.9       high          +8.32%
+SAMBHAAV   72.0   neutral  36.0       high         +14.33%
+VMART      71.0   neutral  55.2       high         +13.75%
+AKSHAR     68.0   bearish  54.0       high         +19.30%
+NAGREEKCAP 68.0   neutral  54.0       very_high     +42.41%
+SHANTI     68.0   neutral  54.0       very_high     +25.16%
+WAAREERTL  68.0   bullish  34.0       high          +6.92%
+ZENITHSTL  68.0   bearish  34.0       high         +19.90%
+KEYFINSERV 67.0   bearish  33.5       very_high     +25.38%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
