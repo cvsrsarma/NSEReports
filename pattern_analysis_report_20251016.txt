@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-16
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1896
+• Failed Analyses: 293
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 917
+• Bearish Signals: 256
+• Neutral Signals: 723
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 17
+• Moderate Risk: 701
+• High Risk: 867
+• Very High Risk: 311
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+TARAPUR    95.0   bullish  67.5       very_high     +50.16%
+CTE        88.0   neutral  63.9       high         +34.08%
+ALLCARGO   79.0   neutral  39.5       high         +13.34%
+GUJRAFFIA  79.0   neutral  39.5       very_high     +36.71%
+PUNJABCHEM 79.0   neutral  59.5       high         +29.76%
+SAMMAANCAP 79.0   neutral  59.5       high         +21.18%
+TRACXN     79.0   neutral  39.5       moderate      +8.56%
+DIL        78.0   bearish  39.0       very_high      +4.19%
+PRIVISCL   78.0   neutral  59.0       high         +19.12%
+GOYALALUM  77.0   bearish  38.5       high          -5.77%
+HUHTAMAKI  77.0   bearish  38.5       high          +8.75%
+INDIAGLYCO 75.0   neutral  57.5       high         +21.38%
+LT         75.0   neutral  57.5       moderate      +9.41%
+ZEEMEDIA   73.0   bullish  36.5       high         -16.64%
+SBC        70.0   bullish  55.0       moderate     +13.68%
+ASAHIINDIA 69.0   bullish  34.5       high          +9.52%
+ORCHASP    69.0   neutral  54.5       high         +46.69%
+TAKE       67.0   bearish  53.5       high         +66.70%
+GOODLUCK   66.0   bullish  53.0       high          +4.30%
+GSPL       66.0   bullish  53.0       moderate      +5.51%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

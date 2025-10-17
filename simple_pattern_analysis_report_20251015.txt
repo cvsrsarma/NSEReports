@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-15
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1897
+  Failed Analyses: 292
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1113
+  Bearish Signals: 101
+  Neutral Signals: 683
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+HDFCBANK   70     neutral  ₹978.25      +1.54% bullish   
+MEDICO     70     neutral  ₹48.28      +22.32% bullish   
+JSWSTEEL   65     bullish  ₹1160.80     +8.17% bullish   
+LICI       65     bullish  ₹898.95      +2.46% bullish   
+AWL        60     bearish  ₹267.90      +1.96% bullish   
+BANARBEADS 60     bearish  ₹150.97     +45.39% bullish   
+DYNAMATECH 60     bearish  ₹7814.00    +18.14% bullish   
+KOTAKBANK  60     bearish  ₹2149.60    +10.49% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +30.74% bullish   
+NUVAMA     60     bearish  ₹7217.50    +10.88% bullish   
+SBICARD    60     bearish  ₹929.20     +17.40% bullish   
+TARACHAND  60     bearish  ₹94.78      +38.28% bullish   
+TVSMOTOR   60     neutral  ₹3574.90     +2.83% bearish   
+ACC        55     bullish  ₹1857.40     +1.55% bullish   
+AIAENG     55     bullish  ₹3238.70     +6.10% bullish   
+ATGL       55     bullish  ₹619.00      +4.84% bullish   
+BAJAJINDEF 55     bullish  ₹406.95     +13.37% bullish   
+COLPAL     55     bullish  ₹2227.10     -8.10% bearish   
+GLAXO      55     bullish  ₹2735.70     -1.25% bearish   
+GLFL       55     bullish  ₹6.45        +8.04% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

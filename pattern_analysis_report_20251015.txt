@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-15
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1897
+• Failed Analyses: 292
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 972
+• Bearish Signals: 233
+• Neutral Signals: 692
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 14
+• Moderate Risk: 673
+• High Risk: 890
+• Very High Risk: 320
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+CTE        89.0   neutral  63.8       high         +29.79%
+ORIENTLTD  84.0   neutral  42.0       high          +0.11%
+GOYALALUM  82.0   bearish  41.0       high          -5.53%
+GUJRAFFIA  80.0   neutral  40.0       very_high     +15.58%
+LATTEYS    80.0   neutral  40.0       very_high     +19.05%
+STALLION   80.0   neutral  60.0       very_high    +108.82%
+TARAPUR    80.0   bullish  60.0       very_high     +48.57%
+SAMMAANCAP 79.0   bullish  59.5       high         +19.73%
+TATAINVEST 79.0   bullish  39.5       very_high     -86.08%
+DIL        78.0   bearish  39.0       very_high      +5.29%
+ICICIGI    77.0   bearish  57.7       moderate      +9.78%
+LT         75.0   neutral  57.5       moderate      +7.74%
+AUBANK     74.0   neutral  57.0       moderate     +15.53%
+VAISHALI   72.0   bullish  36.0       high         -12.68%
+VIPULLTD   72.0   bullish  36.0       very_high     -22.16%
+HEIDELBERG 71.0   bullish  35.5       moderate      -9.61%
+KAMOPAINTS 70.0   bullish  35.0       high         -14.12%
+PSPPROJECT 68.0   bullish  34.0       high          +7.77%
+TAKE       67.0   bearish  53.5       high         +66.70%
+BIRLAMONEY 65.0   bullish  32.5       high         -11.84%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

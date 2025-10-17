@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-16
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1896
+  Failed Analyses: 293
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 992
+  Bearish Signals: 129
+  Neutral Signals: 775
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+BBL        75     bullish  ₹3138.40     +2.96% bullish   
+LPDC       75     bullish  ₹7.99        +1.91% bullish   
+AGARWALEYE 70     neutral  ₹541.50     +25.94% bullish   
+MEDICO     70     neutral  ₹48.28      +23.07% bullish   
+FORTIS     60     bearish  ₹1095.25    +16.16% bullish   
+IIFL       60     bearish  ₹499.90     +11.73% bullish   
+MUTHOOTFIN 60     bearish  ₹3268.50    +12.67% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +31.81% bullish   
+NUVAMA     60     bearish  ₹7225.50    +12.39% bullish   
+SAMMAANCAP 60     bearish  ₹166.89     +21.18% bullish   
+SBICARD    60     bearish  ₹934.85     +16.30% bullish   
+SHRIRAMFIN 60     bearish  ₹672.50     +12.69% bullish   
+TVSSRICHAK 60     bearish  ₹3907.90    +31.21% bullish   
+YATRA      60     neutral  ₹164.36      +1.99% bullish   
+ACC        55     bullish  ₹1860.10     +1.19% bullish   
+AGI        55     bullish  ₹870.80      +0.94% bullish   
+ATGL       55     bullish  ₹621.65      +4.96% bullish   
+AXISBANK   55     bullish  ₹1196.30    +13.34% bullish   
+BLISSGVS   55     bullish  ₹152.53      -1.13% bullish   
+GUJTHEM    55     bullish  ₹430.25     +12.13% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-17
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1896
+• Failed Analyses: 293
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 934
+• Bearish Signals: 250
+• Neutral Signals: 712
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 13
+• Moderate Risk: 687
+• High Risk: 868
+• Very High Risk: 328
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+DIL        82.0   bearish  41.0       very_high      +3.66%
+SALONA     79.0   neutral  59.4       very_high     +12.04%
+CEATLTD    78.0   neutral  59.0       moderate     +10.28%
+GUJRAFFIA  78.0   neutral  58.6       very_high     +64.05%
+HYBRIDFIN  78.0   bearish  59.0       very_high     +59.91%
+PNBGILTS   78.0   bullish  39.0       high         -10.23%
+PRIVISCL   78.0   neutral  59.0       high         +18.17%
+SELMC      78.0   bearish  39.0       high         +17.09%
+TPLPLASTEH 78.0   bullish  39.0       high          -8.96%
+DTIL       77.0   bullish  38.5       very_high     -23.15%
+HUHTAMAKI  77.0   bearish  57.9       high         +13.10%
+NESTLEIND  77.0   neutral  38.5       moderate      +8.57%
+MCLOUD     76.0   bullish  38.0       very_high     -24.64%
+TVSMOTOR   76.0   bearish  38.0       moderate      +1.75%
+DCW        74.0   bullish  37.0       high         -13.72%
+ICEMAKE    74.0   bullish  37.0       high          -5.23%
+NIVABUPA   74.0   bullish  37.0       moderate      -8.79%
+ZEEMEDIA   74.0   bullish  37.0       high         -20.27%
+HDFCBANK   72.0   bearish  56.0       low           +3.78%
+TARAPUR    70.0   neutral  55.0       very_high     +57.64%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

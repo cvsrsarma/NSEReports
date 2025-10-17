@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-17
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1896
+  Failed Analyses: 293
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 985
+  Bearish Signals: 114
+  Neutral Signals: 797
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+JSWENERGY  75     bullish  ₹540.80      +6.00% bullish   
+BAJAJCON   70     neutral  ₹269.26     +20.10% bullish   
+ETERNAL    70     neutral  ₹342.65      +3.94% bullish   
+MEDICO     70     neutral  ₹48.28      +23.07% bullish   
+NSIL       70     neutral  ₹8213.00    +14.11% bullish   
+TDPOWERSYS 70     neutral  ₹657.60     +16.50% bullish   
+JSWSTEEL   65     bullish  ₹1163.30     +5.62% bullish   
+LPDC       65     bullish  ₹8.06        +2.81% bullish   
+PNB        65     bullish  ₹113.70      +9.11% bullish   
+PREMEXPLN  65     bullish  ₹617.40     +10.65% bullish   
+ACCELYA    60     bearish  ₹1499.70     +7.09% bullish   
+APLAPOLLO  60     bearish  ₹1754.10     +3.71% bullish   
+ASTERDM    60     bearish  ₹702.45      +9.95% bullish   
+CANFINHOME 60     bearish  ₹801.05      +7.39% bullish   
+DYNAMATECH 60     bearish  ₹7894.00    +20.72% bullish   
+FORTIS     60     bearish  ₹1084.90    +15.06% bullish   
+IIFL       60     bearish  ₹498.55     +11.43% bullish   
+LTIM       60     neutral  ₹5605.00    +10.14% bullish   
+NATCAPSUQ  60     bearish  ₹272.05     +31.81% bullish   
+SBICARD    60     bearish  ₹927.00     +15.32% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
