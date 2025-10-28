@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-28
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1887
+  Failed Analyses: 302
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 999
+  Bearish Signals: 96
+  Neutral Signals: 792
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+PRECWIRE   70     neutral  ₹221.95     +21.71% bullish   
+GKWLIMITED 65     bullish  ₹1718.60     +0.99% bullish   
+ARMANFIN   60     bearish  ₹1661.90    +16.58% bullish   
+BUTTERFLY  60     neutral  ₹719.75      +2.62% bullish   
+CELLO      60     neutral  ₹623.75      -0.08% bullish   
+INFIBEAM   60     bearish  ₹19.24      +18.55% bullish   
+MANOMAY    60     bearish  ₹210.99     +22.54% bullish   
+MTARTECH   60     bearish  ₹2280.80    +28.69% bullish   
+SIYSIL     60     bearish  ₹757.60      +9.63% bullish   
+COLPAL     55     bullish  ₹2232.70     -5.62% bearish   
+ICICIPRULI 55     bullish  ₹600.50      -0.74% bearish   
+IOC        55     bullish  ₹154.52      +5.01% bullish   
+LTF        55     bullish  ₹268.35      +8.48% bullish   
+MUTHOOTFIN 55     bullish  ₹3182.00     +7.59% bullish   
+PIXTRANS   55     bullish  ₹1452.10     +1.25% bullish   
+PUNJABCHEM 55     bullish  ₹1448.50    +13.48% bullish   
+ASAHIINDIA 50     bearish  ₹933.15      +1.79% bullish   
+BAJAJCON   50     bearish  ₹268.48      +4.13% bullish   
+BAJFINANCE 50     bullish  ₹1072.75     +7.65% bullish   
+BANKINDIA  50     bullish  ₹141.09     +18.55% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-21
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1895
+• Failed Analyses: 294
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 899
+• Bearish Signals: 261
+• Neutral Signals: 735
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 11
+• Moderate Risk: 697
+• High Risk: 876
+• Very High Risk: 311
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+HYBRIDFIN  79.0   bearish  59.5       very_high     +91.01%
+POCL       79.0   neutral  59.3       very_high     +12.42%
+PRIVISCL   79.0   neutral  59.5       high         +23.67%
+SELMC      79.0   bearish  58.5       high         +26.90%
+NETWORK18  78.0   bullish  39.0       high         -10.31%
+NIVABUPA   78.0   bullish  39.0       moderate      -8.83%
+ORIENTLTD  78.0   neutral  39.0       high          +4.32%
+AUBANK     77.0   neutral  58.5       moderate     +21.70%
+CEATLTD    77.0   neutral  58.5       high         +27.18%
+GHCL       77.0   neutral  58.5       moderate     +15.98%
+INDBANK    77.0   neutral  58.5       very_high     +30.57%
+TATASTEEL  77.0   neutral  38.5       moderate      +1.50%
+SALONA     75.0   neutral  57.4       very_high     +14.24%
+BBTC       74.0   neutral  37.0       high          +8.28%
+MCLOUD     74.0   bullish  37.0       very_high     -23.59%
+RELIANCE   72.0   neutral  36.0       low           +6.04%
+ATALREAL   71.0   bullish  55.5       high         +16.80%
+BAJFINANCE 71.0   neutral  55.5       moderate     +11.41%
+INOXGREEN  71.0   bullish  55.5       high         +51.49%
+NESTLEIND  71.0   neutral  35.5       moderate      +5.29%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

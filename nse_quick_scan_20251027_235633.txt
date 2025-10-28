@@ -1,0 +1,38 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-10-27 23:56:33
+Data Date: 2025-10-27
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+AWFIS        Awfis Space Solutions Lim... ₹  613.55 RSI: 62.3
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+WALCHANNAG   Walchandnagar Industries ... ₹  169.05 RSI: 32.8
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+AUBANK       AU Small Finance Bank Lim... ₹  864.20 ADX: 31.4 UP
+
+============================================================
+SUMMARY: 1 Bullish | 1 Oversold | 1 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

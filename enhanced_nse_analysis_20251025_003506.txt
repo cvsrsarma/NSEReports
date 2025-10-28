@@ -1,0 +1,87 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This enhanced scan uses multiple technical analysis strategies to highlight stocks:
+- Golden Cross: SMA50 > SMA200 with bullish momentum.
+- Breakout stocks: Price breaking above Bollinger Bands with strength.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover with positive histogram.
+- Stochastic recovery: Oversold recovery with Stochastic turning up.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud with bullish signals.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+ENHANCED NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-10-25 00:35:06
+Data Date: 2025-10-24
+
+🥇 GOLDEN CROSS STOCKS
+------------------------------------------------------------
+Description: Golden Cross (SMA50 > SMA200) with bullish momentum
+
+MONTECARLO   Monte Carlo Fashions Limited   ₹  695.25 RSI:  61.6 SMA50:   647.0
+PNGJL        P N Gadgil Jewellers Limited   ₹  671.40 RSI:  61.1 SMA50:   620.9
+AADHARHFC    Aadhar Housing Finance Limited ₹  522.60 RSI:  56.0 SMA50:   509.5
+PANACEABIO   Panacea Biotec Limited         ₹  440.80 RSI:  55.6 SMA50:   427.5
+ARIES        Aries Agro Limited             ₹  400.00 RSI:  54.6 SMA50:   387.7
+
+📈 BREAKOUT STOCKS
+------------------------------------------------------------
+Description: Breaking above Bollinger Bands with strength
+
+No stocks found matching criteria
+
+🔥 TRENDING STOCKS
+------------------------------------------------------------
+Description: Strong directional movement (ADX > 35)
+
+AGIIL        Agi Infra Limited              ₹  264.80 ADX:  55.7 DOWN
+GODFRYPHLP   Godfrey Phillips India Limited ₹ 3122.70 ADX:  53.2 DOWN
+
+🚀 MACD BULLISH
+------------------------------------------------------------
+Description: Bullish MACD crossover with positive histogram
+
+ARIES        Aries Agro Limited             ₹  400.00 MACD:  -4.38 Hist:   1.38
+PNGJL        P N Gadgil Jewellers Limited   ₹  671.40 MACD:  16.51 Hist:   0.79
+PANACEABIO   Panacea Biotec Limited         ₹  440.80 MACD:   6.75 Hist:   0.68
+KAKATCEM     Kakatiya Cement Sugar & Industries Limited ₹  146.69 MACD:  -1.82 Hist:   0.38
+HFCL         HFCL Limited                   ₹   77.74 MACD:   0.82 Hist:   0.23
+IREDA        Indian Renewable Energy Development Agency Limited ₹  153.40 MACD:   0.91 Hist:   0.12
+MONTECARLO   Monte Carlo Fashions Limited   ₹  695.25 MACD:  16.71 Hist:   0.09
+MOTHERSON    Samvardhana Motherson International Limited ₹  106.25 MACD:   0.60 Hist:   0.06
+MAHAPEXLTD   Maha Rashtra Apex Corporation Limited ₹   98.53 MACD:  -1.40 Hist:   0.04
+JPPOWER      Jaiprakash Power Ventures Limited ₹   17.96 MACD:  -0.18 Hist:   0.03
+JAGRAN       Jagran Prakashan Limited       ₹   71.57 MACD:  -0.11 Hist:   0.01
+
+🔄 STOCHASTIC RECOVERY
+------------------------------------------------------------
+Description: Oversold recovery with Stochastic turning up
+
+IMFA         Indian Metals & Ferro Alloys Limited ₹ 1081.20 K%:   6.5 D%:   4.6
+
+📊 HIGH VOLUME
+------------------------------------------------------------
+Description: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+------------------------------------------------------------
+Description: Above Ichimoku cloud with bullish signals
+
+No stocks found matching criteria
+
+================================================================================
+ANALYSIS COMPLETE
+⚠️  For educational purposes only. Conduct your own research!
+================================================================================

@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-23
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1894
+  Failed Analyses: 295
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 888
+  Bearish Signals: 135
+  Neutral Signals: 871
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+ACCELYA    70     neutral  ₹1499.50     +6.20% bullish   
+IFBAGRO    70     neutral  ₹1035.65    +31.86% bullish   
+SBICARD    70     neutral  ₹928.60      +3.17% bullish   
+SIYSIL     70     neutral  ₹752.05     +11.13% bullish   
+ULTRACEMCO 65     bullish  ₹12145.00    -2.33% bearish   
+ADANIENSOL 60     bearish  ₹952.40     +13.77% bullish   
+AIAENG     60     bearish  ₹3356.00     +7.94% bullish   
+APLAPOLLO  60     bearish  ₹1753.60     +3.12% bullish   
+ARMANFIN   60     bearish  ₹1674.60    +14.27% bullish   
+GARUDA     60     neutral  ₹212.71      +2.92% bearish   
+HCLTECH    60     neutral  ₹1523.90     +3.91% bullish   
+IIFL       60     bullish  ₹491.40     +11.80% bullish   
+INOXWIND   60     neutral  ₹152.21      +0.59% bearish   
+KALAMANDIR 60     bearish  ₹187.49     +11.20% bullish   
+LAURUSLABS 60     neutral  ₹934.40      +4.40% bearish   
+LMW        60     neutral  ₹15699.00    +5.92% bearish   
+MURUDCERA  60     neutral  ₹44.26       -1.84% bearish   
+NUVAMA     60     bearish  ₹7210.50    +12.50% bullish   
+RAMCOSYS   60     bearish  ₹596.65     +25.76% bullish   
+RGL        60     bearish  ₹137.60     +15.56% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

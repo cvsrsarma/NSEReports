@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-27
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1888
+• Failed Analyses: 301
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 888
+• Bearish Signals: 261
+• Neutral Signals: 739
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 9
+• Moderate Risk: 686
+• High Risk: 878
+• Very High Risk: 315
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+KAPSTON    98.0   bullish  49.0       high         +13.85%
+FCSSOFT    97.0   bearish  48.5       high          +4.58%
+SHAH       93.0   bullish  66.5       very_high     +13.33%
+HYBRIDFIN  79.0   bearish  59.5       very_high     +97.09%
+SCI        79.0   bearish  58.7       high         +13.94%
+BANKINDIA  78.0   bearish  59.0       moderate     +13.28%
+BHAGERIA   78.0   bearish  39.0       high         +23.79%
+MITCON     78.0   bullish  39.0       very_high     +13.39%
+NURECA     78.0   neutral  58.7       very_high     +26.04%
+AXISBANK   77.0   neutral  58.5       moderate     +11.79%
+SONACOMS   77.0   neutral  58.5       moderate     +10.00%
+BAJFINANCE 75.0   neutral  57.5       moderate      +8.60%
+GLFL       75.0   neutral  57.5       very_high     +25.00%
+SELMC      75.0   bearish  57.4       high         +40.87%
+BBTC       74.0   neutral  56.2       high          +7.42%
+PRIVISCL   73.0   neutral  56.5       high         +19.15%
+APOLLOTYRE 71.0   neutral  35.5       moderate      +6.31%
+ATALREAL   71.0   bullish  55.5       high         +17.72%
+AUBANK     71.0   neutral  55.5       moderate     +21.93%
+SOUTHBANK  69.0   neutral  54.5       high         +30.87%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
