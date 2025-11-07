@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-03
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1977
+  Failed Analyses: 212
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1097
+  Bearish Signals: 113
+  Neutral Signals: 767
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+ASIANPAINT 80     neutral  ₹2512.20     +2.24% bullish   
+BSE        70     neutral  ₹2548.30    +22.73% bullish   
+KARURVYSYA 70     neutral  ₹251.80     +18.61% bullish   
+PASHUPATI  70     neutral  ₹810.55     +14.95% bullish   
+EXPLEOSOL  65     bullish  ₹1013.00     +1.77% bullish   
+ICICIGI    65     bullish  ₹2007.60     +6.88% bullish   
+SHEMAROO   65     bullish  ₹113.02      -2.05% bullish   
+SUNPHARMA  65     bullish  ₹1706.40     +4.87% bullish   
+WHEELS     65     bullish  ₹918.75      +6.55% bullish   
+ANGELONE   60     bearish  ₹2563.80    +16.41% bullish   
+CARRARO    60     bearish  ₹520.10      +7.59% bullish   
+CHOLAHLDNG 60     neutral  ₹2005.50     +4.88% bullish   
+CUB        60     bearish  ₹236.04     +11.82% bullish   
+DLF        60     bearish  ₹777.20      +5.94% bullish   
+ETHOSLTD   60     bearish  ₹2936.00    +15.13% bullish   
+GODREJPROP 60     bearish  ₹2307.50    +14.28% bullish   
+HMAAGRO    60     neutral  ₹31.54       -1.87% bearish   
+INOXWIND   60     bearish  ₹157.25      +8.97% bullish   
+IRB        60     bearish  ₹45.19       +6.56% bullish   
+KRBL       60     bearish  ₹379.90      +3.50% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-31
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1981
+  Failed Analyses: 208
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1135
+  Bearish Signals: 89
+  Neutral Signals: 757
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+SAMMAANCAP 70     neutral  ₹188.59     +33.60% bullish   
+SHAH       70     neutral  ₹4.66       +24.27% bullish   
+AIAENG     65     bullish  ₹3249.90     +6.56% bullish   
+LICHSGFIN  65     bullish  ₹570.95      -2.78% bullish   
+MARICO     65     bullish  ₹719.95      +0.43% bullish   
+NH         65     bullish  ₹1757.40     +1.04% bullish   
+AURIONPRO  60     neutral  ₹1207.20     -0.20% bullish   
+BAJAJCON   60     bearish  ₹277.19      +7.58% bullish   
+CARRARO    60     bearish  ₹523.45     +11.78% bullish   
+ETHOSLTD   60     bearish  ₹2902.40    +18.47% bullish   
+IRB        60     bearish  ₹44.79       +3.06% bullish   
+LTIM       60     bearish  ₹5684.50     +8.07% bullish   
+MAHLIFE    60     bearish  ₹385.80      +3.27% bullish   
+MEDICAMEQ  60     neutral  ₹376.35     +16.12% bullish   
+NESTLEIND  60     bullish  ₹1271.60     +7.01% bullish   
+PASHUPATI  60     bearish  ₹806.35     +14.35% bullish   
+PAYTM      60     bearish  ₹1303.20     +8.94% bullish   
+PERSISTENT 60     bearish  ₹5916.60    +12.25% bullish   
+RBLBANK    60     bearish  ₹326.35     +21.00% bullish   
+SOMICONVEY 60     bearish  ₹158.68     +14.08% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

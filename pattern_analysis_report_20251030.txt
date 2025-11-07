@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-30
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1981
+• Failed Analyses: 208
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1053
+• Bearish Signals: 246
+• Neutral Signals: 682
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 9
+• Moderate Risk: 736
+• High Risk: 918
+• Very High Risk: 318
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+GMRAIRPORT 93.0   bullish  66.5       moderate      +4.35%
+ELDEHSG    79.0   neutral  59.5       high         +15.02%
+HYBRIDFIN  79.0   bearish  59.5       very_high    +102.86%
+SALASAR    79.0   bearish  58.7       high         +11.24%
+FIVESTAR   78.0   neutral  58.8       high         +19.99%
+MEGASTAR   78.0   bearish  58.9       high         +29.37%
+TI         78.0   neutral  59.0       high         +10.73%
+ABCAPITAL  77.0   neutral  58.5       moderate     +13.41%
+BHEL       77.0   neutral  38.5       moderate      +9.05%
+UPL        77.0   neutral  58.5       moderate      +5.65%
+VAIBHAVGBL 77.0   neutral  38.5       high          +9.30%
+VIPULLTD   77.0   bearish  38.5       very_high     -20.14%
+XCHANGING  77.0   neutral  38.5       high          +9.50%
+MAHSCOOTER 76.0   bullish  38.0       high          -9.42%
+GLFL       75.0   neutral  57.5       very_high     +43.95%
+REMSONSIND 75.0   neutral  57.1       high         +14.05%
+HMVL       72.0   bullish  36.0       high          -8.65%
+SOUTHWEST  72.0   neutral  36.0       high         +18.79%
+ATALREAL   71.0   bullish  55.5       high         +18.74%
+CARYSIL    71.0   bullish  55.5       high          +5.99%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

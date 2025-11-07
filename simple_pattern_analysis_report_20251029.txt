@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-29
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1979
+  Failed Analyses: 210
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1038
+  Bearish Signals: 122
+  Neutral Signals: 819
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+TVSMOTOR   75     bullish  ₹3498.90     -0.76% bullish   
+CTE        70     neutral  ₹57.58      +39.59% bullish   
+SHAH       70     neutral  ₹4.64       +23.73% bullish   
+AETHER     65     bullish  ₹749.90      -0.21% bullish   
+GILLANDERS 65     bullish  ₹122.48      +3.95% bullish   
+HEROMOTOCO 65     bullish  ₹5551.50     +2.25% bullish   
+ICICIPRULI 65     bullish  ₹601.00      -1.39% bullish   
+BSL        60     bearish  ₹186.60     +13.82% bullish   
+HDFCBANK   60     bearish  ₹1007.85     +4.53% bullish   
+INFIBEAM   60     bearish  ₹19.47      +19.82% bullish   
+INOXGREEN  60     bearish  ₹262.56     +31.39% bullish   
+KSL        60     bearish  ₹851.75      +4.79% bullish   
+LTIM       60     bearish  ₹5674.00     +7.87% bullish   
+MANOMAY    60     bearish  ₹212.35     +24.07% bullish   
+MARKSANS   60     bearish  ₹183.70      +5.42% bullish   
+PASHUPATI  60     bearish  ₹805.00     +14.16% bullish   
+PERSISTENT 60     bearish  ₹5891.10    +11.76% bullish   
+PHOENIXLTD 60     bearish  ₹1707.90     +4.25% bullish   
+PUNJABCHEM 60     bearish  ₹1444.60    +12.22% bullish   
+RAMKY      60     bullish  ₹642.05      +4.41% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

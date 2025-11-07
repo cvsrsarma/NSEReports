@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-11-03 18:21:56
+Data Date: 2025-11-03
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+MRF          MRF Limited                  ₹158360.00 RSI: 56.6
+3MINDIA      3M India Limited             ₹30700.00 RSI: 62.2
+FORCEMOT     FORCE MOTORS LTD             ₹18442.00 RSI: 61.6
+PTCIL        PTC Industries Limited       ₹17354.00 RSI: 67.2
+NEULANDLAB   Neuland Laboratories Limi... ₹17159.00 RSI: 66.6
+LMW          LMW Limited                  ₹15853.00 RSI: 62.9
+BHARATRAS    Bharat Rasayan Limited       ₹10721.00 RSI: 56.9
+ASTRAZEN     AstraZeneca Pharma India ... ₹ 9827.50 RSI: 73.8
+MCX          Multi Commodity Exchange ... ₹ 9526.50 RSI: 70.1
+DYNAMATECH   Dynamatic Technologies Li... ₹ 8050.50 RSI: 66.5
+VOLTAMP      Voltamp Transformers Limi... ₹ 7465.00 RSI: 57.0
+NUVAMA       Nuvama Wealth Management ... ₹ 7133.00 RSI: 55.2
+EICHERMOT    Eicher Motors Limited        ₹ 7023.50 RSI: 59.5
+DIVISLAB     Divi's Laboratories Limit... ₹ 6804.00 RSI: 72.7
+CRAFTSMAN    Craftsman Automation Limi... ₹ 6793.50 RSI: 56.4
+ICRA         ICRA Limited                 ₹ 6519.00 RSI: 61.2
+BLUEDART     Blue Dart Express Limited    ₹ 6370.50 RSI: 66.3
+CERA         Cera Sanitaryware Limited    ₹ 6283.00 RSI: 60.2
+PERSISTENT   Persistent Systems Limite... ₹ 5931.00 RSI: 67.6
+LTIM         LTIMindtree Limited          ₹ 5704.50 RSI: 68.8
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+ROLEXRINGS   Rolex Rings Limited          ₹  122.83 RSI:  8.3
+FCL          Fineotex Chemical Limited    ₹   32.05 RSI:  9.7
+SKFINDIA     SKF India Limited            ₹ 2129.40 RSI: 12.9
+NAZARA       Nazara Technologies Limit... ₹  270.30 RSI: 14.0
+BEML         BEML Limited                 ₹ 2187.00 RSI: 14.3
+UNIVASTU     Univastu India Limited       ₹   71.82 RSI: 15.0
+SHANKARA     Shankara Building Product... ₹  141.41 RSI: 15.4
+GEEKAYWIRE   Geekay Wires Limited         ₹   34.49 RSI: 15.8
+LGHL         Laxmi Goldorna House Limi... ₹  258.65 RSI: 16.7
+QUADFUTURE   Quadrant Future Tek Limit... ₹  309.55 RSI: 16.8
+TFCILTD      Tourism Finance Corporati... ₹   69.95 RSI: 17.1
+AGIIL        Agi Infra Limited            ₹  268.10 RSI: 18.2
+PATANJALI    Patanjali Foods Limited      ₹  578.15 RSI: 18.4
+PAR          Par Drugs And Chemicals L... ₹  101.72 RSI: 19.9
+PIDILITIND   Pidilite Industries Limit... ₹ 1460.50 RSI: 20.0
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+NAZARA       Nazara Technologies Limit... ₹  270.30 ADX: 73.8 DOWN
+IFBAGRO      IFB Agro Industries Limit... ₹ 1444.40 ADX: 71.8 UP
+TFCILTD      Tourism Finance Corporati... ₹   69.95 ADX: 70.3 DOWN
+PATANJALI    Patanjali Foods Limited      ₹  578.15 ADX: 69.5 DOWN
+INDIANB      Indian Bank                  ₹  880.35 ADX: 68.5 UP
+PIDILITIND   Pidilite Industries Limit... ₹ 1460.50 ADX: 67.8 DOWN
+GMBREW       GM Breweries Limited         ₹ 1241.10 ADX: 63.2 UP
+TVSSRICHAK   TVS Srichakra Limited        ₹ 4107.10 ADX: 62.8 UP
+AGIIL        Agi Infra Limited            ₹  268.10 ADX: 62.3 DOWN
+ZYDUSWELL    Zydus Wellness Limited       ₹  479.80 ADX: 59.7 DOWN
+SHILPAMED    Shilpa Medicare Limited      ₹  367.20 ADX: 59.2 DOWN
+LGHL         Laxmi Goldorna House Limi... ₹  258.65 ADX: 59.1 DOWN
+ATHERENERG   Ather Energy Limited         ₹  691.65 ADX: 57.7 UP
+ADANIPOWER   Adani Power Limited          ₹  156.73 ADX: 57.1 DOWN
+SHANKARA     Shankara Building Product... ₹  141.41 ADX: 56.8 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

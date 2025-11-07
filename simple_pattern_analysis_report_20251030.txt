@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-10-30
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1981
+  Failed Analyses: 208
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1036
+  Bearish Signals: 134
+  Neutral Signals: 811
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+BSL        70     neutral  ₹195.57     +19.29% bullish   
+PREMIERENE 70     neutral  ₹1099.80     +7.09% bullish   
+COALINDIA  65     bullish  ₹387.70      -1.77% bearish   
+GILLANDERS 65     bullish  ₹123.70      +4.98% bullish   
+ICICIGI    65     bullish  ₹2014.10     +6.78% bullish   
+KOTAKBANK  65     bullish  ₹2137.20     +5.71% bullish   
+LICHSGFIN  65     bullish  ₹570.45      -2.87% bullish   
+UBL        65     bullish  ₹1789.20     +0.81% bullish   
+BAJAJCON   60     bearish  ₹267.80      +3.94% bullish   
+DIAMONDYD  60     bearish  ₹1056.90     +3.93% bullish   
+DIVISLAB   60     bearish  ₹6655.00     +9.23% bullish   
+LTIM       60     bearish  ₹5699.00     +8.35% bullish   
+MARKSANS   60     bearish  ₹183.44      +5.27% bullish   
+MCX        60     bullish  ₹9101.50    +13.92% bullish   
+PASHUPATI  60     bearish  ₹805.85     +14.28% bullish   
+PERSISTENT 60     bearish  ₹5961.70    +13.10% bullish   
+RBLBANK    60     bearish  ₹324.95     +20.49% bullish   
+RGL        60     bearish  ₹137.93     +14.14% bullish   
+SHREDIGCEM 60     neutral  ₹92.21       +2.51% bullish   
+TITAN      60     bearish  ₹3750.70     +8.48% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

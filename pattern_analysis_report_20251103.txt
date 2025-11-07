@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-03
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1977
+• Failed Analyses: 212
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1032
+• Bearish Signals: 260
+• Neutral Signals: 685
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 9
+• Moderate Risk: 742
+• High Risk: 914
+• Very High Risk: 312
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+CARYSIL    100    bullish  70.5       high         +12.14%
+CANBK      93.0   bullish  66.5       moderate     +13.58%
+UCOBANK    92.0   bullish  66.0       high         +10.10%
+DHANUKA    84.0   bullish  42.0       high         -14.79%
+KPEL       83.0   bullish  61.4       high          +7.15%
+VIPULLTD   81.0   bullish  40.5       very_high     -18.55%
+AUROPHARMA 79.0   neutral  59.4       moderate      +6.21%
+SILLYMONKS 79.0   bullish  59.5       very_high     +19.18%
+IVC        78.0   bearish  39.0       moderate      -8.78%
+KSL        78.0   neutral  59.0       moderate     +11.23%
+LANCORHOL  78.0   neutral  39.0       very_high     +39.01%
+LATENTVIEW 78.0   bearish  59.0       high         +17.29%
+PENIND     78.0   neutral  59.0       high         +11.94%
+STAR       78.0   neutral  39.0       high         +16.45%
+ASTRAZEN   77.0   neutral  58.5       moderate     +11.57%
+JHS        77.0   neutral  58.5       very_high     +16.10%
+THANGAMAYL 77.0   neutral  38.5       high         +26.78%
+MAHSCOOTER 76.0   bullish  38.0       high          -9.44%
+GLFL       75.0   neutral  57.5       very_high     +41.43%
+VAIBHAVGBL 75.0   neutral  57.4       high         +14.65%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

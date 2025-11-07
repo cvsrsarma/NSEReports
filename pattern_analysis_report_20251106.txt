@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-06
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1989
+• Failed Analyses: 200
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1229
+• Bearish Signals: 183
+• Neutral Signals: 577
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 8
+• Moderate Risk: 672
+• High Risk: 962
+• Very High Risk: 347
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+SONACOMS   94.0   bullish  67.0       moderate     +19.13%
+SILLYMONKS 92.0   bullish  66.0       very_high     +67.11%
+BIOCON     90.0   bullish  65.0       moderate     +13.24%
+GARUDA     80.0   bearish  60.0       very_high     +30.73%
+KEYFINSERV 80.0   neutral  60.0       very_high     +48.34%
+HMVL       79.0   bullish  39.5       high         -10.80%
+3MINDIA    78.0   bearish  59.0       moderate     +24.12%
+ASIANTILES 78.0   neutral  59.0       high         +16.18%
+EXXARO     78.0   bearish  39.0       very_high     +22.47%
+GANECOS    78.0   bullish  39.0       moderate      +1.12%
+PIIND      78.0   bearish  59.0       moderate      +7.38%
+UFO        78.0   neutral  39.0       high         +11.16%
+GRMOVER    77.0   neutral  58.5       high         +23.85%
+INDHOTEL   77.0   bullish  57.5       moderate      -3.77%
+SENORES    77.0   neutral  58.5       high         +16.15%
+ADROITINFO 76.0   bullish  58.0       high          +8.33%
+KMEW       75.0   neutral  57.4       very_high     +17.35%
+BAJAJCON   74.0   neutral  57.0       high         +26.72%
+CORALFINAC 73.0   bullish  36.5       high          -5.69%
+POWERINDIA 73.0   neutral  36.5       high          +4.99%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================
