@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-17
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1983
+  Failed Analyses: 206
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1140
+  Bearish Signals: 96
+  Neutral Signals: 747
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+JCHAC      80     bullish  ₹1750.60     +1.18% bullish   
+ORIENTELEC 75     bullish  ₹203.31      +1.63% bullish   
+ORCHPHARMA 70     neutral  ₹858.35     +18.49% bullish   
+AJANTPHARM 65     bullish  ₹2504.00     +3.86% bullish   
+BANARISUG  65     bullish  ₹3601.60     +8.69% bullish   
+OIL        65     bullish  ₹436.25      +4.67% bullish   
+RAMASTEEL  65     bullish  ₹10.13       +0.90% bullish   
+BHARATFORG 60     bearish  ₹1383.70    +16.18% bullish   
+BHEL       60     bearish  ₹285.50     +19.44% bullish   
+BPCL       60     bearish  ₹374.25      +8.45% bullish   
+HINDPETRO  60     bearish  ₹486.50      +6.39% bullish   
+ICICIPRULI 60     bearish  ₹630.60      +6.36% bullish   
+IOC        60     bearish  ₹173.12     +12.73% bullish   
+JBCHEPHARM 60     bearish  ₹1821.50     +8.60% bullish   
+JKTYRE     60     bearish  ₹461.85     +21.51% bullish   
+ORICONENT  60     neutral  ₹58.24       +5.83% bullish   
+PASHUPATI  60     bearish  ₹821.90     +16.47% bullish   
+RESPONIND  60     bearish  ₹202.28     +10.92% bullish   
+RPEL       60     bearish  ₹1002.05    +39.80% bullish   
+SAIL       60     bearish  ₹141.33      +7.30% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-24
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1973
+  Failed Analyses: 216
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1418
+  Bearish Signals: 24
+  Neutral Signals: 531
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+JCHAC      90     bullish  ₹1752.70     +0.79% bullish   
+ALKEM      75     bullish  ₹5625.00     +1.05% bullish   
+SBILIFE    75     bullish  ₹2014.80     +9.46% bullish   
+ASIANPAINT 70     neutral  ₹2879.20    +21.22% bullish   
+ASIANTILES 65     bullish  ₹65.43      +10.54% bullish   
+BANARISUG  65     bullish  ₹3600.80     +5.90% bullish   
+COLPAL     65     bullish  ₹2156.70     -3.16% bearish   
+ICICIGI    65     bullish  ₹1997.50     -1.13% bullish   
+PASHUPATI  65     bullish  ₹811.05     +10.41% bullish   
+SIMPLEXINF 65     bullish  ₹282.05      +7.57% bullish   
+UNITDSPR   65     bullish  ₹1431.20     +7.36% bullish   
+APCOTEXIND 60     bearish  ₹403.15     +14.65% bullish   
+BLSE       60     bearish  ₹220.69     +35.41% bullish   
+LGBBROSLTD 60     bearish  ₹1872.20    +37.92% bullish   
+ORICONENT  60     bearish  ₹58.09       +8.58% bullish   
+RPEL       60     bearish  ₹1005.25    +40.68% bullish   
+SBIN       60     bearish  ₹970.60      +9.54% bullish   
+SHRIRAMFIN 60     bearish  ₹828.20     +22.31% bullish   
+DABUR      55     bullish  ₹512.40      +3.90% bullish   
+ENRIN      55     bullish  ₹3162.90     +0.59% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

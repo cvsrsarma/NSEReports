@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-12
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1979
+  Failed Analyses: 210
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1040
+  Bearish Signals: 91
+  Neutral Signals: 848
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+BANARISUG  80     neutral  ₹3598.50     +1.70% bullish   
+PRECWIRE   70     neutral  ₹230.96     +10.67% bullish   
+PIIND      65     bullish  ₹3588.90     -0.78% bullish   
+SALASAR    65     bullish  ₹10.01      +12.09% bullish   
+SENORES    65     bullish  ₹776.60      +6.65% bullish   
+AUBANK     60     bearish  ₹882.05     +18.89% bullish   
+BPCL       60     bearish  ₹375.45      +9.93% bullish   
+CARTRADE   60     bearish  ₹3177.20    +27.20% bullish   
+FEDERALBNK 60     bearish  ₹238.94     +24.21% bullish   
+GLOBAL     60     bearish  ₹73.59      +14.04% bullish   
+IDFCFIRSTB 60     bearish  ₹81.58      +18.16% bullish   
+JKTYRE     60     bearish  ₹466.85     +25.01% bullish   
+KAPSTON    60     bearish  ₹305.10     +22.41% bullish   
+KARURVYSYA 60     bearish  ₹250.02     +19.52% bullish   
+NAVINFLUOR 60     bearish  ₹6022.50    +30.93% bullish   
+OIL        60     bearish  ₹441.15      +6.38% bullish   
+PASHUPATI  60     bearish  ₹811.60     +15.10% bullish   
+PNB        60     bearish  ₹122.45      +7.06% bullish   
+PSPPROJECT 60     bearish  ₹984.00     +28.48% bullish   
+RMDRIP     60     bullish  ₹78.85       +5.16% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

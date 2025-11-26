@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-25
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1972
+• Failed Analyses: 217
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1229
+• Bearish Signals: 182
+• Neutral Signals: 561
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 12
+• Moderate Risk: 512
+• High Risk: 1025
+• Very High Risk: 423
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+LAL        97.0   bullish  48.5       very_high     -11.44%
+AUSOMENT   94.0   neutral  47.0       very_high      +5.77%
+SAMBHAAV   89.0   bullish  64.5       very_high     +36.92%
+ABCAPITAL  84.0   bullish  62.0       moderate     +15.15%
+IRCTC      82.0   bullish  41.0       moderate      -5.76%
+EIHAHOTELS 81.0   bullish  40.5       moderate      -7.49%
+VLSFINANCE 79.0   neutral  59.5       high         +42.21%
+BBL        78.0   bullish  39.0       moderate      -9.13%
+JETFREIGHT 78.0   neutral  59.0       very_high     +40.44%
+BINANIIND  77.0   bullish  38.5       very_high     -18.95%
+NIRAJ      77.0   neutral  57.7       very_high     +31.61%
+SONAMLTD   77.0   bearish  58.2       high         +14.58%
+RTNPOWER   76.0   bearish  38.0       moderate     -10.97%
+TVSSRICHAK 76.0   neutral  58.0       high         +20.65%
+GMRAIRPORT 75.0   neutral  57.5       moderate     +14.68%
+SABTNL     75.0   neutral  57.5       high         +62.22%
+DECCANCE   74.0   bullish  37.0       very_high     -29.27%
+IRFC       74.0   bullish  37.0       moderate      -6.40%
+JINDWORLD  73.0   bullish  36.5       high         -13.25%
+OMINFRAL   73.0   bullish  36.5       high         -10.96%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

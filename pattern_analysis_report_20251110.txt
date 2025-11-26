@@ -1,0 +1,67 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON PATTERN CLASSIFICATION:
+Bullish or bearish patterns in this report are determined using technical analysis algorithms that scan for price and volume patterns historically associated with upward (bullish) or downward (bearish) trends.
+These may include candlestick formations, breakouts, moving average crossovers, and other quantitative signals.
+A bullish pattern suggests a potential upward move; a bearish pattern suggests a potential downward move.
+However, these signals are probabilistic, not guarantees. Always use additional analysis and risk management.
+
+================================================================================
+
+
+================================================================================
+📊 STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-10
+================================================================================
+
+📈 SUMMARY STATISTICS:
+• Total Stocks Analyzed: 2189
+• Successful Analyses: 1981
+• Failed Analyses: 208
+
+📊 SIGNAL DISTRIBUTION:
+• Bullish Signals: 1128
+• Bearish Signals: 195
+• Neutral Signals: 658
+
+⚠️ RISK DISTRIBUTION:
+• Low Risk: 9
+• Moderate Risk: 616
+• High Risk: 1007
+• Very High Risk: 349
+
+🏆 TOP 20 PATTERN OPPORTUNITIES:
+Symbol     Score  Signal   Confidence Risk     Price Change
+----------------------------------------------------------------------
+NATIONALUM 93.0   bearish  66.5       moderate     +19.98%
+LTF        87.0   bullish  63.5       moderate     +16.37%
+ALLCARGO   81.0   bullish  60.5       high         +11.08%
+KMEW       79.0   neutral  59.5       very_high     +22.71%
+RPEL       79.0   neutral  59.5       high         +53.77%
+3MINDIA    78.0   neutral  59.0       moderate     +23.65%
+PRICOLLTD  78.0   bearish  59.0       high         +12.37%
+SHAREINDIA 78.0   bearish  59.0       very_high     +30.25%
+AKUMS      77.0   bullish  58.2       high          -2.76%
+NEULANDLAB 77.0   neutral  58.5       high         +17.72%
+MANOMAY    76.0   neutral  58.0       high         +28.39%
+63MOONS    75.0   neutral  37.5       high         -14.09%
+POWERINDIA 75.0   neutral  57.3       high         +17.44%
+HUBTOWN    74.0   neutral  37.0       high         +15.17%
+SSDL       74.0   bullish  37.0       moderate      -7.44%
+IVP        73.0   neutral  56.5       high         +14.49%
+ATLASCYCLE 72.0   bullish  36.0       high         -11.91%
+CORALFINAC 72.0   bullish  36.0       high          -5.93%
+GMRAIRPORT 72.0   bullish  56.0       moderate      +7.06%
+LGBBROSLTD 72.0   neutral  56.0       high         +35.42%
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

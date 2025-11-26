@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-14
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1986
+  Failed Analyses: 203
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1197
+  Bearish Signals: 75
+  Neutral Signals: 714
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+BANARISUG  80     neutral  ₹3603.10     +7.26% bullish   
+JCHAC      80     bullish  ₹1751.60     +1.19% bullish   
+GMRAIRPORT 70     neutral  ₹95.67       +7.86% bullish   
+PASHUPATI  70     neutral  ₹816.55     +15.80% bullish   
+RHETAN     70     neutral  ₹24.81      +12.52% bullish   
+SPECTRUM   70     neutral  ₹1551.00    +17.54% bullish   
+TORNTPHARM 70     neutral  ₹3831.80     +8.67% bullish   
+CIEINDIA   65     bullish  ₹428.80      +4.14% bullish   
+FEDERALBNK 65     bullish  ₹236.26     +22.00% bullish   
+ICICIGI    65     bullish  ₹2005.10     +4.12% bullish   
+VISHNU     65     bullish  ₹493.55      +3.77% bullish   
+BHARATFORG 60     bearish  ₹1396.70    +13.13% bullish   
+BMWVENTLTD 60     bearish  ₹69.70      +14.06% bullish   
+GESHIP     60     bearish  ₹1133.20     +6.75% bullish   
+HARDWYN    60     bearish  ₹16.37      +22.26% bullish   
+JBCHEPHARM 60     bearish  ₹1823.00     +9.90% bullish   
+NAVINFLUOR 60     bearish  ₹6021.50    +31.64% bullish   
+RPEL       60     bearish  ₹1004.65    +43.48% bullish   
+SAIL       60     bearish  ₹141.99      +7.07% bullish   
+SANSERA    60     bearish  ₹1555.90     +8.32% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

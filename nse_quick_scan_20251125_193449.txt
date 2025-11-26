@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-11-25 19:34:49
+Data Date: 2025-11-25
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+3MINDIA      3M India Limited             ₹35290.00 RSI: 68.3
+ABBOTINDIA   Abbott India Limited         ₹30205.00 RSI: 60.7
+POWERINDIA   Hitachi Energy India Limi... ₹21742.00 RSI: 69.7
+JSWHL        JSW Holdings Limited         ₹18569.00 RSI: 63.3
+PTCIL        PTC Industries Limited       ₹17876.00 RSI: 66.1
+TVSHLTD      TVS Holdings Limited         ₹14517.00 RSI: 56.4
+MCX          Multi Commodity Exchange ... ₹ 9867.00 RSI: 70.6
+BAJAJ-AUTO   Bajaj Auto Limited           ₹ 9048.00 RSI: 58.5
+DYNAMATECH   Dynamatic Technologies Li... ₹ 9010.50 RSI: 58.2
+VOLTAMP      Voltamp Transformers Limi... ₹ 8072.00 RSI: 55.8
+EICHERMOT    Eicher Motors Limited        ₹ 7218.50 RSI: 64.8
+CRAFTSMAN    Craftsman Automation Limi... ₹ 7021.00 RSI: 58.5
+PERSISTENT   Persistent Systems Limite... ₹ 6370.50 RSI: 74.4
+LTIM         LTIMindtree Limited          ₹ 5833.00 RSI: 58.2
+NAVINFLUOR   Navin Fluorine Internatio... ₹ 5782.50 RSI: 59.2
+ALKEM        Alkem Laboratories Limite... ₹ 5701.00 RSI: 58.4
+LUMAXIND     Lumax Industries Limited     ₹ 5542.10 RSI: 66.5
+SUNDARMFIN   Sundaram Finance Limited     ₹ 4764.10 RSI: 56.5
+TVSSRICHAK   TVS Srichakra Limited        ₹ 4714.80 RSI: 73.1
+LTTS         L&T Technology Services L... ₹ 4262.80 RSI: 55.2
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+ROLEXRINGS   Rolex Rings Limited          ₹  104.29 RSI:  9.6
+FCL          Fineotex Chemical Limited    ₹   24.12 RSI: 10.2
+SMCGLOBAL    SMC Global Securities Lim... ₹   58.08 RSI: 10.4
+COHANCE      Cohance Lifesciences Limi... ₹  560.80 RSI: 11.5
+AGRITECH     Agri-Tech (India) Limited    ₹  107.06 RSI: 11.5
+MANGALAM     Mangalam Drugs And Organi... ₹   36.32 RSI: 11.5
+BEDMUTHA     Bedmutha Industries Limit... ₹  102.15 RSI: 11.6
+SKFINDIA     SKF India Limited            ₹ 1947.60 RSI: 12.4
+STYL         Seshaasai Technologies Li... ₹  301.40 RSI: 13.2
+JAIBALAJI    Jai Balaji Industries Lim... ₹   67.03 RSI: 13.3
+RSSOFTWARE   R. S. Software (India) Li... ₹   46.20 RSI: 14.1
+BEML         BEML Limited                 ₹ 1841.30 RSI: 14.5
+SHANKARA     Shankara Building Product... ₹  120.78 RSI: 14.6
+RACE         Race Eco Chain Limited       ₹  155.17 RSI: 15.0
+TATAMOTORS   Tata Motors Limited          ₹  352.45 RSI: 15.0
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+ARSSBL       Anand Rathi Share and Sto... ₹  715.75 ADX: 75.2 UP
+PASHUPATI    Pashupati Cotspin Limited    ₹  811.05 ADX: 72.4 UP
+ROLEXRINGS   Rolex Rings Limited          ₹  104.29 ADX: 69.0 DOWN
+AMANTA       Amanta Healthcare Limited    ₹  111.16 ADX: 68.1 DOWN
+SHANKARA     Shankara Building Product... ₹  120.78 ADX: 67.1 DOWN
+EUROPRATIK   Euro Pratik Sales Limited    ₹  362.15 ADX: 66.9 UP
+EPACKPEB     EPack Prefab Technologies... ₹  302.50 ADX: 66.1 UP
+NACLIND      NACL Industries Limited      ₹  177.81 ADX: 65.6 UP
+NAZARA       Nazara Technologies Limit... ₹  253.30 ADX: 65.5 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  469.90 ADX: 65.2 DOWN
+TFCILTD      Tourism Finance Corporati... ₹   67.76 ADX: 64.8 DOWN
+BORANA       Borana Weaves Limited        ₹  290.72 ADX: 63.8 UP
+AGIIL        Agi Infra Limited            ₹  283.70 ADX: 61.7 DOWN
+PATANJALI    Patanjali Foods Limited      ₹  569.35 ADX: 61.0 DOWN
+STYL         Seshaasai Technologies Li... ₹  301.40 ADX: 60.1 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

@@ -1,0 +1,85 @@
+============================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+============================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This quick scan uses simple technical criteria to highlight stocks:
+- Bullish stocks: RSI > 55 and price above Bollinger Band middle.
+- Oversold stocks: RSI < 35, potential for rebound.
+- High momentum stocks: ADX > 30, indicating strong trend.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+============================================================
+
+NSE TECHNICAL QUICK SCAN
+============================================================
+Generated: 2025-11-19 22:27:30
+Data Date: 2025-11-19
+
+🚀 BULLISH STOCKS (RSI > 55, Price > BB Middle)
+------------------------------------------------------------
+POWERINDIA   Hitachi Energy India Limi... ₹21624.00 RSI: 69.5
+PTCIL        PTC Industries Limited       ₹17231.00 RSI: 57.0
+TVSHLTD      TVS Holdings Limited         ₹14960.00 RSI: 65.3
+MCX          Multi Commodity Exchange ... ₹ 9799.00 RSI: 69.3
+APARINDS     Apar Industries Limited      ₹ 9335.00 RSI: 63.0
+VOLTAMP      Voltamp Transformers Limi... ₹ 8513.50 RSI: 67.4
+NUVAMA       Nuvama Wealth Management ... ₹ 7344.00 RSI: 58.2
+PERSISTENT   Persistent Systems Limite... ₹ 6316.00 RSI: 73.2
+ATUL         Atul Limited                 ₹ 6139.50 RSI: 60.9
+LINDEINDIA   Linde India Limited          ₹ 6076.50 RSI: 56.0
+LTIM         LTIMindtree Limited          ₹ 5972.00 RSI: 67.4
+HEROMOTOCO   Hero MotoCorp Limited        ₹ 5876.50 RSI: 70.5
+ALKEM        Alkem Laboratories Limite... ₹ 5724.00 RSI: 64.3
+ESABINDIA    Esab India Limited           ₹ 5553.60 RSI: 74.5
+LUMAXIND     Lumax Industries Limited     ₹ 5096.20 RSI: 56.7
+FINEORG      Fine Organic Industries L... ₹ 4655.70 RSI: 60.2
+TVSSRICHAK   TVS Srichakra Limited        ₹ 4555.60 RSI: 71.1
+LTTS         L&T Technology Services L... ₹ 4440.00 RSI: 68.5
+LT           Larsen & Toubro Limited      ₹ 4019.60 RSI: 65.3
+TITAN        Titan Company Limited        ₹ 3933.10 RSI: 74.1
+
+📉 OVERSOLD STOCKS (RSI < 35)
+------------------------------------------------------------
+TARSONS      Tarsons Products Limited     ₹  223.75 RSI:  4.1
+ROLEXRINGS   Rolex Rings Limited          ₹  106.13 RSI:  8.7
+PLAZACABLE   Plaza Wires Limited          ₹   40.05 RSI:  8.8
+FCL          Fineotex Chemical Limited    ₹   24.23 RSI: 10.2
+SMCGLOBAL    SMC Global Securities Lim... ₹   61.58 RSI: 10.6
+GANECOS      Ganesha Ecosphere Limited    ₹  874.40 RSI: 12.2
+SKFINDIA     SKF India Limited            ₹ 1975.60 RSI: 12.6
+COHANCE      Cohance Lifesciences Limi... ₹  582.25 RSI: 12.7
+ROTO         Roto Pumps Limited           ₹   57.78 RSI: 13.4
+BEDMUTHA     Bedmutha Industries Limit... ₹  106.65 RSI: 13.8
+BEML         BEML Limited                 ₹ 1939.10 RSI: 14.6
+SHANKARA     Shankara Building Product... ₹  123.67 RSI: 14.9
+WEBELSOLAR   Websol Energy System Limi... ₹  115.70 RSI: 15.6
+TATAMOTORS   Tata Motors Limited          ₹  360.85 RSI: 16.1
+LAGNAM       Lagnam Spintex Limited       ₹   67.36 RSI: 16.1
+
+⚡ HIGH MOMENTUM STOCKS (ADX > 30)
+------------------------------------------------------------
+ARSSBL       Anand Rathi Share and Sto... ₹  700.50 ADX: 79.4 UP
+PASHUPATI    Pashupati Cotspin Limited    ₹  813.80 ADX: 77.4 UP
+EPACKPEB     EPack Prefab Technologies... ₹  308.15 ADX: 71.1 UP
+RSSOFTWARE   R. S. Software (India) Li... ₹   52.19 ADX: 71.1 DOWN
+EUROPRATIK   Euro Pratik Sales Limited    ₹  355.15 ADX: 68.0 UP
+AMANTA       Amanta Healthcare Limited    ₹  117.06 ADX: 67.9 DOWN
+NAZARA       Nazara Technologies Limit... ₹  273.85 ADX: 67.6 DOWN
+ROLEXRINGS   Rolex Rings Limited          ₹  106.13 ADX: 67.2 DOWN
+TFCILTD      Tourism Finance Corporati... ₹   65.17 ADX: 66.2 DOWN
+SHANKARA     Shankara Building Product... ₹  123.67 ADX: 65.8 DOWN
+IFBAGRO      IFB Agro Industries Limit... ₹ 1414.80 ADX: 65.5 UP
+CHENNPETRO   Chennai Petroleum Corpora... ₹ 1060.40 ADX: 64.8 UP
+AGIIL        Agi Infra Limited            ₹  252.35 ADX: 64.6 DOWN
+HEUBACHIND   Heubach Colorants India L... ₹  467.45 ADX: 63.0 DOWN
+PIDILITIND   Pidilite Industries Limit... ₹ 1476.70 ADX: 62.4 DOWN
+
+============================================================
+SUMMARY: 20 Bullish | 15 Oversold | 15 High Momentum
+⚠️  For educational purposes only. Do your own research!
+============================================================

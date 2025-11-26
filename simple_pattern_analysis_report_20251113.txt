@@ -1,0 +1,55 @@
+
+================================================================================
+SIMPLIFIED STOCK PATTERN ANALYSIS REPORT
+Generated: 2025-11-13
+================================================================================
+
+DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY
+This report is generated using only basic mathematical and statistical analysis (numpy/pandas) on the past 30 days of price and volume data for each NSE stock. No external technical analysis libraries are used. All signals, scores, and trends are derived from simple moving averages, support/resistance, volume trends, volatility, and basic price momentum. This is NOT financial advice and is intended solely for educational and research purposes. Always consult a qualified financial advisor before making investment decisions.
+
+METHODOLOGY & NOTES:
+- Data Source: NSE stock price and volume history from the last 30 days (minimum 15 data points required).
+- Analysis: Calculates moving averages, support/resistance, trend direction, volume patterns, volatility, and generates a composite signal score for each stock.
+- Signals: Bullish, Bearish, or Neutral, based on a combination of trend, support/resistance proximity, RSI, MACD, and volume strength.
+- Limitations: No predictive modeling, no external TA libraries, and no guarantee of accuracy. Results may be affected by missing or incomplete data.
+- Intended Use: For learning, research, and transparency in basic pattern recognition. Not for trading or investment decisions.
+
+SUMMARY STATISTICS:
+  Total Stocks Analyzed: 2189
+  Successful Analyses: 1985
+  Failed Analyses: 204
+
+SIGNAL DISTRIBUTION:
+  Bullish Signals: 1116
+  Bearish Signals: 74
+  Neutral Signals: 795
+
+TOP 20 OPPORTUNITIES BY SIGNAL SCORE:
+Symbol     Score  Signal   Price      Change%    Trend     
+----------------------------------------------------------------------
+BANARISUG  80     neutral  ₹3600.60     +7.19% bullish   
+PASHUPATI  80     neutral  ₹808.30     +14.63% bullish   
+TATASTEEL  75     bullish  ₹176.65      +3.88% bullish   
+JCHAC      70     neutral  ₹1750.80     +1.14% bullish   
+SANSERA    70     neutral  ₹1555.00     +8.26% bullish   
+FEDERALBNK 65     bullish  ₹235.79     +21.75% bullish   
+LICI       65     bullish  ₹902.85      -0.47% bullish   
+MAHLIFE    65     bullish  ₹386.35      +6.01% bullish   
+OIL        65     bullish  ₹434.45      +3.64% bullish   
+SANDESH    65     bullish  ₹1170.70     +0.09% bullish   
+BPCL       60     bearish  ₹374.95      +9.12% bullish   
+CUB        60     bearish  ₹259.97     +17.86% bullish   
+GMRAIRPORT 60     bearish  ₹95.49       +7.66% bullish   
+HARDWYN    60     bearish  ₹16.18      +20.84% bullish   
+JINDALSTEL 60     bearish  ₹1087.80     +3.02% bullish   
+JKTYRE     60     bearish  ₹465.75     +25.51% bullish   
+KAPSTON    60     bearish  ₹307.80     +22.41% bullish   
+NAVINFLUOR 60     bearish  ₹6038.00    +32.00% bullish   
+PSPPROJECT 60     bearish  ₹989.90     +26.52% bullish   
+SBILIFE    60     bearish  ₹1987.90    +12.25% bullish   
+
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY ⚠️
+This analysis is for educational and research purposes only.
+Not financial advice. Always consult a financial advisor.
+================================================================================

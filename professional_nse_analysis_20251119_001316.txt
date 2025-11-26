@@ -1,0 +1,163 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This professional scan uses multiple technical analysis strategies to highlight stocks:
+- Breakout stocks: Price breaking above Bollinger Bands with momentum.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover signals.
+- Stochastic recovery: Oversold recovery patterns.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud configuration.
+- Bollinger squeeze: Low volatility before potential breakout.
+- High money flow: Strong buying pressure (MFI > 70).
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+PROFESSIONAL NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-19 00:13:16
+Data Date: 2025-11-18
+
+📈 BREAKOUT STOCKS
+----------------------------------------------------------------------
+Strategy: Breaking above Bollinger Bands with momentum
+
+GOKULAGRO    Gokul Agro Resources Limi ₹  211.26 Breakout:  +3.5% RSI:  45.7
+GEPIL        GE Power India Limited    ₹  372.35 Breakout:  +2.9% RSI:  73.6
+SPANDANA     Spandana Sphoorty Financi ₹  282.65 Breakout:  +2.6% RSI:  67.4
+FAZE3Q       Faze Three Limited        ₹  546.95 Breakout:  +2.5% RSI:  65.9
+GRWRHITECH   Garware Hi-Tech Films Lim ₹ 4000.30 Breakout:  +2.1% RSI:  73.4
+SEQUENT      Sequent Scientific Limite ₹  247.56 Breakout:  +1.8% RSI:  72.7
+STEL         Stel Holdings Limited     ₹  470.50 Breakout:  +1.6% RSI:  69.1
+DPABHUSHAN   D. P. Abhushan Limited    ₹ 1601.80 Breakout:  +1.2% RSI:  70.5
+VINDHYATEL   Vindhya Telelinks Limited ₹ 1615.20 Breakout:  +0.8% RSI:  74.5
+CSLFINANCE   CSL Finance Limited       ₹  309.70 Breakout:  +0.7% RSI:  65.4
+FINEORG      Fine Organic Industries L ₹ 4696.70 Breakout:  +0.7% RSI:  63.4
+AARVI        Aarvi Encon Limited       ₹  137.36 Breakout:  +0.7% RSI:  69.4
+BERGEPAINT   Berger Paints (I) Limited ₹  586.60 Breakout:  +0.7% RSI:  72.0
+CARRARO      Carraro India Limited     ₹  556.40 Breakout:  +0.5% RSI:  73.1
+INDIAGLYCO   India Glycols Limited     ₹ 1090.00 Breakout:  +0.5% RSI:  68.1
+
+🔥 TRENDING STOCKS
+----------------------------------------------------------------------
+Strategy: Strong directional movement (ADX > 35)
+
+ARSSBL       Anand Rathi Share and Sto ₹  773.95 ADX:  81.8 UP   RSI:  94.1
+PASHUPATI    Pashupati Cotspin Limited ₹  817.35 ADX:  80.1 UP   RSI:  75.8
+EPACKPEB     EPack Prefab Technologies ₹  329.35 ADX:  73.8 UP   RSI:  76.6
+RSSOFTWARE   R. S. Software (India) Li ₹   51.78 ADX:  70.9 DOWN RSI:  16.1
+NAZARA       Nazara Technologies Limit ₹  274.60 ADX:  69.0 DOWN RSI:  25.1
+EUROPRATIK   Euro Pratik Sales Limited ₹  367.50 ADX:  68.6 UP   RSI:  77.9
+AMANTA       Amanta Healthcare Limited ₹  119.65 ADX:  68.5 DOWN RSI:  39.3
+IFBAGRO      IFB Agro Industries Limit ₹ 1503.50 ADX:  67.8 UP   RSI:  67.1
+TFCILTD      Tourism Finance Corporati ₹   66.75 ADX:  66.6 DOWN RSI:  18.6
+ROLEXRINGS   Rolex Rings Limited       ₹  107.63 ADX:  66.0 DOWN RSI:   8.8
+SHANKARA     Shankara Building Product ₹  128.36 ADX:  65.2 DOWN RSI:  15.2
+AGIIL        Agi Infra Limited         ₹  252.20 ADX:  64.7 DOWN RSI:  18.1
+CHENNPETRO   Chennai Petroleum Corpora ₹ 1096.55 ADX:  64.2 UP   RSI:  77.4
+PIDILITIND   Pidilite Industries Limit ₹ 1491.00 ADX:  63.8 DOWN RSI:  32.7
+PATANJALI    Patanjali Foods Limited   ₹  587.05 ADX:  63.1 DOWN RSI:  25.6
+HEUBACHIND   Heubach Colorants India L ₹  476.80 ADX:  61.8 DOWN RSI:  20.9
+JKTYRE       JK Tyre & Industries Limi ₹  455.80 ADX:  61.6 UP   RSI:  66.4
+INDIANB      Indian Bank               ₹  886.90 ADX:  60.1 UP   RSI:  75.4
+MRPL         Mangalore Refinery and Pe ₹  178.39 ADX:  58.6 UP   RSI:  65.5
+TATVA        Tatva Chintan Pharma Chem ₹ 1559.00 ADX:  58.3 UP   RSI:  70.1
+
+🚀 MACD BULLISH
+----------------------------------------------------------------------
+Strategy: Bullish MACD crossover signals
+
+3MINDIA      3M India Limited          ₹   36090 MACD: 1745.04 Hist: 325.47
+POWERINDIA   Hitachi Energy India Limi ₹   21415 MACD: 921.13 Hist: 287.53
+TVSHLTD      TVS Holdings Limited      ₹   15387 MACD: 722.97 Hist: 157.12
+VOLTAMP      Voltamp Transformers Limi ₹ 8670.50 MACD: 295.33 Hist: 145.60
+JSWHL        JSW Holdings Limited      ₹   17593 MACD:  32.52 Hist: 142.12
+DYNAMATECH   Dynamatic Technologies Li ₹ 9527.50 MACD: 573.28 Hist: 105.15
+DIXON        Dixon Technologies (India ₹   15697 MACD: -345.94 Hist:  97.82
+ESABINDIA    Esab India Limited        ₹ 5463.80 MACD:  95.77 Hist:  66.68
+APARINDS     Apar Industries Limited   ₹ 9317.00 MACD: 133.73 Hist:  63.32
+THANGAMAYL   Thangamayil Jewellery Lim ₹ 3217.20 MACD: 332.43 Hist:  55.11
+GRWRHITECH   Garware Hi-Tech Films Lim ₹ 4000.30 MACD: 169.93 Hist:  50.67
+ATUL         Atul Limited              ₹ 6146.00 MACD: -27.06 Hist:  48.79
+MUTHOOTFIN   Muthoot Finance Limited   ₹ 3695.90 MACD: 136.76 Hist:  46.95
+DATAPATTNS   Data Patterns (India) Lim ₹ 3114.40 MACD:  80.73 Hist:  44.51
+WELINV       Welspun Investments and C ₹ 1211.70 MACD: 113.73 Hist:  43.20
+
+🔄 STOCHASTIC RECOVERY
+----------------------------------------------------------------------
+Strategy: Oversold recovery patterns
+
+KALAMANDIR   Sai Silks (Kalamandir) Li ₹  175.59 K%:  28.1 D%:  13.6
+UTIAMC       UTI Asset Management Comp ₹ 1174.60 K%:  25.2 D%:  11.6
+SAPPHIRE     Sapphire Foods India Limi ₹  262.15 K%:  29.6 D%:  16.4
+DHUNINV      Dhunseri Investments Limi ₹ 1300.90 K%:  27.6 D%:  14.7
+NGLFINE      NGL Fine-Chem Limited     ₹ 1393.20 K%:  24.2 D%:  11.4
+ANIKINDS     Anik Industries Limited   ₹   73.55 K%:  27.5 D%:  14.8
+MOLDTKPAC    Mold-Tek Packaging Limite ₹  682.45 K%:  22.7 D%:  10.5
+CONCOR       Container Corporation of  ₹  522.60 K%:  23.6 D%:  12.2
+PEARLPOLY    Pearl Polymers Limited    ₹   25.52 K%:  23.2 D%:  12.1
+AMBIKCO      Ambika Cotton Mills Limit ₹ 1315.30 K%:  29.0 D%:  18.2
+ARIHANTSUP   Arihant Superstructures L ₹  376.85 K%:  21.3 D%:  10.7
+JAGSNPHARM   Jagsonpal Pharmaceuticals ₹  211.21 K%:  21.4 D%:  10.8
+UCOBANK      UCO Bank                  ₹   31.55 K%:  26.8 D%:  16.7
+360ONE       360 ONE WAM LIMITED       ₹ 1078.00 K%:  28.2 D%:  18.0
+SAMHI        Samhi Hotels Limited      ₹  189.34 K%:  24.1 D%:  14.4
+
+📊 HIGH VOLUME
+----------------------------------------------------------------------
+Strategy: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+----------------------------------------------------------------------
+Strategy: Above Ichimoku cloud configuration
+
+No stocks found matching criteria
+
+🎯 BOLLINGER SQUEEZE
+----------------------------------------------------------------------
+Strategy: Low volatility before potential breakout
+
+NESTLEIND    Nestle India Limited      ₹ 1265.10 BB Width:   2.3% RSI:  51.8
+SHREDIGCEM   Shree Digvijay Cement Co. ₹   90.14 BB Width:   2.4% RSI:  49.6
+STARTECK     Starteck Finance Limited  ₹  298.00 BB Width:   3.2% RSI:  40.9
+ACC          ACC Limited               ₹ 1838.70 BB Width:   3.2% RSI:  46.0
+HDFCBANK     HDFC Bank Limited         ₹  992.45 BB Width:   3.2% RSI:  41.1
+JCHAC        Johnson Controls - Hitach ₹ 1752.30 BB Width:   3.4% RSI:  63.7
+ICICIGI      ICICI Lombard General Ins ₹ 2025.80 BB Width:   3.4% RSI:  56.1
+PIXTRANS     Pix Transmissions Limited ₹ 1448.40 BB Width:   3.4% RSI:  48.1
+BIRLACORPN   Birla Corporation Limited ₹ 1178.40 BB Width:   3.6% RSI:  43.9
+CIEINDIA     CIE Automotive India Limi ₹  424.85 BB Width:   3.7% RSI:  46.7
+FINCABLES    Finolex Cables Limited    ₹  785.15 BB Width:   3.8% RSI:  45.3
+AMBUJACEM    Ambuja Cements Limited    ₹  557.80 BB Width:   4.0% RSI:  44.3
+SANGHIIND    Sanghi Industries Limited ₹   63.86 BB Width:   4.0% RSI:  44.3
+HDBFS        HDB Financial Services Li ₹  744.05 BB Width:   4.1% RSI:  57.0
+HERITGFOOD   Heritage Foods Limited    ₹  477.80 BB Width:   4.1% RSI:  43.7
+
+💰 HIGH MONEY FLOW
+----------------------------------------------------------------------
+Strategy: Strong buying pressure (MFI > 70)
+
+No stocks found matching criteria
+
+================================================================================
+TECHNICAL ANALYSIS COMPLETE
+Key Insights:
+• Breakout stocks may continue upward momentum
+• High ADX stocks show strong directional movement
+• MACD bullish signals indicate potential uptrends
+• Stochastic recovery suggests oversold bounce opportunities
+• High OBV shows institutional buying interest
+• Ichimoku bullish setups provide comprehensive trend confirmation
+• Bollinger squeeze often precedes volatility expansion
+• High MFI indicates strong buying pressure
+⚠️  For educational purposes only. Always conduct thorough research!
+================================================================================

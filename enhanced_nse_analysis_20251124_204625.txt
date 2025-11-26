@@ -1,0 +1,152 @@
+================================================================================
+⚠️ DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY - NOT FINANCIAL ADVICE ⚠️
+This report is for educational and informational purposes only.
+It does not constitute financial advice, investment recommendation, or trading guidance.
+Trading stocks involves substantial risk of loss. Past performance does not guarantee future results.
+Consult a qualified financial advisor before making investment decisions.
+================================================================================
+
+NOTE ON HOW THIS REPORT WORKS:
+This enhanced scan uses multiple technical analysis strategies to highlight stocks:
+- Golden Cross: SMA50 > SMA200 with bullish momentum.
+- Breakout stocks: Price breaking above Bollinger Bands with strength.
+- Trending stocks: Strong directional movement (ADX > 35).
+- MACD bullish: Bullish MACD crossover with positive histogram.
+- Stochastic recovery: Oversold recovery with Stochastic turning up.
+- High volume: Strong volume with positive OBV.
+- Ichimoku bullish: Above Ichimoku cloud with bullish signals.
+These signals are for screening only and do not guarantee future performance.
+Always use additional analysis and risk management.
+================================================================================
+
+ENHANCED NSE TECHNICAL ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-24 20:46:25
+Data Date: 2025-11-24
+
+🥇 GOLDEN CROSS STOCKS
+------------------------------------------------------------
+Description: Golden Cross (SMA50 > SMA200) with bullish momentum
+
+VENUSREM     Venus Remedies Limited         ₹  716.90 RSI:  88.8 SMA50:   470.9
+UNIVCABLES   Universal Cables Limited       ₹  924.55 RSI:  84.9 SMA50:   751.4
+CUPID        Cupid Limited                  ₹  337.19 RSI:  82.4 SMA50:   241.7
+GMRAIRPORT   GMR AIRPORTS LIMITED           ₹  103.76 RSI:  80.3 SMA50:    93.1
+FEDERALBNK   The Federal Bank  Limited      ₹  248.17 RSI:  78.6 SMA50:   221.4
+ESABINDIA    Esab India Limited             ₹ 5700.70 RSI:  78.1 SMA50:  5112.8
+APEX         Apex Frozen Foods Limited      ₹  308.94 RSI:  78.1 SMA50:   248.5
+ASIANPAINT   Asian Paints Limited           ₹ 2879.20 RSI:  77.4 SMA50:  2574.6
+SKMEGGPROD   SKM Egg Products Export (India) Limited ₹  428.00 RSI:  76.0 SMA50:   296.1
+DCBBANK      DCB Bank Limited               ₹  184.94 RSI:  75.8 SMA50:   151.7
+PERSISTENT   Persistent Systems Limited     ₹ 6374.50 RSI:  74.7 SMA50:  5716.9
+LGBBROSLTD   LG Balakrishnan & Bros Limited ₹ 1872.20 RSI:  74.5 SMA50:  1541.6
+SBC          SBC Exports Limited            ₹   26.10 RSI:  74.3 SMA50:    22.9
+SBILIFE      SBI Life Insurance Company Limited ₹ 2014.80 RSI:  74.1 SMA50:  1901.8
+HEROMOTOCO   Hero MotoCorp Limited          ₹ 5982.00 RSI:  73.8 SMA50:  5419.8
+ANURAS       Anupam Rasayan India Limited   ₹ 1190.70 RSI:  73.7 SMA50:  1096.6
+PGIL         Pearl Global Industries Limited ₹ 1726.90 RSI:  73.4 SMA50:  1421.3
+AUBANK       AU Small Finance Bank Limited  ₹  925.10 RSI:  73.4 SMA50:   828.0
+SUNPHARMA    Sun Pharmaceutical Industries Limited ₹ 1780.80 RSI:  73.3 SMA50:  1686.2
+MANOMAY      Manomay Tex India Limited      ₹  235.76 RSI:  73.2 SMA50:   202.0
+
+📈 BREAKOUT STOCKS
+------------------------------------------------------------
+Description: Breaking above Bollinger Bands with strength
+
+SVPGLOB      SVP GLOBAL TEXTILES LIMITED    ₹    3.96 Breakout:  +3.5% RSI:  62.5
+ASAHIINDIA   Asahi India Glass Limited      ₹ 1052.65 Breakout:  +3.0% RSI:  72.9
+DEVX         Dev Accelerator Limited        ₹   47.48 Breakout:  +2.2% RSI:  60.6
+MUTHOOTMF    Muthoot Microfin Limited       ₹  180.90 Breakout:  +2.1% RSI:  67.3
+ACUTAAS      Acutaas Chemicals Limited      ₹ 1872.20 Breakout:  +1.7% RSI:  72.4
+EICHERMOT    Eicher Motors Limited          ₹ 7258.50 Breakout:  +1.7% RSI:  67.2
+JYOTICNC     Jyoti CNC Automation Limited   ₹ 1039.40 Breakout:  +1.6% RSI:  67.2
+SAFARI       Safari Industries (India) Limited ₹ 2382.90 Breakout:  +1.4% RSI:  68.9
+SANSERA      Sansera Engineering Limited    ₹ 1627.70 Breakout:  +1.1% RSI:  72.8
+PERSISTENT   Persistent Systems Limited     ₹ 6374.50 Breakout:  +1.0% RSI:  74.7
+ARVIND       Arvind Limited                 ₹  359.50 Breakout:  +0.8% RSI:  69.4
+HEROMOTOCO   Hero MotoCorp Limited          ₹ 5982.00 Breakout:  +0.8% RSI:  73.8
+INDIAGLYCO   India Glycols Limited          ₹ 1133.60 Breakout:  +0.7% RSI:  72.9
+ASHIANA      Ashiana Housing Limited        ₹  301.85 Breakout:  +0.4% RSI:  61.2
+STEL         Stel Holdings Limited          ₹  485.95 Breakout:  +0.4% RSI:  73.2
+
+🔥 TRENDING STOCKS
+------------------------------------------------------------
+Description: Strong directional movement (ADX > 35)
+
+KESORAMIND   Kesoram Industries Limited     ₹    5.07 ADX:  81.7 DOWN
+ARSSBL       Anand Rathi Share and Stock Brokers Limited ₹  704.45 ADX:  77.2 UP  
+PASHUPATI    Pashupati Cotspin Limited      ₹  811.05 ADX:  74.8 UP  
+RSSOFTWARE   R. S. Software (India) Limited ₹   48.15 ADX:  71.3 DOWN
+NAVKARURB    Navkar Urbanstructure Limited  ₹    1.64 ADX:  70.1 DOWN
+EPACKPEB     EPack Prefab Technologies Limited ₹  304.80 ADX:  68.6 UP  
+ROLEXRINGS   Rolex Rings Limited            ₹  100.44 ADX:  68.2 DOWN
+AMANTA       Amanta Healthcare Limited      ₹  112.50 ADX:  67.9 DOWN
+FLEXITUFF    Flexituff Ventures International Limited ₹   13.74 ADX:  67.6 DOWN
+EUROPRATIK   Euro Pratik Sales Limited      ₹  353.85 ADX:  67.3 UP  
+NAZARA       Nazara Technologies Limited    ₹  256.30 ADX:  66.7 DOWN
+NACLIND      NACL Industries Limited        ₹  180.23 ADX:  66.6 UP  
+SHANKARA     Shankara Building Products Limited ₹  121.57 ADX:  66.5 DOWN
+TFCILTD      Tourism Finance Corporation of India Limited ₹   63.27 ADX:  66.0 DOWN
+HEUBACHIND   Heubach Colorants India Limited ₹  470.20 ADX:  64.1 DOWN
+AGIIL        Agi Infra Limited              ₹  281.00 ADX:  63.2 DOWN
+IFBAGRO      IFB Agro Industries Limited    ₹ 1414.10 ADX:  62.5 UP  
+BORANA       Borana Weaves Limited          ₹  288.56 ADX:  61.8 UP  
+ABINFRA      A B Infrabuild Limited         ₹   18.99 ADX:  61.6 DOWN
+PATANJALI    Patanjali Foods Limited        ₹  569.75 ADX:  61.5 DOWN
+
+🚀 MACD BULLISH
+------------------------------------------------------------
+Description: Bullish MACD crossover with positive histogram
+
+POWERINDIA   Hitachi Energy India Limited   ₹   21542 MACD: 917.33 Hist: 179.79
+JSWHL        JSW Holdings Limited           ₹   18147 MACD: 116.77 Hist: 157.25
+3MINDIA      3M India Limited               ₹   35350 MACD: 1607.92 Hist: 104.72
+VOLTAMP      Voltamp Transformers Limited   ₹ 8188.50 MACD: 299.57 Hist:  93.55
+ESABINDIA    Esab India Limited             ₹ 5700.70 MACD: 147.08 Hist:  80.05
+HEROMOTOCO   Hero MotoCorp Limited          ₹ 5982.00 MACD: 100.52 Hist:  48.73
+APARINDS     Apar Industries Limited        ₹ 8892.50 MACD: 143.28 Hist:  43.98
+ATUL         Atul Limited                   ₹ 5920.50 MACD:  -8.77 Hist:  42.66
+GRWRHITECH   Garware Hi-Tech Films Limited  ₹ 3778.50 MACD: 186.67 Hist:  41.77
+ZFCVINDIA    ZF Commercial Vehicle Control Systems India Limited ₹   12931 MACD: -88.88 Hist:  40.98
+SABTNL       Sri Adhikari Brothers Television Network Limited ₹ 1314.30 MACD:  75.29 Hist:  38.22
+FINEORG      Fine Organic Industries Limited ₹ 4488.60 MACD:  -9.36 Hist:  37.94
+PGIL         Pearl Global Industries Limited ₹ 1726.90 MACD: 108.48 Hist:  35.65
+MUTHOOTFIN   Muthoot Finance Limited        ₹ 3614.40 MACD: 145.20 Hist:  35.26
+DYNAMATECH   Dynamatic Technologies Limited ₹ 8968.00 MACD: 534.77 Hist:  33.92
+
+🔄 STOCHASTIC RECOVERY
+------------------------------------------------------------
+Description: Oversold recovery with Stochastic turning up
+
+AFCONS       Afcons Infrastructure Limited  ₹  401.35 K%:  21.9 D%:   9.2
+DHARMAJ      Dharmaj Crop Guard Limited     ₹  243.85 K%:  24.2 D%:  11.9
+REDTAPE      Redtape Limited                ₹  131.18 K%:  28.1 D%:  15.8
+KAJARIACER   Kajaria Ceramics Limited       ₹ 1090.70 K%:  20.7 D%:   8.6
+SHARDACROP   Sharda Cropchem Limited        ₹  790.80 K%:  23.9 D%:  11.9
+DCMSHRIRAM   DCM Shriram Limited            ₹ 1201.30 K%:  22.3 D%:  10.5
+KANPRPLA     Kanpur Plastipack Limited      ₹  205.38 K%:  24.3 D%:  12.6
+ARTNIRMAN    Art Nirman Limited             ₹   51.99 K%:  25.5 D%:  14.0
+GRINDWELL    Grindwell Norton Limited       ₹ 1582.60 K%:  25.1 D%:  13.6
+PRIMO        Primo Chemicals Limited        ₹   22.30 K%:  23.7 D%:  12.4
+RALLIS       Rallis India Limited           ₹  250.30 K%:  25.6 D%:  14.5
+SHANTI       Shanti Overseas (India) Limited ₹    9.38 K%:  17.9 D%:   7.1
+MAGNUM       Magnum Ventures Limited        ₹   22.58 K%:  29.8 D%:  19.0
+LXCHEM       Laxmi Organic Industries Limited ₹  184.00 K%:  18.3 D%:   7.9
+ANANDRATHI   Anand Rathi Wealth Limited     ₹ 2864.80 K%:  23.5 D%:  13.1
+
+📊 HIGH VOLUME
+------------------------------------------------------------
+Description: Strong volume with positive OBV
+
+No stocks found matching criteria
+
+☁️ ICHIMOKU BULLISH
+------------------------------------------------------------
+Description: Above Ichimoku cloud with bullish signals
+
+No stocks found matching criteria
+
+================================================================================
+ANALYSIS COMPLETE
+⚠️  For educational purposes only. Conduct your own research!
+================================================================================
